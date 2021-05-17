@@ -1,0 +1,2 @@
+(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[249],{12249:(e,t,l)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(l(67294));function n(e){return e&&e.__esModule?e:{default:e}}function u(e){return a.default.createElement("div",null,a.default.createElement("div",null,a.default.createElement("div",null,a.default.createElement("div",{className:"fashion_title fashion_center fashion_border-bottom"},"Contact"))))}n(l(45697)),u.propTypes={},t.default=u}}]);
+//# sourceMappingURL=249.js.map

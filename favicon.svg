@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+	.react{fill: #61dafb; text-shadow: 5px 5px 10px #61dafb; text-anchor: middle}
+	text{font-size: 200px; font-style: italic; font-weight: bolder;}
+  </style>
+
+  <circle cx="100" cy="100" r="100" fill="#44B78B"/>
+  <text class="react" x="100" y="160" >R</text>
+
+</svg>
