@@ -1,0 +1,12 @@
+.AddDiv{color:var(--blue)}.AddDiv:hover{text-decoration:1px solid underline}.AddDiv .IconDiv_left{display:flex;justify-content:center;align-items:center;width:1.5rem;height:1.5rem;border-radius:50%;border:1px solid var(--blue);transform:rotate(45deg)}.AddDiv .IconsArrow_close{stroke:var(--blue)}
+.EditIcons_active circle{animation:waiting_pen 2s infinite}.EditIcons_active circle:nth-child(2){animation-delay:.5s}.EditIcons_active circle:nth-child(3){animation-delay:1s}@keyframes waiting_pen{0%{opacity:0;visibility:visible}100%{opacity:1;visibility:hidden}}
+.PermissionDiv_right{margin-left:.25rem}
+.EditDiv_left{margin-right:.25rem}.EditDiv_right-icon{width:2rem;height:2rem}
+.InputNotValid_text .InputNotValid_placeholder,.InputNotValid_input:focus+.InputNotValid_placeholder{top:0;line-height:12px;padding:0 .25rem;font-size:14px;font-weight:500}.InputNotValid{position:relative}.InputNotValid_placeholder{position:absolute;top:50%;left:10px;transform:translateY(-50%);transition:top 200ms,font-size 200ms;background-color:var(--color-react);font-size:16px;color:var(--md-color-secondary);pointer-events:none}.InputNotValid_input{width:100%;padding:.8rem;background-color:transparent;border:1px solid var(--md-color-secondary)}.InputNotValid_input:focus{border:1px solid var(--blue);outline:none}.InputNotValid_input:focus+.InputNotValid_placeholder{color:var(--blue)}
+.InputNotValidPass{position:relative}.InputNotValidPass_eye{position:absolute;top:50%;right:10px;transform:translateY(-50%)}.InputNotValidPass_eye-contain{padding:0;cursor:pointer}
+.PfAboutConfirm_right_btn{margin:0 5px;padding:8px 12px;border-radius:8px;border:none;cursor:pointer}
+.PfAbEmailEdit_input{margin:1rem 0}
+.PfAboutEmail_current_row_edit{justify-content:flex-end}
+
+
+/*# sourceMappingURL=a59bff3ce8f8a28c1724.min.css.map*/
