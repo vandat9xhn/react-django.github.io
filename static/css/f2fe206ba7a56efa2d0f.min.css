@@ -2,6 +2,6 @@
 .BlurFetchingDiv .BlurFetchingDiv_screen{z-index:54}.BlurFetchingDiv_fetching{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%)}
 .InputText_input{width:100%;padding:.5rem}.InputText_input:focus{outline:none}.InputText_valid{border:2px solid var(--success)}.InputText_invalid{border:2px solid var(--danger)}@media(max-width: 500px){.InputText_input{padding:.35rem}}@media(max-width: 300px){.InputText_input{padding:.25rem}}
 .InputPassword_password{position:relative}.InputPassword_input{width:100%;padding:.5rem}.InputPassword_input:focus{outline:none}.InputPassword_valid{border:2px solid var(--success)}.InputPassword_invalid{border:2px solid var(--danger)}.InputPassword__eye{position:absolute;right:10px;top:50%;transform:translateY(-50%);cursor:pointer}
-.Registration_form{margin-top:1rem;max-width:27rem}.App_submit .ButtonRipple{background-color:var(--green)}.Registration_error{margin-top:1rem;padding:.5rem;border:2px solid var(--danger);background-color:var(--heart-blur)}.Registration_input{margin:1rem 0}
+.Registration_form{margin-top:1rem;max-width:27rem}.App_submit display-flex-center .ButtonRipple{background-color:var(--green)}.Registration_error{margin-top:1rem;padding:.5rem;border:2px solid var(--danger);background-color:var(--heart-blur)}.Registration_input{margin:1rem 0}
 
-/*# sourceMappingURL=a7e092ceb43ee4b6d33e.min.css.map*/
+/*# sourceMappingURL=f2fe206ba7a56efa2d0f.min.css.map*/
