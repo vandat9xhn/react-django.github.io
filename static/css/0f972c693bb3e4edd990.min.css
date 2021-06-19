@@ -4,8 +4,8 @@
 .FashionHR_item{margin:0 .5rem}.FashionHR_cart .IconsMenu{stroke:var(--white)}.FashionHR_cart-count{position:absolute;top:-5px;right:0;width:1rem;line-height:1rem;background-color:red;font-size:12px;color:var(--white)}.FashionHR_personal-icon .IconsAction_add-friend_friend{stroke:#fff;stroke-width:15}.FashionHR_personal-icon .IconsAction_add-friend_plus{stroke:none}
 .fashion_title{font-weight:600;font-size:18px;color:var(--md-color-secondary)}.fashion_padding{padding:.5rem}.fashion_center{text-align:center}.fashion_border-bottom{border-bottom:1px solid var(--md-bg-ccc)}.FashionHCommon{padding:.5rem;background-color:var(--fashion-hover);box-shadow:0 0 6px 1px var(--md-bg-ccc)}.FashionHCommon_left{width:10%}.FashionHCommon_center{width:70%}.FashionHCommon_right{width:20%}@media(max-width: 600px){.FashionHCommon{position:relative}.FashionHCommon_row{display:block}.FashionHCommon_left{width:fit-content;margin-bottom:.5rem}.FashionHCommon_center{width:100%}.FashionHCommon_right{position:absolute;right:.5rem;top:1rem;width:fit-content}}
 .ShopHead_part{margin-bottom:1rem;background-color:var(--md-bg-primary)}
-.Carousel_row{height:100%}.Carousel_transition{transition:transform .5s}.Carousel_transition-none{transition:none}
 .CarouselItem{height:100%}.CarouselItem img{width:100%;height:100%}
+.Carousel_row{height:100%}.Carousel_transition{transition:transform .5s}.Carousel_transition-none{transition:none}
 .ShopBanner_carousel{margin:auto;height:30rem}@media(max-width: 500px){.ShopBanner_carousel{height:25rem}}@media(max-width: 300px){.ShopBanner_carousel{height:20rem}}
 .ShopInfo{padding:1rem}.ShopInfo_title{width:fit-content;border-bottom:1px solid var(--md-bg-ccc)}.ShopInfo_info{margin-left:1rem;white-space:pre-wrap}
 .ShopPersonal{padding:.5rem}.ShopPersonal_row{justify-content:space-around}.ShopPersonal_left{width:25rem;border-radius:5px}.ShopPersonal_right{width:40rem;border-radius:5px}
@@ -19,4 +19,4 @@
 .ShopProducts{max-width:1000px}
 .ShopBody_pagination{margin:1rem 0}
 
-/*# sourceMappingURL=29520f19f7aac4e21bf7.min.css.map*/
+/*# sourceMappingURL=0f972c693bb3e4edd990.min.css.map*/

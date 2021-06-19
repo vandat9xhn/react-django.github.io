@@ -4,8 +4,8 @@
 .AddFriendBtn_row{display:flex;justify-content:space-around}.AddFriendBtn_col{width:45%;border:1px solid var(--md-bg-ccc)}.AddFriendBtn_left .BtnAction{background-color:var(--blue)}
 .AddFriendRequested_reply{position:absolute;top:102%;z-index:1;width:100%;padding:.25rem;background-color:var(--md-bg-primary)}.AddFriendRequested_reply_row{justify-content:space-around}.AddFriendRequested_reply_item{padding:.25rem;cursor:pointer}.AddFriendRequested_reply_item:hover{background-color:var(--bg-through)}
 .AddFriendBody{width:25rem;max-width:100%}.AddFriendBody_item{margin-bottom:1rem;padding:.25rem;background-color:var(--md-bg-primary)}
-.ListRequestFriend_item{padding:.5rem 1rem;cursor:pointer}.ListRequestFriend_item:hover{background-color:var(--bg-blur)}
+
 .AddFriendHead{overflow-x:auto}.AddFriendHead_item{flex-shrink:0}
 @media(max-width: 300px){.AddFriend_contain{padding:.5rem 0}.AddFriendBody_item{padding:.25rem;border-radius:0}}
 
-/*# sourceMappingURL=d1e4a4ecaf90cd3a4ff8.min.css.map*/
+/*# sourceMappingURL=1979d6aff498d128eb28.min.css.map*/
