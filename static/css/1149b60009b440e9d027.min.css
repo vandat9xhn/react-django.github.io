@@ -22,7 +22,7 @@
 .FashionRateBar_bar{flex-grow:1}.FashionRateBar_rate{width:4rem;padding-left:1rem}@media(max-width: 300px){.FashionRateBar_rate{display:none}.FashionRateBar_bar{max-width:calc(100% - 3.5rem)}}
 .FashionRateBody_item{margin:.5rem 0}
 .FashionRateChart{max-width:22rem}.FashionRateChart_head{margin:.5rem 0}.FashionRateChart_avg-num{margin-left:.5rem;font-size:18px}
-.ContentMore_contain{width:100%;line-height:1.5rem;overflow:hidden;white-space:pre-wrap}.ContentMore_first{display:inline-block}.ContentMore_more{display:inline-block;font-weight:500;cursor:pointer}.ContentMore_fetching{width:fit-content;margin:auto}
+.ContentMore{width:100%;line-height:1.5rem;overflow:hidden;white-space:pre-wrap}
 .PaginationItem{margin:.25rem}.PaginationItem_contain{display:flex;justify-content:center;align-items:center;width:2rem;height:2rem;padding:.5rem;background-color:var(--border-fashion);color:#000;user-select:none;cursor:pointer}.PaginationItem_contain:hover{background-color:var(--fashion-hover)}.PaginationItem_contain-active{border:1px solid var(--danger);color:var(--white);font-weight:500}@media(max-width: 350px){.PaginationItem{margin:.1rem}.PaginationItem_contain{width:1.65rem;height:1.65rem;padding:.25rem}}
 .Pagination{width:fit-content;max-width:96%;overflow-x:auto;margin:auto}@media(max-width: 230px){.Pagination_row{flex-wrap:wrap}}
 .CommentInput_contain{background-color:var(--md-bg-fb);border-radius:15px}.CommentInput_input{flex-basis:1rem;flex-grow:1;padding-left:.5rem;overflow:hidden}.CommentInput_textarea{padding:0}.CommentInput_files{align-self:flex-end;padding-right:.25rem}.CommentInput__send{display:none}.CommentInput_preview{max-width:100%;overflow-x:auto}.CommentInput_preview .ImgVidPreview{display:flex}.CommentInput_preview .ImgVidPreview .ImgVidPreview__elm{position:relative;margin:.25rem}@media(max-width: 600px){.CommentInput__send{display:block}}
@@ -33,4 +33,4 @@
 .RowProducts_title{margin-bottom:.5rem}
 
 
-/*# sourceMappingURL=d7445f7443f5c62898b7.min.css.map*/
+/*# sourceMappingURL=1149b60009b440e9d027.min.css.map*/
