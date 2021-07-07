@@ -11,11 +11,11 @@
 .SelectColorBg{width:8rem;user-select:none}.SelectColorBg_btn-item{border:1px solid var(--md-color-secondary)}.SelectColorBg_list{position:absolute;left:0;top:100%;z-index:var(--z-index-lv1);width:100%}
 .InputImage_preview{margin-top:.25rem}@media(max-width: 500px){.InputImage_file svg{width:1rem;height:1rem}}
 .CityForm .ImgVidPreviewItem{position:relative;width:10rem;height:10rem}.CityForm_contain{transform:translateX(0)}.CityForm_field{padding:.5rem}
-.CityUpdate .CityForm_contain{border-radius:0;max-height:calc(100vh - 3rem);overflow-y:auto}
+.CityUpdate .CityForm_contain{border-top-right-radius:0;border-top-left-radius:0}
 .CityHistories_row{padding:0}.CityHistories_item{margin-bottom:1rem;list-style-position:inside}
 .CityItem{position:relative;margin:auto;width:500px;max-width:100%;padding:.5rem}.CityItem_user{width:fit-content}.CityItem_user .SkeletonDiv_div{width:8rem}.CityItem_quote{padding:20px 30px;white-space:pre-wrap}.CityItem_img{margin-top:.5rem}.CityItem_img-contain{height:16rem}.CityItem_img-contain img{max-width:100%;max-height:100%}.CityItem_choices{position:absolute;right:0;top:5px}
 .CityItemSkeleton_head{width:10rem}.CityItemSkeleton_address{margin:1rem 0;width:16rem;max-width:75%}.CityItemSkeleton_quote{margin:auto;width:75%}
 .Cities_item{margin-bottom:1rem}.Cities_add-city{position:fixed;left:0%;bottom:50%;transform:translateX(-50%);height:2.5rem;width:2.5rem;border-radius:50%;background-color:var(--md-bg-primary);box-shadow:0 0 1px 2px 1px var(--md-bg-ccc);transition:transform .3s}.Cities_add-city:hover{transform:translateX(0)}.Cities_add-city::after{content:"+";position:absolute;top:50%;left:50%;transform:translate(-50%, -60%) scale(2)}.Cities_input-report{width:100%;padding:.5rem;overflow-y:scroll;background-color:transparent;resize:none}.Cities_skeleton{margin-top:6.5rem}
 @media(max-width: 400px){.CityItem_img-contain{height:13rem}}@media(max-width: 250px){.CityItem_img-contain{height:11rem}}
 
-/*# sourceMappingURL=5963cb77e0c1fbe28fcc.min.css.map*/
+/*# sourceMappingURL=4f01ec82f57ed9e9d3d4.min.css.map*/
