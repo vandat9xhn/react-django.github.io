@@ -6,5 +6,6 @@
 .SelectColorBgItem{box-shadow:0 0 .5px .25px var(--md-color)}.SelectColorBgItem:hover{font-weight:bold}
 .SelectColorBg{width:8rem;user-select:none}.SelectColorBg_btn-item{border:1px solid var(--md-color-secondary)}.SelectColorBg_list{position:absolute;left:0;top:100%;z-index:var(--z-index-lv1);width:100%}
 .LearnAppearancePosition{width:10rem;margin-left:5rem}.LearnAppearancePosition_hidden{position:absolute;left:50%;z-index:var(--z-index-lv1)}.LearnAppearancePosition_hidden-contain{width:22.5rem;height:25rem;border:1px solid}
+.LearnDnD{position:relative;width:20rem}.LearnDnD_item{width:50%;padding:.5rem;-webkit-user-drag:element;cursor:move;transition:all .25s}.LearnDnD_item img{-webkit-user-drag:none;width:100%;height:10rem}.LearnDnD_item-drag::after{content:"";position:absolute;top:0;left:0;right:0;width:0;z-index:1;background-color:transparent;pointer-events:none}
 
-/*# sourceMappingURL=3cf96e37495b805cad5f.min.css.map*/
+/*# sourceMappingURL=95aba3e76b9562f6e577.min.css.map*/
