@@ -66,7 +66,7 @@
 .ProfilePrFriend_pic-row{justify-content:space-between}.ProfilePrFriend_pic-item{margin-bottom:12px;width:calc(33.3% - 7.3px)}
 .ProfilePrAbout>div{padding:.25rem}
 .ProfilePreview_pic{margin:1rem 0}
-.ProfileHome_left{width:360px;margin-right:1rem}.ProfileHome_left-preview{position:sticky;top:0}.ProfileHome_right{width:500px;max-width:100%}
+.ProfileHome_left{width:360px;margin-right:1rem}.ProfileHome_right{width:500px;max-width:100%}
 @media(max-width: 900px){.ProfileHome_row{display:block}.ProfileHome_left{margin:auto auto 1rem;width:500px;max-width:100%}.ProfileHome_right{margin:auto}.ProfilePrCommon{border-radius:0}}
 
-/*# sourceMappingURL=d622b86cdce324f4fb2f.min.css.map*/
+/*# sourceMappingURL=3f07880600bb708cf811.min.css.map*/
