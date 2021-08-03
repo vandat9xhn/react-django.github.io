@@ -12,12 +12,20 @@
 .StoryText{position:absolute}.StoryText_item{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical}
 .StoryStep_item{padding:0 2px}.StoryStep_item-contain{height:4px;border-radius:10px}
 .StoryItem{border-radius:10px;overflow:hidden}.StoryItem_head{position:absolute;top:0;left:0;z-index:2;width:100%}.StoryItem_user a{color:var(--white)}.StoryItem_step{margin:.5rem}.StoryItem_close{position:absolute;top:22px;right:0;z-index:2}.StoryItem_close-contain{width:1.5rem;height:1.5rem;background-color:var(--shadow-2)}.StoryItem_control{z-index:1}
-.ScreenStoryItemMobile_item{margin:0 auto;width:20rem;height:30rem;max-width:100%;max-height:100%}@media(max-width: 350px){.ScreenStoryItemMobile_item{width:100%;height:100%}.ScreenStoryItemMobile_item .StoryItem{border-radius:0}}
+.StoryViewerList_hide{position:absolute;right:0;top:0;z-index:1}.StoryViewerList_hide .IconsArrow_close{stroke:var(--bg-ccc)}
+.ScreenStoryItem_wh{width:20rem;height:30rem;max-width:100%;max-height:100%}.ScreenStoryItem_item{margin:0 auto}.ScreenStoryItem_viewer_list{z-index:2}.ScreenStoryItem_bottom{position:absolute;bottom:0;left:0;z-index:1}@media(max-width: 350px){.ScreenStoryItem_wh{width:100%;height:100%}.StoryItem{border-radius:0}.StoryViewerList{border-radius:0}}
+@media(max-width: 350px){.ScreenStoryItemMobile{padding:0}}
 .StoryFaceUserPic_contain{padding:10px}.StoryFaceUserPic_border-new{border:4px solid var(--blue)}.StoryFaceUserPic_border-old{border:4px solid var(--white)}
 .StoryFaceName_contain{padding:8px;max-width:100%}.StoryFaceName_item{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;word-wrap:break-word}
-.StoryFace:hover .StoryFace_img{transform:scale(1.025)}.StoryFace:hover .story-bg-hv{display:block}.StoryFace_pic{position:absolute;left:0;top:0}.StoryFace_name{position:absolute;bottom:0;left:0;z-index:2;width:100%}.StoryFace_count_new{position:absolute;right:0;top:0}.StoryFace_count_new .BadgeDiv{width:1.5rem;height:1.5rem;background-color:var(--blue);font-size:14px}
+.StoryFace:hover .StoryFace_img{transform:scale(1.025)}.StoryFace:hover .story-bg-hv{display:block}.StoryFace_pic{position:absolute;left:0;top:0}.StoryFace_name{position:absolute;bottom:0;left:0;z-index:2;width:100%}.StoryFace_count_new{position:absolute;right:5px;top:5px}.StoryFace_count_new .BadgeDiv{width:1.75rem;height:1.75rem;background-color:var(--blue);font-size:14px}
 .StoryMenuMobile_item{width:110px;height:175px;padding:4px}.StoryMenuMobile_skeleton{height:350px}
-.ScreenStoryMenuMobile_create{width:12.5rem;max-width:100%}.ScreenStoryMenuMobile_item{margin:1rem 0}
+.ScreenStoryMenuMobile_create{width:12.5rem;max-width:100%}.ScreenStoryMenuMobile_item{padding:1rem 0}
 
+.StoryFollowedPc_not_fetched{height:200px}
+.StoryCreatePc{border-bottom:1px solid var(--md-bg-ccc)}.StoryCreatePc_left{margin-right:.5rem}.StoryCreatePc_left-contain{width:3rem;height:3rem;transform:rotate(45deg)}.StoryCreatePc_left-contain .IconsArrow_close{stroke:var(--blue)}
+.StoryMenuPcAction_close{margin-right:.5rem}.StoryMenuPcAction_close .IconsArrow_close{stroke:var(--danger)}.StoryMenuPcAction_toggle-contain{width:1.5rem;height:1.5rem}.StoryMenuPcAction_toggle-contain .IconsArrow_back-top{fill:var(--blue)}.StoryMenuPcAction_toggle-contain-show{transform:rotate(-90deg) scale(1.25, 0.9)}.StoryMenuPcAction_toggle-contain-hide{transform:rotate(90deg) scale(1.25, 0.9)}
+.ScreenStoryMenuPc_action{position:absolute;top:.5rem;z-index:1}.ScreenStoryMenuPc_action-show{right:1rem}.ScreenStoryMenuPc_action-hide{right:auto;left:100%}.ScreenStoryMenuPc{transition:all 250ms}.ScreenStoryMenuPc_show{transform:translateX(0);overflow-y:auto}.ScreenStoryMenuPc_hide{transform:translateX(-100%);overflow-y:hidden}.ScreenStoryMenuPc_head{margin:0 0 1rem 0}
+.ScreenStoryItemPc_contain{width:30rem;max-width:100%}.ScreenStoryItemPc_contain .NextPrevDiv_icon_circle{width:2.5rem;height:2.5rem}
+.ScreenStoryPc-has_head{height:calc(100vh - var(--height-header));margin-top:calc(var(--height-header))}.ScreenStoryPc_left{flex-shrink:0;transition:all 250ms;z-index:1}.ScreenStoryPc_left-show{width:350px}.ScreenStoryPc_left-hide{width:0}.ScreenStoryPc_close{position:fixed;right:0;top:0;z-index:1}@media(max-width: 700px){.ScreenStoryPc_left{display:none}.ScreenStoryPc_close{display:block}}
 
-/*# sourceMappingURL=d9493a932ef1a6fae178.min.css.map*/
+/*# sourceMappingURL=df8552f7d9695cb8463a.min.css.map*/

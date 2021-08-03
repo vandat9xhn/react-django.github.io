@@ -1,2 +1,0 @@
-(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[4910],{68635:(e,n,o)=>{"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=o(67294),t=(c(u),c(o(45697)),o(15130)),r=o(422);function c(e){return e&&e.__esModule?e:{default:e}}function p(e){var n=(0,u.useContext)(t.context_api).openScreenFloor;return(0,u.useEffect)((function(){(0,r.openScreenStoryMenuMobile)({openScreenFloor:n})}),[]),null}p.propTypes={},n.default=p}}]);
-//# sourceMappingURL=4910.js.map
