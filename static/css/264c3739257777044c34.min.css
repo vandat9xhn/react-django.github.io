@@ -80,6 +80,6 @@
 .StoryHomePc-has_head{height:calc(100vh - var(--height-header));margin-top:calc(var(--height-header))}.StoryHomePc_left{flex-shrink:0;transition:all 250ms;z-index:1}.StoryHomePc_left-show{width:350px}.StoryHomePc_left-hide{width:0}.StoryHomePc_close{position:fixed;right:0;top:0;z-index:1}@media(max-width: 700px){.StoryHomePc_left{display:none}.StoryHomePc_close{display:block}}
 .Learn_StoryCreateTextChoice{width:200px;height:300px;border-radius:10px;overflow:hidden}
 .LearnResizeRotate{height:200px;user-select:none}.LearnResizeRotate_transform{cursor:move}.LearnResizeRotate_resize{cursor:nw-resize;width:20px;height:20px;z-index:1}.LearnResizeRotate_resize_contain{width:8px;height:8px}.LearnResizeRotate_rotate_contain{cursor:pointer}
-.LearnTouches{height:400px}
+.LearnTouches{width:100%;min-height:400px;overflow:hidden}
 
-/*# sourceMappingURL=c3c386d25917df6736a3.min.css.map*/
+/*# sourceMappingURL=264c3739257777044c34.min.css.map*/
