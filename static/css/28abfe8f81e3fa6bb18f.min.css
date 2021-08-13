@@ -1,0 +1,14 @@
+.RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:45%;height:45%;background-color:var(--white)}
+.ScreenPermissionItem{padding:.5rem}.ScreenPermissionItem_active{background-color:var(--md-bg-active-fb)}.ScreenPermissionItem_right{margin-left:.5rem}.ScreenPermissionItem_right_icon{margin-right:.25rem}
+.ScreenPermission .IconsAction_add-friend_plus{stroke:none}
+.StoryCreateChoice:hover{opacity:.8}.StoryCreateChoice_icon{width:44px;height:44px}@media(max-width: 400px){.StoryCreateChoice_icon{width:30px;height:30px}.StoryCreateTextChoice_title{font-size:14px}.IconsInput{width:1rem;height:1rem}}
+.StoryCreateTextChoice{background-image:linear-gradient(to bottom, #9E44CE, #DC4F77)}
+.StoryCreatePicChoice{background-image:linear-gradient(to left, #84cef2, transparent 80%),linear-gradient(to top, #84cef2, #5e45e1, transparent),linear-gradient(135deg, #5e45e1, #84cef2)}.StoryCreatePicChoice .InputFile{width:100%;height:100%}.StoryCreatePicChoice .InputFile .InputFile_face-contain{border-radius:0}.StoryCreatePicChoice .InputFile .InputFile_face-contain:hover{background-color:transparent}
+.StoryCHHeadMb_item{width:33.33%;padding-top:calc(33.33% / 0.6)}
+.BgImgItem{transition:all 100ms ease-in}.BgImgItem-active{border:3px solid var(--blue);transform:scale(1.15)}.BgImgItem-inactive{transform:scale(1)}
+.BgImgList_item{margin:.5rem;width:28px;height:28px}
+.StoryCTFootMb_bg{margin-bottom:5px}.StoryCTFootMb_bg .BgImgList{width:100%;overflow:auto;scroll-snap-type:x mandatory}.StoryCTFootMb_bg .BgImgList::-webkit-scrollbar{display:none}.StoryCTFootMb_bg .BgImgList_row{flex-wrap:nowrap;justify-content:flex-start}.StoryCTFootMb_bg .BgImgList_item{scroll-snap-align:start end;flex-shrink:0;margin:2px}.StoryCTFootMb_bg .BgImgItem{width:25px;height:25px;border-radius:0}
+.StoryCTInputMb_textarea{max-height:100%;overflow-x:hidden}
+.StoryCreateTextMb_input{width:80%;height:calc(100% - 205px)}
+
+/*# sourceMappingURL=28abfe8f81e3fa6bb18f.min.css.map*/

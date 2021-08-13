@@ -1,0 +1,6 @@
+.AboutLeft_item{margin:4px 0}
+.AboutRight_fallback{min-height:16rem;max-height:100%}
+.ProfileAbout{margin:0 auto 1.5rem;max-width:100%}.ProfileAbout_left{width:400px;max-width:100%;border-right:2px solid var(--md-bg-ccc)}.ProfileAbout_right{width:600px;max-width:100%}.ProfileAbout_right .InputNotValid_placeholder{background-color:var(--md-bg-primary)}@media(max-width: 1000px){.ProfileAbout_row{display:block}.ProfileAbout_left{margin:auto;width:600px;border-left:none;border-bottom:2px solid var(--md-bg-ccc)}.ProfileAbout_right{margin:auto;min-height:15rem}}
+.PfAbout_part:not(:last-child){padding-bottom:2rem}.PfAbout_title{margin:0 0 20px 0}.PfAbout_add:not(:last-child){margin-bottom:1.5rem}.PfAbout_input:not(:last-child){margin-bottom:1rem}.PfAbout_edit{margin-top:1rem}
+
+/*# sourceMappingURL=8f90669a5d908dd47716.min.css.map*/

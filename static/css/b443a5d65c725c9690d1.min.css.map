@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://my_webpack/./src/pages/user_profile/user_pages/photo/_main/ProfilePhoto.scss"],"names":[],"mappings":"AACA,cACI,qBACA,YACA,e","file":"static/css/b443a5d65c725c9690d1.min.css","sourcesContent":["\r\n.ProfilePhoto{\r\n    margin: 0 auto 1.5rem;\r\n    width: 900px;\r\n    max-width: 100%;\r\n}\r\n\r\n"],"sourceRoot":""}
