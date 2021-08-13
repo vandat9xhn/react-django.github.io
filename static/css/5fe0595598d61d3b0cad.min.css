@@ -78,13 +78,18 @@
 .StoryMenuPc_action{position:absolute;top:.5rem;z-index:1}.StoryMenuPc_action-show{right:1rem}.StoryMenuPc_action-hide{right:auto;left:100%}.StoryMenuPc{transition:all 250ms}.StoryMenuPc_show{transform:translateX(0);overflow-y:auto}.StoryMenuPc_hide{transform:translateX(-100%);overflow-y:hidden}.StoryMenuPc_head{margin:0 0 1rem 0}
 .StoryItemPc{padding-top:.5rem}
 .StoryHomePc-has_head{height:calc(100vh - var(--height-header));margin-top:calc(var(--height-header))}.StoryHomePc_left{flex-shrink:0;transition:all 250ms;z-index:1}.StoryHomePc_left-show{width:350px}.StoryHomePc_left-hide{width:0}.StoryHomePc_close{position:fixed;right:0;top:0;z-index:1}@media(max-width: 700px){.StoryHomePc_left{display:none}.StoryHomePc_close{display:block}}
-.StoryCHHeadMb_item{width:33.33%;padding-top:calc(33.33% / 0.6)}
+.StoryCHHeadMb_item{width:33.33%;padding-top:44%}
 .StoryCTFootMb_bg{margin-bottom:5px}.StoryCTFootMb_bg .BgImgList{width:100%;overflow:auto;scroll-snap-type:x mandatory}.StoryCTFootMb_bg .BgImgList::-webkit-scrollbar{display:none}.StoryCTFootMb_bg .BgImgList_row{flex-wrap:nowrap;justify-content:flex-start}.StoryCTFootMb_bg .BgImgList_item{scroll-snap-align:start end;flex-shrink:0;margin:2px}.StoryCTFootMb_bg .BgImgItem{width:25px;height:25px;border-radius:0}
 .StoryCTInputMb_textarea{max-height:100%;overflow-x:hidden}
 .StoryCreateTextMb_input{width:80%;height:calc(100% - 205px)}
+.StoryCPActionsMb_part{padding:0 5px;margin-bottom:.5rem}.StoryCPActionsMb_part_right{margin-left:10px}
+.StoryCPAddTextMb{max-height:80%;overflow-x:hidden}
+.PicEffectItem{flex-shrink:0;width:75px;height:75px;transition:all 100ms ease-in}.PicEffectItem-active{border:3px solid var(--blue);transform:scale(1.15)}
+.StoryCPTagFriendItemMb{max-width:10rem}.StoryCPTagFriendItemMb:hover .StoryCPTagFriendItemMb_close{display:block}.StoryCPTagFriendItemMb_close_contain{width:1.5rem;height:1.5rem}.StoryCPTagFriendItemMb_close_contain .IconsArrow_close{stroke:var(--md-color-secondary)}
+.StoryCPAddTagFriendMb_body{max-height:calc(100% - 4rem)}
 .Learn_StoryCreateTextChoice{width:200px;height:300px;border-radius:10px;overflow:hidden}
 .LearnResizeRotate{height:200px;user-select:none}.LearnResizeRotate_transform{cursor:move}.LearnResizeRotate_resize{cursor:nw-resize;width:20px;height:20px;z-index:1}.LearnResizeRotate_resize_contain{width:8px;height:8px}.LearnResizeRotate_rotate_contain{cursor:pointer}
 .LearnTouches{width:100%;min-height:400px;overflow:hidden}
 .LearnSaveScroll_contain{height:200px}.LearnSaveScroll_child{height:500px}
 
-/*# sourceMappingURL=177abe5922bc0e7e5bcf.min.css.map*/
+/*# sourceMappingURL=5fe0595598d61d3b0cad.min.css.map*/
