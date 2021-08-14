@@ -19,6 +19,6 @@
 .StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_head:focus{outline:none;border-bottom:1px solid var(--blue)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 5rem)}
 .StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
 .StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
-.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_share_contain{padding:8px 4px}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
+.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
 
-/*# sourceMappingURL=d869252bc8c1bc713459.min.css.map*/
+/*# sourceMappingURL=600854a20af17a4a4674.min.css.map*/

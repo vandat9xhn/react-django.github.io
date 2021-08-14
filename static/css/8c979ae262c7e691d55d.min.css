@@ -45,7 +45,7 @@
 .StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_head:focus{outline:none;border-bottom:1px solid var(--blue)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 5rem)}
 .StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
 .StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
-.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_share_contain{padding:8px 4px}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
+.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
 .StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, #9900ff, purple)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
 .screen-story-menu-mobile{padding:1rem 0}
 .StoryMenuPartPc_not_fetched{height:50px}
@@ -156,4 +156,4 @@
 .NewFeed_contain{padding:0 .5rem}.NewFeed_col-left{flex-shrink:0;margin-right:.5rem;width:300px}.NewFeed_col-center{width:500px}.NewFeed_col-right{flex-shrink:0;margin-left:.5rem;width:300px}
 @media(max-width: 1300px){.NewFeed_col-left,.NewFeed_col-right{width:250px}}@media(max-width: 1100px){.NewFeed_col-right{width:280px}.NewFeed_col-left{display:none}}@media(max-width: 850px){.NewFeed_row{justify-content:center}.NewFeed_col-right{display:none}}@media(max-width: 500px){.NewFeed_col-center{width:96%}}@media(max-width: 400px){.NewFeed_contain{padding:0}.NewFeed_col-center{width:100%}}
 
-/*# sourceMappingURL=a38332975114865960a3.min.css.map*/
+/*# sourceMappingURL=8c979ae262c7e691d55d.min.css.map*/
