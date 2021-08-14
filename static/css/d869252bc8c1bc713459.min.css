@@ -10,11 +10,15 @@
 .StoryCTFootMb_bg{margin-bottom:5px}.StoryCTFootMb_bg .BgImgList{width:100%;overflow:auto;scroll-snap-type:x mandatory}.StoryCTFootMb_bg .BgImgList::-webkit-scrollbar{display:none}.StoryCTFootMb_bg .BgImgList_row{flex-wrap:nowrap;justify-content:flex-start}.StoryCTFootMb_bg .BgImgList_item{flex-shrink:0;scroll-snap-align:start end}.StoryCTFootMb_bg .BgImgItem{width:35px;height:35px;border-radius:0}
 .StoryCTInputMb_textarea{max-height:100%;overflow-x:hidden}
 .StoryCreateTextMb_input{width:80%;height:calc(100% - 205px)}
+.StoryCPPicMb_img{width:100vw;max-height:100vh}
 @media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
 .StoryCPActionsMb_part{padding:0 5px;margin-bottom:.5rem}.StoryCPActionsMb_part_right{margin-left:10px}
 .StoryCPAddTextMb{max-height:80%;overflow-x:hidden}
 .PicEffectItem{flex-shrink:0;width:75px;height:75px;transition:all 100ms ease-in}.PicEffectItem-active{border:3px solid var(--blue);transform:scale(1.15)}
 .StoryCPTagFriendItemMb{max-width:10rem}.StoryCPTagFriendItemMb:hover .StoryCPTagFriendItemMb_close{display:block}.StoryCPTagFriendItemMb_close_contain{width:1.5rem;height:1.5rem}.StoryCPTagFriendItemMb_close_contain .IconsArrow_close{stroke:var(--md-color-secondary)}
-.StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 4rem)}
+.StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_head:focus{outline:none;border-bottom:1px solid var(--blue)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 5rem)}
+.StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
+.StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
+.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_share_contain{padding:8px 4px}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
 
-/*# sourceMappingURL=af62d994c64682f1b7d5.min.css.map*/
+/*# sourceMappingURL=d869252bc8c1bc713459.min.css.map*/
