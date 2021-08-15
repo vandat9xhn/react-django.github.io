@@ -1,0 +1,9 @@
+.FashionHL_icon{position:relative}.FashionHL_icon::after{content:"S";position:absolute;top:-10px;right:0;font-size:20px;font-weight:600;color:var(--danger)}
+.InputSearch_input{padding-left:10px;background-color:transparent;border:none}.InputSearch_input:focus{outline:none}.InputSearch_key{width:60px;height:34px;background-color:#fb6445}.InputSearch_key .IconsInput_key{stroke:var(--white)}
+
+.FashionHR_item{margin:0 .5rem}.FashionHR_cart .IconsMenu{stroke:var(--white)}.FashionHR_cart-count{position:absolute;top:-5px;right:0;width:1rem;line-height:1rem;background-color:red;font-size:12px;color:var(--white)}.FashionHR_personal-icon .IconsAction_add-friend_friend{stroke:#fff;stroke-width:15}.FashionHR_personal-icon .IconsAction_add-friend_plus{stroke:none}
+.FashionHCommon_contain{width:1250px;max-width:100%}.FashionHCommon_side{width:200px}@media(max-width: 1000px){.FashionHCommon_side{width:150px}}@media(max-width: 750px){.FashionHCommon{position:relative}.FashionHCommon_row{display:block}.FashionHCommon_left{width:fit-content;margin-bottom:.5rem}.FashionHCommon_center{width:100%}.FashionHCommon_right{position:absolute;right:.5rem;top:1rem;width:fit-content}}
+.FashionLN_list{display:flex;flex-wrap:wrap;justify-content:center}.FashionLN_item{margin:.5rem}.FashionLN_title{padding:.5rem;background-color:var(--white-blur)}.FashionLN_title:hover{background-color:var(--white)}
+.FashionOnWork_row{display:flex;align-items:center;justify-content:center;height:80vh}
+
+/*# sourceMappingURL=93592deaad1d083c40c8.min.css.map*/
