@@ -1,7 +1,7 @@
 .CarouselItem{height:100%}.CarouselItem img{width:100%;height:100%}
 
 .CarouselDot_item_contain{width:10px;height:10px}
-.FashionBC{user-select:none}.FashionBC_carousel{width:66%}.FashionBC_carousel_contain{padding-top:33%}.FashionBC_right{width:33%}.FashionBC_right_contain{padding-top:66%}@media(max-width: 1000px){.FashionBC_carousel{width:100%}.FashionBC_right{display:none}}
+.FashionBC{user-select:none}.FashionBC_carousel{width:66%}.FashionBC_carousel:hover .BtnNexPrev{opacity:1;transition:all 200ms ease-in}.FashionBC_carousel .BtnNexPrev{opacity:0;height:60px;width:35px;background:#00000052}.FashionBC_carousel .IconsArrow{width:1.25rem;height:1.25rem}.FashionBC_carousel .IconsArrow_next,.FashionBC_carousel .IconsArrow_prev{stroke:var(--white);stroke-width:30}.FashionBC_carousel_contain{padding-top:33%}.FashionBC_right{width:33%}.FashionBC_right_contain{padding-top:66%}@media(max-width: 1000px){.FashionBC_carousel{width:100%}.FashionBC_right{display:none}}
 .FashionBCR_part{height:49%}
 .FashionHL_icon{position:relative}.FashionHL_icon::after{content:"S";position:absolute;top:-10px;right:0;font-size:20px;font-weight:600;color:var(--danger)}
 .InputSearch_input{padding-left:10px;background-color:transparent;border:none}.InputSearch_input:focus{outline:none}.InputSearch_key{width:60px;height:34px;background-color:#fb6445}.InputSearch_key .IconsInput_key{stroke:var(--white)}
@@ -13,14 +13,17 @@
 
 .StarRate{position:relative}.StarRate_rate{position:absolute;top:0;overflow:hidden}
 .FashionFaceItemFoot_name{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}.FashionFaceItemFoot_tag_item{border:1px solid var(--fashion-head)}.FashionFaceItemFoot_heart .IconHeart{width:1rem;height:1rem}.FashionFaceItemFoot_heart .IconHeart_face{fill:none}.FashionFaceItemFoot_heart .IconHeart_heart{fill:var(--md-bg-blur)}
-.FashionFaceItem{width:188px;max-width:100%;transition:all 150ms ease-in}.FashionFaceItem:hover{bottom:1px}.FashionFaceItem:hover .FashionFaceItem_contain{border:1px solid var(--border-fashion);box-shadow:var(--box-shadow-fb)}.FashionFaceItem:hover .FashionFaceItem_same{display:block}.FashionFaceItem_contain{border:1px solid transparent;border-radius:2.5px;transition:all 150ms ease-in}.FashionFaceItem_head{padding-top:100%}.FashionFaceItem_same_contain{border-bottom-left-radius:2.5px;border-bottom-right-radius:2.5px}
+.FashionFaceItem-pc{transition:all 150ms ease-in}.FashionFaceItem-pc:hover{bottom:1px}.FashionFaceItem-pc:hover .FashionFaceItem_contain{border:1px solid var(--border-fashion);box-shadow:var(--box-shadow-fb)}.FashionFaceItem-pc:hover .FashionFaceItem_same{display:block}.FashionFaceItem_contain{border:1px solid transparent;border-radius:2.5px;transition:all 150ms ease-in}.FashionFaceItem_head{padding-top:100%}.FashionFaceItem_same_contain{border-bottom-left-radius:2.5px;border-bottom-right-radius:2.5px}
 
-.FashionBody_title{margin-bottom:.5rem}@media(max-width: 400px){.Fashion_item{width:50%}}
+.FashionBody_title{margin-bottom:.25rem}.FashionBody_title_item-active{border-bottom:2px solid var(--fashion-head)}.FashionBody_item{width:198px}@media(max-width: 400px){.FashionBody_item{width:50%}}
 .FashionSellingProduct{padding:1rem}.FashionSellingProduct_bd{width:10rem;height:10rem;background-repeat:no-repeat;background-size:contain;background-position:center}@media(max-width: 400px){.FashionSellingProduct_bd{width:8rem;height:8rem}}
-.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_title{padding:1rem}.FashionHomeSelling_item{margin:0 2px}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
+.FashionHomeSelling_not_fetched{height:250px}.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_title{padding:1rem}.FashionHomeSelling_item{margin:0 2px}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
 .FashionApplication_item{flex-shrink:0;width:100px;max-width:150px}
 .Fashion{font-family:Helvetica,Arial,sans-serif}.Fashion_banner{padding:1rem 0}@media(max-width: 300px){.Fashion_body{margin:0 .25rem}}
 .FashionCtgItem_contain{border:1px solid var(--md-bg-blur)}.FashionCtgItem_contain:hover{box-shadow:var(--box-shadow-action)}.FashionCtgItem_head{height:1rem}.FashionCtgItem_head_img{width:70%;height:70%}.FashionCtgItem_foot{flex-shrink:0;height:3.25rem}
 .FashionCtg .BtnNexPrev{box-shadow:var(--box-shadow-fb)}.FashionCtg:hover .NextPrevDiv_icon_circle{transform:scale(1.75)}.FashionCtg_contain{height:300px;overflow-y:hidden}.FashionCtg_item{width:120px;height:50%}
+.FashionHomeFlashSale_not_fetched{height:250px}.FashionHomeFlashSale_head{padding:1rem;border-bottom:1px solid rgba(0,0,0,.05)}.FashionHomeFlashSale_title{width:135px;height:30px;background-repeat:no-repeat;background-size:100%}.FashionHomeFlashSale_item{flex-shrink:0;width:200px;padding:2px}@media(max-width: 500px){.FashionHomeFlashSale_item{width:150px}.FashionFlashSaleItem{padding:0}.FashionFlashSaleItem_foot_price{font-size:18px}}
+.FashionFlashSaleBar_bg_contain{background-color:#ffbda6}.FashionFlashSaleBar_bg_sold{background-size:100%;background-position:0%;background-repeat:no-repeat;object-fit:cover}
+.FashionFlashSaleItem_head{width:100%;padding-top:100%}
 
-/*# sourceMappingURL=e7cd9ec2c7bbbfff0aef.min.css.map*/
+/*# sourceMappingURL=3d272f9c1caf7bc78108.min.css.map*/
