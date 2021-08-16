@@ -1,0 +1,26 @@
+.CarouselItem{height:100%}.CarouselItem img{width:100%;height:100%}
+
+.CarouselDot_item_contain{width:10px;height:10px}
+.FashionBC{user-select:none}.FashionBC_carousel{width:66%}.FashionBC_carousel_contain{padding-top:33%}.FashionBC_right{width:33%}.FashionBC_right_contain{padding-top:66%}@media(max-width: 1000px){.FashionBC_carousel{width:100%}.FashionBC_right{display:none}}
+.FashionBCR_part{height:49%}
+.FashionHL_icon{position:relative}.FashionHL_icon::after{content:"S";position:absolute;top:-10px;right:0;font-size:20px;font-weight:600;color:var(--danger)}
+.InputSearch_input{padding-left:10px;background-color:transparent;border:none}.InputSearch_input:focus{outline:none}.InputSearch_key{width:60px;height:34px;background-color:#fb6445}.InputSearch_key .IconsInput_key{stroke:var(--white)}
+
+.FashionHR_item{margin:0 .5rem}.FashionHR_cart .IconsMenu{stroke:var(--white)}.FashionHR_cart-count{position:absolute;top:-5px;right:0;width:1rem;line-height:1rem;background-color:red;font-size:12px;color:var(--white)}.FashionHR_personal-icon .IconsAction_add-friend_friend{stroke:#fff;stroke-width:15}.FashionHR_personal-icon .IconsAction_add-friend_plus{stroke:none}
+.FashionHCommon_contain{width:1250px;max-width:100%}.FashionHCommon_side{width:200px}@media(max-width: 1000px){.FashionHCommon_side{width:150px}}@media(max-width: 750px){.FashionHCommon{position:relative}.FashionHCommon_row{display:block}.FashionHCommon_left{width:fit-content;margin-bottom:.5rem}.FashionHCommon_center{width:100%}.FashionHCommon_right{position:absolute;right:.5rem;top:1rem;width:fit-content}}
+.ButtonRipple{position:relative;height:2.5rem;background-color:var(--blue);border-radius:5px;overflow:hidden;color:#f5f5f5}.ButtonRipple:hover{opacity:.8}.ButtonRipple:focus{outline:none}.ButtonRipple:active .ButtonRipple_common{opacity:1;transition:0s}.ButtonRipple:active .ButtonRipple_center{transform:translate(-50%, -50%) scale(0)}.ButtonRipple:active .ButtonRipple_right,.ButtonRipple:active .ButtonRipple_left{width:0%}.ButtonRipple .ButtonRipple_common{position:absolute;width:120%;height:100%;background-color:#fff;border-radius:5px;opacity:0;transition:all .3s}.ButtonRipple .ButtonRipple_right{top:0;left:0}.ButtonRipple .ButtonRipple_left{top:0;right:0}.ButtonRipple .ButtonRipple_center{top:50%;left:50%;transform:translate(-50%, -50%) scale(1)}
+.DiscountSymbol{width:36px;padding:0 0 4px;background-color:gold;line-height:14px}.DiscountSymbol::after{content:"";position:absolute;left:0;top:100%;border-width:0 18px 4px;border-style:solid;border-color:transparent gold}
+
+.StarRate{position:relative}.StarRate_rate{position:absolute;top:0;overflow:hidden}
+.FashionFaceItemFoot_name{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}.FashionFaceItemFoot_tag_item{border:1px solid var(--fashion-head)}.FashionFaceItemFoot_heart .IconHeart{width:1rem;height:1rem}.FashionFaceItemFoot_heart .IconHeart_face{fill:none}.FashionFaceItemFoot_heart .IconHeart_heart{fill:var(--md-bg-blur)}
+.FashionFaceItem{width:188px;max-width:100%;transition:all 150ms ease-in}.FashionFaceItem:hover{bottom:1px}.FashionFaceItem:hover .FashionFaceItem_contain{border:1px solid var(--border-fashion);box-shadow:var(--box-shadow-fb)}.FashionFaceItem:hover .FashionFaceItem_same{display:block}.FashionFaceItem_contain{border:1px solid transparent;border-radius:2.5px;transition:all 150ms ease-in}.FashionFaceItem_head{padding-top:100%}.FashionFaceItem_same_contain{border-bottom-left-radius:2.5px;border-bottom-right-radius:2.5px}
+
+.FashionBody_title{margin-bottom:.5rem}@media(max-width: 400px){.Fashion_item{width:50%}}
+.FashionSellingProduct{padding:1rem}.FashionSellingProduct_bd{width:10rem;height:10rem;background-repeat:no-repeat;background-size:contain;background-position:center}@media(max-width: 400px){.FashionSellingProduct_bd{width:8rem;height:8rem}}
+.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_title{padding:1rem}.FashionHomeSelling_item{margin:0 2px}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
+.FashionApplication_item{flex-shrink:0;width:100px;max-width:150px}
+.Fashion{font-family:Helvetica,Arial,sans-serif}.Fashion_banner{padding:1rem 0}@media(max-width: 300px){.Fashion_body{margin:0 .25rem}}
+.FashionCtgItem_contain{border:1px solid var(--md-bg-blur)}.FashionCtgItem_contain:hover{box-shadow:var(--box-shadow-action)}.FashionCtgItem_head{height:1rem}.FashionCtgItem_head_img{width:70%;height:70%}.FashionCtgItem_foot{flex-shrink:0;height:3.25rem}
+.FashionCtg .BtnNexPrev{box-shadow:var(--box-shadow-fb)}.FashionCtg:hover .NextPrevDiv_icon_circle{transform:scale(1.75)}.FashionCtg_contain{height:300px;overflow-y:hidden}.FashionCtg_item{width:120px;height:50%}
+
+/*# sourceMappingURL=e7cd9ec2c7bbbfff0aef.min.css.map*/

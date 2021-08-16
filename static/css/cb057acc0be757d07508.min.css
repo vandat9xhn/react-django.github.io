@@ -1,0 +1,43 @@
+.story-create-left{flex-shrink:0;width:360px;background-color:var(--md-bg-primary);box-shadow:1px 0 2px 1px var(--shadow-1)}
+.RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:45%;height:45%;background-color:var(--white)}
+.ScreenPermissionItem{padding:.5rem}.ScreenPermissionItem_active{background-color:var(--md-bg-active-fb)}.ScreenPermissionItem_right{margin-left:.5rem}.ScreenPermissionItem_right_icon{margin-right:.25rem}
+.ScreenPermission .IconsAction_add-friend_plus{stroke:none}
+.FavTitle_close_icon{width:2.5rem;height:2.5rem;background-color:var(--bg-loader-hover)}
+.StoryLeftPcCommonTitleC{font-weight:700;padding:20px 0}.StoryLeftPcCommonTitleC_setting_contain{width:2.25rem;height:2.25rem}
+.StoryLeftPcCommonBtnC_col{width:45%;height:36px}
+.StoryLeftCommonPcC-no_fav{top:var(--height-header);height:calc(100% - var(--height-header))}.StoryLeftCommonPcC_fav{padding:0 18px;box-shadow:0 1px 1px .5px var(--shadow-1)}.StoryLeftCommonPcC_main{padding:0 16px}.StoryLeftCommonPcC_user{padding-bottom:1rem}.StoryLeftCommonPcC_user .PictureNameCommon__pic{width:60px;height:60px}.StoryLeftCommonPcC_foot{padding:.5rem 0}
+.StoryCreateChoice:hover{opacity:.8}.StoryCreateChoice_icon{width:44px;height:44px}@media(max-width: 400px){.StoryCreateChoice_icon{width:30px;height:30px}.StoryCreateTextChoice_title{font-size:14px}.IconsInput{width:1rem;height:1rem}}
+.StoryCreatePicChoice{background-image:linear-gradient(to left, #84cef2, transparent 80%),linear-gradient(to top, #84cef2, #5e45e1, transparent),linear-gradient(135deg, #5e45e1, #84cef2)}.StoryCreatePicChoice .InputFile{width:100%;height:100%}.StoryCreatePicChoice .InputFile .InputFile_face_contain{border-radius:0}.StoryCreatePicChoice .InputFile .InputFile_face_contain:hover{background-color:transparent}
+.StoryCreateTextChoice{background-image:linear-gradient(to bottom, #9E44CE, #DC4F77)}
+.StoryCreateHomePc_choice{margin:0 10px;width:220px;height:330px;border-radius:10px;overflow:hidden}@media(max-width: 900px){.StoryCreateHomePc_right{display:none}}@media(max-height: 386px){.StoryCreateHomePc_right-no_fav{align-items:flex-start}}@media(max-height: 330px){.StoryCreateHomePc_right-has_fav{align-items:flex-start}}
+.StoryCreatePreviewPcCommon{display:flex;flex-direction:column;padding:15px}.StoryCreatePreviewPcCommon_title{padding-bottom:15px}
+.StoryCommonPcC_right-has_fav{margin:var(--height-header) 1.5rem 1.5rem}.StoryCommonPcC_right-no_fav{margin:1.5rem}
+.StoryTextPcC{height:11.5rem;border:1px solid var(--md-bg-blur)}.StoryTextPcC_textarea{padding:10px;border:none;resize:none;transition:padding 250ms ease-in}.StoryTextPcC_textarea:focus,.StoryTextPcC_textarea:not(:empty){outline:1px solid var(--blue);outline-offset:3px;padding-top:1.5rem}.StoryTextPcC_textarea:focus+.StoryTextPcC_title,.StoryTextPcC_textarea:not(:empty)+.StoryTextPcC_title{top:0;background-color:var(--md-bg-primary);opacity:1;color:var(--blue)}.StoryTextPcC_textarea:focus::placeholder{opacity:.75}.StoryTextPcC_title{position:absolute;top:1rem;left:0;width:100%;height:1rem;padding:0 .5rem;background-color:transparent;pointer-events:none;opacity:0;transition:all 250ms ease-in}
+.SelectFontItem{padding:15px 10px}
+.SelectFont_current{border:1px solid var(--md-bg-blur)}.SelectFont_list{position:absolute;top:100%;left:0;z-index:1}.SelectFont_list{border:1px solid var(--md-bg-blur)}
+.BgImgItem{width:28px;height:28px;transition:all 100ms ease-in}.BgImgItem-active{border:3px solid var(--blue);transform:scale(1.15)}.BgImgItem-inactive{transform:scale(1)}
+
+.StoryBgPcC{border:1px solid var(--md-bg-blur)}
+.StoryCreateTextLeftPc_part{margin:1rem 0}
+.StoryTextContentC_text{height:80%}.StoryTextContentC_text_contain{padding:0 8px}.StoryTextContentC_text_contain-less{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}.StoryTextContentC_text_contain_item{white-space:pre-wrap}.StoryTextContentC_icon_more{margin-left:5px;width:1rem;height:1rem}.StoryTextContentC_icon_more-more{transform:rotate(-90deg)}.StoryTextContentC_icon_more-less{transform:rotate(90deg)}
+.StoryCreateTextRightPc_text{z-index:2}.StoryCreateTextRightPc_text_contain{display:-webkit-box;-webkit-line-clamp:7;-webkit-box-orient:vertical;overflow:hidden}.StoryCreateTextRightPc_text_item{white-space:pre-wrap}
+.StoryPicLeftPcC_left_contain{width:40px;height:40px}.StoryPicLeftPcC_right{margin-left:1rem}
+.StoryTextPicDel{width:1.5rem;height:1.5rem}.StoryTextPicDel .IconsArrow_close{stroke:#000}
+.StoryTextResizePicC{cursor:nw-resize}
+.StoryTextRotatePicC{width:1.5rem;height:1.5rem}
+.StoryTextContentPicC{white-space:pre-wrap}
+.StoryTextPicC{left:50%;top:50%}.StoryTextPicC_content{border:1px solid transparent}.StoryTextPicC_content-active{border:1px solid var(--white)}
+
+.StoryPicBdPcC_bg{background-size:100% 100%;background-repeat:no-repeat;filter:blur(100px)}
+.InputRange{pointer-events:all}.InputRange_slider{top:50%;transform:translate(-50%, -50%);z-index:1}
+.StoryZoomSlider:hover,.input-range-running .StoryZoomSlider{box-shadow:0 0 0 1px transparent,0 0 2px 2px #fff,0 0 2px 3px var(--snow-flake);transform:scale(1.15);transition:all 100ms ease-in}
+.StoryZoomPic{width:200px;max-width:100%}.StoryZoomPic_btn{vertical-align:5px;font-size:18px}.StoryZoomPic_center{margin:0 .5rem}
+.StoryPicFootPcC_left{margin-right:1rem}
+.StoryAddTextInputPcC{background-color:transparent;outline:none;resize:none;border:none}.StoryAddTextInputPcC::placeholder{color:currentColor}
+.StoryAddTextColorItemPcC{width:20px;height:20px;transition:all 100ms ease-in}.StoryAddTextColorItemPcC_active{border:2px solid var(--blue);transform:scale(1.15)}.StoryAddTextColorItemPcC_inactive{border:1px solid var(--md-bg-ccc)}
+.StoryAddTextColorPcC{border:1px solid var(--md-bg-ccc)}.StoryAddTextColorPcC_item{margin:.25rem}
+.StoryAddTextFontColorPcC{width:268px;height:216px}.StoryAddTextFontColorPcC .SelectFontItem{padding:8px}
+.StoryPicRightPcC{padding-top:8px}
+.StoryCreatePc_has_fav{height:100vh}.StoryCreatePc_not_fav{margin-top:var(--height-header);height:calc(100vh - var(--height-header))}
+
+/*# sourceMappingURL=cb057acc0be757d07508.min.css.map*/
