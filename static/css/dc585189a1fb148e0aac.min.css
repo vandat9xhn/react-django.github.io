@@ -97,6 +97,6 @@
 .LearnTouches{width:100%;min-height:400px;overflow:hidden}
 .LearnSaveScroll_contain{height:200px}.LearnSaveScroll_child{height:500px}
 .DiscountSymbol{width:36px;padding:0 0 4px;background-color:gold;line-height:14px}.DiscountSymbol::after{content:"";position:absolute;left:0;top:100%;border-width:0 18px 4px;border-style:solid;border-color:transparent gold}
-.FashionFlashSaleBar_bg_contain{background-color:#ffbda6}.FashionFlashSaleBar_bg_sold{background-size:100%;background-position:0%;background-repeat:no-repeat;object-fit:cover}
+.FashionFlashSaleBar{max-width:150px}.FashionFlashSaleBar_bg_contain{background-color:#ffbda6}.FashionFlashSaleBar_bg_sold{background-size:100%;background-position:0%;background-repeat:no-repeat;object-fit:cover}
 
-/*# sourceMappingURL=6189425e29dd9372028a.min.css.map*/
+/*# sourceMappingURL=dc585189a1fb148e0aac.min.css.map*/
