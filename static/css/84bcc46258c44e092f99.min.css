@@ -66,7 +66,7 @@
 .SelectFont_current{border:1px solid var(--md-bg-blur)}.SelectFont_list{position:absolute;top:100%;left:0;z-index:1}.SelectFont_list{border:1px solid var(--md-bg-blur)}
 .StoryBgPcC{border:1px solid var(--md-bg-blur)}
 .StoryCreateTextLeftPc_part{margin:1rem 0}
-.StoryTextContentC_text{height:80%}.StoryTextContentC_text_contain{padding:0 8px}.StoryTextContentC_text_contain-less{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}.StoryTextContentC_text_contain_item{white-space:pre-wrap}.StoryTextContentC_icon_more{margin-left:5px;width:1rem;height:1rem}.StoryTextContentC_icon_more-more{transform:rotate(-90deg)}.StoryTextContentC_icon_more-less{transform:rotate(90deg)}
+.StoryTextContentC_text{height:80%}.StoryTextContentC_text_contain{padding:0 8px;overflow-x:hidden}.StoryTextContentC_text_contain-less{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}.StoryTextContentC_text_contain_item{white-space:pre-wrap}.StoryTextContentC_icon_more{margin-left:5px;width:1rem;height:1rem}.StoryTextContentC_icon_more-more{transform:rotate(-90deg)}.StoryTextContentC_icon_more-less{transform:rotate(90deg)}
 .StoryCreateTextRightPc_text{z-index:2}.StoryCreateTextRightPc_text_contain{display:-webkit-box;-webkit-line-clamp:7;-webkit-box-orient:vertical;overflow:hidden}.StoryCreateTextRightPc_text_item{white-space:pre-wrap}
 .StoryPicLeftPcC_left_contain{width:40px;height:40px}.StoryPicLeftPcC_right{margin-left:1rem}
 .StoryTextPicDel{width:1.5rem;height:1.5rem}.StoryTextPicDel .IconsArrow_close{stroke:#000}
@@ -99,4 +99,4 @@
 .DiscountSymbol{width:36px;padding:0 0 4px;background-color:gold;line-height:14px}.DiscountSymbol::after{content:"";position:absolute;left:0;top:100%;border-width:0 18px 4px;border-style:solid;border-color:transparent gold}
 .FashionFlashSaleBar{max-width:150px}.FashionFlashSaleBar_bg_contain{background-color:#ffbda6}.FashionFlashSaleBar_bg_sold{background-size:100%;background-position:0%;background-repeat:no-repeat;object-fit:cover}
 
-/*# sourceMappingURL=dc585189a1fb148e0aac.min.css.map*/
+/*# sourceMappingURL=84bcc46258c44e092f99.min.css.map*/

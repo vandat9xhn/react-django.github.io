@@ -9,7 +9,7 @@
 .ProductItem_discount,.ProductItem_installment{position:absolute;top:5px;font-size:11px}.ProductItem{width:12.5rem}.ProductItem:hover .ProductItem_head img{bottom:.2rem}.ProductItem_head{position:relative;width:100%;padding-top:95%}.ProductItem_head .ProductItem_head-img img{position:relative;width:100%;height:100%;border-radius:5px;transition:all .15s}.ProductItem_foot{font-size:14px}.ProductItem_name{display:-webkit-box;-webkit-box-orient:horizontal;-webkit-line-clamp:2;line-height:1.5rem;max-height:3rem;overflow:hidden;text-overflow:ellipsis;text-transform:lowercase}.ProductItem_price>div{margin-right:.25rem}.ProductItem_old-price{text-decoration:line-through;font-size:11px}.ProductItem_installment{left:0;padding:0 .25rem;background-color:var(--gold)}.ProductItem_discount{right:0}@media(max-width: 450px){.ProductItem{max-width:calc(100vw / 2 - 1.5rem)}}@media(max-width: 250px){.ProductItem{max-width:calc(100vw - 1rem)}}
 .CheckBoxCustom_input{margin-right:.5rem;width:1.25rem;height:1.25rem;border:1px solid var(--md-bg-ccc);transition:background-color 250ms}.CheckBoxCustom_input-active{background-color:var(--border-fashion)}.CheckBoxCustom_input-inactive{background-color:var(--md-bg-primary)}
 .FilterArea{padding:.5rem;border-bottom:1px solid var(--md-bg-ccc)}
-.StarRate{position:relative}.StarRate_rate{position:absolute;top:0;overflow:hidden}
+
 .FilterRateItem_up{margin-left:.5rem}
 .FilterRate{padding:.5rem;border-bottom:1px solid var(--md-bg-ccc)}
 .FilterSortItem{padding-left:1.5rem}.FilterSortItem_icon{position:absolute;top:50%;left:0;transform:translateY(-50%)}
@@ -17,4 +17,4 @@
 .SearchFilter_item{margin:.5rem 0}.SearchFilter{position:sticky;top:56px;width:14.5rem;height:calc(100vh - 56px);overflow:auto;padding:.5rem;border:1px solid var(--md-bg-ccc)}
 @media(max-width: 900px){.FashionSearch_row{display:block}.FashionSearch_open-filter{display:block}.FashionSearch_filter{position:fixed;top:0;left:0;z-index:var(--z-index-lv5);margin:0;width:100%;height:100vh;background-color:var(--bg-loader)}.FashionSearch_filter-close{display:none}.FashionSearch_filter-icon-close{display:block;position:absolute;top:8px;right:8px;z-index:1}.SearchFilter{width:20rem;max-width:100%;height:100%;overflow:auto;border-radius:0}}
 
-/*# sourceMappingURL=eabfac164eb5d1b54268.min.css.map*/
+/*# sourceMappingURL=25467e7bf02f25cb9777.min.css.map*/
