@@ -13,7 +13,7 @@
 @media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
 
 .LikeShareCmt{padding:.25rem 0;border-top:1px solid var(--md-border-blur);border-bottom:1px solid var(--md-border-blur);user-select:none}.LikeShareCmt_item{flex-basis:1rem;flex-grow:1;height:2.25rem;border-radius:5px}.LikeShareCmt_item:hover{background-color:var(--md-bg-hover)}.LikeShareCmt_item .Like_type{padding:.25rem}.LikeShareCmt_item .FlexDiv{display:flex;justify-content:center;padding:.25rem;cursor:pointer}.BtnPostCmtShare_title{display:block}.BtnPostCmtShare_total{display:none}@media(max-width: 500px){.LikeShareCmt_item{height:auto;font-size:14px}.LikeShareCmt_item svg{width:1.2rem;height:1.2rem}.LikeShareCmt_item .Like_list-type-touch svg{width:2rem;height:2rem}.BtnPostCmtShare_title{display:none}.BtnPostCmtShare_total{display:block}}
-.CommentInput_contain{background-color:var(--md-bg-fb);border-radius:15px}.CommentInput_input{flex-basis:1rem;flex-grow:1;padding-left:.5rem;overflow:hidden}.CommentInput_textarea{padding:0}.CommentInput_files{align-self:flex-end;padding-right:.25rem}.CommentInput__send{display:none}.CommentInput_preview{max-width:100%;overflow-x:auto}.CommentInput_preview .ImgVidPreview{display:flex}.CommentInput_preview .ImgVidPreview .ImgVidPreview__elm{position:relative;margin:.25rem}@media(max-width: 600px){.CommentInput__send{display:block}}
+.CommentInput_contain{border-radius:15px}.CommentInput_input{flex-basis:1rem;padding-left:.75rem}.CommentInput_files{align-self:flex-end;padding-right:.25rem}.CommentInput_preview .ImgVidPreview{display:flex}.CommentInput_preview .ImgVidPreview .ImgVidPreview__elm{position:relative;margin:.25rem}@media(max-width: 600px){.CommentInput__send{display:block}}
 .CommentPost{position:relative;padding-left:2.5rem;width:100%}.CommentPost_user{position:absolute;top:0;left:0}@media(max-width: 500px){.CommentPost{position:relative;padding-left:2rem}}
 .CommentWsFoot__like{position:relative;display:flex;align-items:center}
 .ActionBack .IconsArrow_back-prev{stroke:var(--md-color)}
@@ -71,4 +71,4 @@
 .ProfileHome_left{width:360px;margin-right:1rem}.ProfileHome_right{width:500px;max-width:100%}
 @media(max-width: 900px){.ProfileHome_row{display:block}.ProfileHome_left{margin:auto auto 1rem;width:500px;max-width:100%}.ProfileHome_right{margin:auto}.ProfilePrCommon{border-radius:0}}
 
-/*# sourceMappingURL=dd4e24fa03f805c6122e.min.css.map*/
+/*# sourceMappingURL=f7831ef6a178ae2b7670.min.css.map*/
