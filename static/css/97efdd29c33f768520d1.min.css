@@ -10,5 +10,14 @@
 .FsCFsCoin_coin{min-width:100px}
 .FsCFsTotal_btn_buy{width:175px}
 .FsCartSummary_voucher,.FsCartSummary_coin{border-bottom:1px dashed rgba(0,0,0,.09)}
+.InputNotValid_input{width:100%;padding:.75rem;background-color:transparent;border:1px solid var(--md-color-secondary)}.InputNotValid_input:focus{border:1px solid var(--blue);outline:none}.InputNotValid_placeholder{background-color:var(--color-react)}
+.FsInputValid .InputNotValid_input{padding:.5rem}.FsInputValid .InputNotValid_input:not(:focus){border-color:var(--md-bg-blur)}.FsInputValid .InputNotValid_placeholder{font-size:14px;background-color:var(--md-bg-primary)}.FsInputValid .input-active .input-placeholder{font-size:12px;font-weight:400}.FsInputValid-wrong .InputNotValid_input:not(:focus){border-color:var(--danger)}.FsInputValid-wrong .InputNotValid_placeholder{color:var(--danger)}
+.SelectFAHeadItem-active{border-bottom:2px solid var(--fashion-head)}
+.SelectFullAddressList_body{height:200px;overflow-y:scroll}.SelectFullAddressList_head{border-bottom:1px solid var(--md-bg-blur)}
+.SelectFullAddressCurrent{height:40px}.SelectFullAddressCurrent-wrong{border:1px solid var(--danger)}.SelectFullAddressCurrent-wrong .SelectFullAddressCurrent_placeholder{color:var(--danger)}.SelectFullAddressCurrent-active{border-color:var(--blue)}.SelectFullAddressCurrent-active .SelectFullAddressCurrent_placeholder{color:var(--blue)}.SelectFullAddressCurrent_icon{transition:all 200ms ease-in}.SelectFullAddressCurrent_icon-show{transform:rotate(180deg)}.SelectFullAddressCurrent_placeholder{transition:top 200ms,font-size 200ms}.SelectFullAddressCurrent_placeholder-in{left:10px;color:var(--md-bg-blur)}.SelectFullAddressCurrent_clear_icon .IconsArrow_close{stroke:var(--md-color-secondary)}
+.FsAddAddressForm_name{width:48%}.FsAddAddressForm_phone{width:48%}
+.FsAddAddressConfirm_btn{width:140px}
+.FsAddAddress{width:500px;max-width:100%;padding:30px}
+.LearnFsAAScreen{min-height:100vh;padding:5rem 0}
 
-/*# sourceMappingURL=ad0512a686e9623f799f.min.css.map*/
+/*# sourceMappingURL=97efdd29c33f768520d1.min.css.map*/
