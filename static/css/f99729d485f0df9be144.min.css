@@ -39,7 +39,8 @@
 .FsItemIfRCount .CountDownUpDiv_btn{width:2rem;height:2rem;background-color:var(--fashion-hover);color:#fff;font-weight:bold}.FsItemIfRCount .CountDownUpDiv_input{width:5rem;background-color:var(--fashion-hover);color:#fff}
 .FsItemIfRPrice{padding:15px 20px}.FsItemIfRPrice_new{padding:0 15px;font-size:30px}.FsItemIfRPrice_discount{padding:2px 4px;line-height:12px;border-radius:2.5px}
 
-.FsIIfRTierVariantItem{border:1px solid var(--md-bg-blur)}.FsIIfRTierVariantItem:hover{color:var(--fashion-head);border:1px solid currentColor}.FsIIfRTierVariantItem:hover .FsIIfRTierVariantItem_tick{display:block}.FsIIfRTierVariantItem-active{border:1px solid currentColor}.FsIIfRTierVariantItem_tick{width:0;height:0;background-color:transparent;border-width:.5rem;border-style:solid;border-color:transparent currentColor currentColor transparent}.FsIIfRTierVariantItem_tick_item{transform:translate(2px, 1px);line-height:.75rem}
+.FsRightBottomChecked_bg{width:0;height:0;background-color:transparent;border-width:.5rem;border-style:solid;border-color:transparent currentColor currentColor transparent}.FsRightBottomChecked_icon{transform:translate(2px, 1px);line-height:.75rem}
+.FsIIfRTierVariantItem{border:1px solid var(--md-bg-blur)}.FsIIfRTierVariantItem:hover{color:var(--fashion-head);border:1px solid currentColor}.FsIIfRTierVariantItem-active{border:1px solid currentColor}
 .FsIIfRTierVariants_item{margin:0 10px 10px 0}
 .FashionCardDiscount_btn{min-width:3.4375rem;height:1.75rem;padding:2.5px 8px;border-radius:3px;white-space:nowrap}
 
@@ -85,4 +86,4 @@
 .FashionItem_mobile .FashionRateItem_left{width:25px}
 .FashionItem_mobile .FsIShopDiscount_row{display:flex}.FashionItem_mobile .FsIShopDiscountItem{margin-right:15px;width:240px}
 
-/*# sourceMappingURL=9e81870d53457f48aef1.min.css.map*/
+/*# sourceMappingURL=f99729d485f0df9be144.min.css.map*/
