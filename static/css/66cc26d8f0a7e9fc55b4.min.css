@@ -1,0 +1,25 @@
+.RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{width:45%;height:45%;background-color:var(--white)}
+.ScreenPermissionItem{padding:.5rem}.ScreenPermissionItem_active{background-color:var(--md-bg-fb-active)}.ScreenPermissionItem_right{margin-left:.5rem}.ScreenPermissionItem_right_icon{margin-right:.25rem}
+.ScreenPermission .IconsAction_add-friend_plus{stroke:none}
+.StoryCreateChoice:hover{opacity:.8}.StoryCreateChoice_icon{width:44px;height:44px}@media(max-width: 400px){.StoryCreateChoice_icon{width:30px;height:30px}.StoryCreateTextChoice_title{font-size:14px}.IconsInput{width:1rem;height:1rem}}
+.StoryCreateTextChoice{background-image:linear-gradient(to bottom, #9E44CE, #DC4F77)}
+.StoryCreatePicChoice{background-image:linear-gradient(to left, #84cef2, transparent 80%),linear-gradient(to top, #84cef2, #5e45e1, transparent),linear-gradient(135deg, #5e45e1, #84cef2)}.StoryCreatePicChoice .InputFile{width:100%;height:100%}.StoryCreatePicChoice .InputFile .InputFile_face_contain{border-radius:0}.StoryCreatePicChoice .InputFile .InputFile_face_contain:hover{background-color:transparent}
+.StoryCHHeadMb_item{width:33.33%;padding-top:44%}
+.BgImgItem{width:28px;height:28px;transition:all 100ms ease-in}.BgImgItem-active{border:3px solid var(--blue);transform:scale(1.15)}.BgImgItem-inactive{transform:scale(1)}
+
+.StoryCTFootMb_bg{margin-bottom:5px}.StoryCTFootMb_bg .BgImgList{width:100%;overflow:auto;scroll-snap-type:x mandatory}.StoryCTFootMb_bg .BgImgList::-webkit-scrollbar{display:none}.StoryCTFootMb_bg .BgImgList_row{flex-wrap:nowrap;justify-content:flex-start}.StoryCTFootMb_bg .BgImgList_item{flex-shrink:0;scroll-snap-align:start end}.StoryCTFootMb_bg .BgImgItem{width:35px;height:35px;border-radius:0}
+.StoryCTInputMb_textarea{max-height:100%;overflow-x:hidden}
+.StoryCreateTextMb_input{width:80%;height:calc(100% - 205px)}
+.StoryCPTextMb_text{white-space:pre-wrap}
+.StoryCPPicMb_img{width:100vw;max-height:100vh}
+@media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
+.StoryCPActionsMb_part{padding:0 5px;margin-bottom:.5rem}.StoryCPActionsMb_part_right{margin-left:10px}
+.StoryCPAddTextMb{max-height:80%;overflow-x:hidden}
+.PicEffectItem{flex-shrink:0;width:75px;height:75px;transition:all 100ms ease-in}.PicEffectItem-active{border:3px solid var(--blue);transform:scale(1.15)}
+.StoryCPTagFriendItemMb{max-width:10rem}.StoryCPTagFriendItemMb:hover .StoryCPTagFriendItemMb_close{display:block}.StoryCPTagFriendItemMb_close_contain{width:1.5rem;height:1.5rem}.StoryCPTagFriendItemMb_close_contain .IconsArrow_close{stroke:var(--md-color-secondary)}
+.StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_head:focus{outline:none;border-bottom:1px solid var(--blue)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 5rem)}
+.StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
+.StoryCPEditPicMb_row{transition:all 200ms ease-in}.StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
+.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
+
+/*# sourceMappingURL=66cc26d8f0a7e9fc55b4.min.css.map*/
