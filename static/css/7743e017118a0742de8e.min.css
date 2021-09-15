@@ -1,6 +1,0 @@
-.BillCancel_product{margin-bottom:1rem}
-.ProductCartBuy_product{width:50%}.ProductCartBuy_product-name{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;margin-left:.5rem;max-height:4.5rem;overflow:hidden}.ProductCartBuy_calculate{width:50%;overflow-x:auto}.ProductCartBuy_price{width:20%;text-align:center}.ProductCartBuy_total{width:20%;text-align:center}
-@media(max-width: 900px){.ProductCartBuy_product{width:40%}.ProductCartBuy_calculate{width:60%}}@media(max-width: 700px){.ProductCartBuy_calculate{margin-top:.5rem}}@media(max-width: 500px){.ProductCartBuy_row{flex-wrap:wrap}.ProductCartBuy_product{width:100%}.ProductCartBuy_calculate{width:100%}}@media(max-width: 300px){.ProductCartBuy_calculate-row>div{width:auto;margin-right:.5rem}}
-.CancelItem{margin-bottom:.5rem}.CancelItem_contain{padding:.5rem;background-color:var(--md-bg-primary)}@media(max-width: 500px){.CancelItem_row{display:block}}
-
-/*# sourceMappingURL=7743e017118a0742de8e.min.css.map*/
