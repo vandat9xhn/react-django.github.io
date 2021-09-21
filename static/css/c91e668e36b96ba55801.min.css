@@ -1,0 +1,20 @@
+.NoticeDiv{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%)}
+.fs-personal-profile-label{width:22%;padding-right:20px;text-align:end;color:var(--md-color-third)}
+.FsPProfileHead{border-bottom:1px solid var(--md-bg-blur)}.FsPProfileHead_title{color:#333}
+.InputDate_item:not(:last-child){margin-right:.5rem}.InputDate_item_contain select{min-width:3rem;border-radius:5px;background-color:var(--md-bg-fb)}.InputDate_item_contain select:focus{outline:none}
+.FsPPrFormInput_input:focus{outline:none}
+.FsPPrFormChange_btn{text-decoration:1px solid underline}
+.RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{width:45%;height:45%;background-color:var(--white)}
+.FsPProfileForm_part{margin-bottom:30px}.FsPProfileForm_btn{padding-left:22%}.FsPProfileForm_date .InputDate_item:not(:last-child){margin-right:10px}.FsPProfileForm_date .InputDate_item_contain select{min-width:150px;padding:10px 15px;border-radius:2px;color:var(--color-555);border-color:var(--md-bg-blur)}
+.FsPProfilePic{border-left:1px solid var(--md-bg-blur)}.FsPProfilePic_row{width:175px}
+.FsPProfileHome_head{margin-bottom:30px}.FsPProfileHome_form{padding-right:50px}.FsPProfileHome_pic{width:280px}
+.FsPProfileEmail{margin:auto;width:700px;padding:50px 0px 0px}
+.StepperDiv_line_width{height:2px}.StepperDiv_line-active{transition:width 250ms ease-in}
+.FsPPrPhoneStep_contain{width:44px;height:44px;border:2px solid currentColor}.FsPPrPhoneStep-active{color:#6c0}
+.FsPPrPhoneStepError_contain{width:44px;height:44px;border:2px solid currentColor}
+.FsPPrPhoneSteps .StepperDiv_line_width{width:calc(100% - 20px)}.FsPPrPhoneSteps-process .StepperDiv_line-active{background-color:#6c0}.FsPPrPhoneSteps-done .StepperDiv_line-active{background-color:var(--fashion-head)}
+.FsPProfilePhone{width:700px;margin:auto}
+.FsPPrChangeSuccess{width:500px;height:145px}.FsPPrChangeSuccess_icon{width:3rem;height:3rem;border:2px solid currentColor}
+.FsPersonalProfile{min-height:100%;padding:0 30px 10px;border-bottom:1px solid var(--shadow-2)}
+
+/*# sourceMappingURL=c91e668e36b96ba55801.min.css.map*/

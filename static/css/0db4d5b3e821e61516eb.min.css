@@ -1,0 +1,21 @@
+.FashionMallLike_side{width:3px}.FashionMallLike_side::before{content:"";position:absolute;left:0;top:100%;border-width:3px 0 0 3px;border-style:solid;filter:brightness(60%)}.FashionMallLike_side-mall::before{border-color:var(--fashion-mall) transparent transparent transparent}.FashionMallLike_side-like::before{border-color:var(--fashion-head) transparent transparent transparent}
+.FsPPurShopHeadLeft_chat .IconsMenu_message-out{fill:none;stroke:currentColor}
+.FsPPurShopHeadRight{color:#00bfa5}.FsPPurShopHeadRight_separate{width:1px;height:16px;background-color:var(--md-bg-blur)}
+
+.FsPPurShopTotal_total{padding:24px 0 12px}.FsPPurShopTotal_feedback{padding:12px 0}.FsPPurShopTotal_btn{min-width:150px}
+.FsShopDealLabel{border:1px solid currentColor}
+.FsPPurchaseShop{padding:24px 24px 12px 24px}.FsPPurchaseShop_head{margin-bottom:10px}.FsPPurchaseShop_bot{position:relative}.FsPPurchaseShop_bot:hover .FsPPurchaseShop_bot-info{display:block}.FsPPurchaseShop_bot-info{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);display:none;width:15rem;max-width:100vw;padding:.5rem;background-color:var(--md-bg-primary)}@media(max-width: 17rem){.FsPPurchaseShop_cost-detail{right:-0.75rem}}
+.FsPPurchaseHeadItem{border-bottom:2px solid transparent}.FsPPurchaseHeadItem:hover{color:var(--fashion-head)}.FsPPurchaseHeadItem-active{border-bottom:2px solid currentColor}
+.FsPersonalPurchase_not_fetched{height:300px}
+.FsPPurOrderHead{padding:20px 24px}
+.StepperDiv_line_width{height:2px}.StepperDiv_line-active{transition:width 250ms ease-in}
+.FsPPOrderStep{width:140px}.FsPPOrderStep_icon{width:60px;height:60px}.FsPPOrderStep_icon-done{border:4px solid currentColor;color:#2dc258}
+.FsPPOrderSteps{padding:40px 24px}.FsPPOrderSteps .StepperDiv_line_width{top:30px;left:60px;width:calc(100% - 120px);height:4px}.FsPPOrderSteps .StepperDiv_line-active{background-color:#2dc258}
+.FsPPOrderActions{background-color:#fffcf5}.FsPPOrderActions_thank{padding:12px 24px}.FsPPOrderActions_contact{padding:12px 24px}.FsPPOrderActions_btn{width:220px;height:40px}
+.FsPPOrderProcess_item_side{left:4.5px;bottom:50%;width:1px;height:100%;background-color:var(--md-bg-blur)}
+.FsPPOrderAddressProcess{padding:20px 24px 24px}.FsPPOrderAddressProcess_address{width:300px;padding:5px 0px 5px 24px;border-right:1px solid var(--md-bg-blur)}
+.FsPPurOrderShop{padding:12px 24px}
+.FsPPOrderPayment{padding:0 24px;border-top:1px dotted var(--md-bg-blur);border-bottom:1px dotted var(--md-bg-blur)}.FsPPOrderPayment_right{width:250px;border-left:1px dotted var(--md-bg-blur)}
+.FsPPOrderShopTotal{border-top:1px dotted var(--md-bg-blur)}.FsPPOrderShopTotal_row{padding:0 24px;border-bottom:1px dotted var(--md-bg-blur)}.FsPPOrderShopTotal_left{font-size:12px;color:var(--md-color-third)}.FsPPOrderShopTotal_right{width:250px;border-left:1px dotted var(--md-bg-blur)}
+
+/*# sourceMappingURL=0db4d5b3e821e61516eb.min.css.map*/
