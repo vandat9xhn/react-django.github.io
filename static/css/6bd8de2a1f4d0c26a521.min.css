@@ -1,0 +1,44 @@
+.CarouselItem .IconsInput_video{stroke:var(--white)}
+.CarouselDot_item_contain{width:10px;height:10px}@media(max-width: 350px){.CarouselDot_item{padding:3px}.CarouselDot_item_contain{width:8px;height:8px}}
+
+.FashionBC_carousel{width:66%}.FashionBC_carousel:hover .BtnNexPrev{opacity:1}.FashionBC_carousel .BtnNexPrev{transition:all 200ms ease-in;opacity:0}.FashionBC_carousel_contain{padding-top:33%}.FashionBC_right{width:33%}.FashionBC_right_contain{padding-top:66%}@media(max-width: 1000px){.FashionBC_carousel{width:100%}.FashionBC_right{display:none}}
+.FashionBCR_part{height:49%}
+.FavWithLetter_letter_contain{width:2rem;height:2rem}
+
+.FsSearchIn_list_contain{width:150px}
+.FsSearch_input{padding-left:10px;background-color:transparent;border:none}.FsSearch_input:focus{outline:none}.FsSearch_in{border-left:1px solid var(--ccc)}.FsSearch_key{width:60px;height:34px;background-color:#fb6445}.FsSearch_key .IconsInput_key{stroke:var(--white)}
+.FsSearch-mobile{padding:2px;font-size:14px}.FsSearch-mobile .FsSearch_input{padding:4px}.FsSearch-mobile .FsSearch_in{padding:0px 5px}.FsSearch-mobile .FsSearch_key{width:fit-content;height:30px;border-left:1px solid var(--md-bg-blur);background-color:transparent}.FsSearch-mobile .FsSearch_key .IconsInput{width:14px;height:14px}.FsSearch-mobile .FsSearch_key .IconsInput_key{stroke:var(--md-color-secondary)}
+
+.FashionHR_cart .IconsMenu{stroke:var(--white)}.FashionHR_cart-count{position:absolute;top:-5px;right:5px}.FashionHR_personal-icon .IconsAction_add-friend_friend{stroke:#fff;stroke-width:15}.FashionHR_personal-icon .IconsAction_add-friend_plus{stroke:none}
+.FashionHCommon_contain{width:1250px;max-width:100%}.FashionHCommon_side{width:200px}.FashionHCommon-mobile .FashionHCommon{position:relative}.FashionHCommon-mobile .FashionHCommon_row{display:block}.FashionHCommon-mobile .FashionHCommon_left{width:fit-content;margin-bottom:.5rem}.FashionHCommon-mobile .FashionHCommon_center{width:100%}.FashionHCommon-mobile .FashionHCommon_right{position:absolute;right:.5rem;top:1rem;width:fit-content}.FashionHCommon-mobile .IconFav{width:2.5rem;height:2.5rem}.FashionHCommon-mobile .IconsMenu{width:1.5rem;height:1.5rem}.FashionHCommon-mobile .IconsAction{width:1.25rem;height:1.25rem}
+.DiscountSymbol{width:36px;padding:2px 0 4px;background-color:gold;line-height:14px}.DiscountSymbol::after{content:"";position:absolute;left:0;top:100%;border-width:0 18px 4px;border-style:solid;border-color:transparent gold}
+.FashionMallLike_side{width:3px}.FashionMallLike_side::before{content:"";position:absolute;left:0;top:100%;border-width:3px 0 0 3px;border-style:solid;filter:brightness(60%)}.FashionMallLike_side-mall::before{border-color:var(--fashion-mall) transparent transparent transparent}.FashionMallLike_side-like::before{border-color:var(--fashion-head) transparent transparent transparent}
+
+
+.FashionFaceItemFoot_name{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;height:36px}.FashionFaceItemFoot_tag{height:1rem}.FashionFaceItemFoot_heart .IconHeart{width:1rem;height:1rem}.FashionFaceItemFoot_heart .IconHeart_face{fill:none}.FashionFaceItemFoot_heart .IconHeart_heart{fill:var(--md-bg-blur)}@media(max-width: 350px){.FashionFaceItemFoot{padding:4px}}
+.FsShopDealLabel{border:1px solid currentColor}
+.FsShopDiscountLabel{padding:1px 4px}.FsShopDiscountLabel_side{width:3px;background-image:radial-gradient(circle, var(--md-bg-primary), var(--md-bg-primary) 50%, transparent, transparent);background-repeat:repeat;background-size:100% 3px}
+.FashionFaceItem-pc{transition:all 150ms ease-in}.FashionFaceItem-pc:hover{bottom:1px}.FashionFaceItem-pc:hover .FashionFaceItem_contain{border:1px solid var(--border-fashion);box-shadow:var(--box-shadow-fb)}.FashionFaceItem-pc:hover .FashionFaceItem_same{display:block}.FashionFaceItem_contain{border:1px solid transparent;border-radius:2.5px;transition:all 150ms ease-in}.FashionFaceItem_head{padding-top:100%}.FashionFaceItem_same_contain{border-bottom-left-radius:2.5px;border-bottom-right-radius:2.5px}
+.FashionFaceItem-mobile .FashionFaceItem_head{font-size:11px}
+.FashionBody_title{margin-bottom:.25rem}.FashionBody_title_item-active{border-bottom:2px solid var(--fashion-head)}.FashionBody_item{width:198px}.FashionBody_more{width:400px;max-width:100%;border:1px solid var(--md-bg-blur)}@media(max-width: 400px){.FashionBody_item{width:50%}}
+.FashionSellingProduct_bd{height:10rem;background-repeat:no-repeat;background-size:contain;background-position:center}@media(max-width: 500px){.FashionSellingProduct{padding:8px}.FashionSellingProduct_bd{height:8rem}.FashionSellingProduct_foot{padding:4px 0 0}.FashionSellingProduct_price{font-size:16px}}
+.FashionHomeSelling_not_fetched{height:250px}.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_item{margin:0 2px;width:200px;max-width:48%}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
+.FashionSeeMoreOnTitle .IconsArrow_next{stroke:currentColor}
+.FashionSeeMoreLastRow_icon{width:1.5rem;height:1.5rem;border:1px solid currentColor}.FashionSeeMoreLastRow_icon .IconsArrow_next{stroke:currentColor}
+.FashionApplication_item{flex-shrink:0;width:100px;max-width:150px}
+.FashionCtgItem_contain{border:1px solid var(--md-bg-blur)}.FashionCtgItem_contain:hover{box-shadow:var(--box-shadow-action)}.FashionCtgItem_head{height:1rem}.FashionCtgItem_head_img{width:70%;height:70%}.FashionCtgItem_foot{flex-shrink:0;height:3.25rem}
+.FashionCtg:hover .NextPrevDiv_icon_circle{transform:scale(1.75)}.FashionCtg_contain{height:300px;overflow-y:hidden}.FashionCtg_item{width:120px;height:50%}
+.FashionFlashSaleBar{max-width:150px}.FashionFlashSaleBar_bg_contain{background-color:#ffbda6}.FashionFlashSaleBar_bg_sold{background-size:100%;background-position:0%;background-repeat:no-repeat;object-fit:cover}
+.FashionFlashSaleItem_head{width:100%;padding-top:100%}
+.FashionHomeFlashSale_not_fetched{height:250px}.FashionHomeFlashSale_head{border-bottom:1px solid rgba(0,0,0,.05)}.FashionHomeFlashSale_title{width:125px;height:20px;background-repeat:no-repeat;background-size:100%;background-position:center center}.FashionHomeFlashSale_item{flex-shrink:0;width:200px;max-width:45%;padding:2px}@media(max-width: 500px){.FashionFlashSaleItem{padding:0}.FashionFlashSaleItem_foot_price{font-size:18px}}
+.FashionTrendItem_left{width:1rem}@media(max-width: 700px){.FashionTrendItem_right_img{width:62px;height:62px}.FashionTrendItem_left_count{font-size:12px}}
+.FashionHomeTrend_not_fetched{height:160px}.FashionHomeTrend_head{border-bottom:1px solid var(--md-bg-blur)}.FashionHomeTrend_item{flex-shrink:0}.FashionHomeTrend_item-pc{width:240px;max-width:50%;padding-right:10px}.FashionHomeTrend_item-pc:not(:last-child){border-right:1px solid var(--md-bg-blur)}.FashionHomeTrend_item-mobile{width:50%;padding:4px;border:1px solid var(--md-bg-blur)}
+.TopSymbol{width:24px;padding:2.5px;background-color:var(--border-fashion);line-height:16px}.TopSymbol::after{content:"";position:absolute;top:100%;left:0;border-width:5px 12px 0px;border-style:solid;border-color:var(--border-fashion) transparent transparent}
+.FashionTopSearchItem_head{padding-top:100%}.FashionTopSearchItem_sold_contain{background-color:rgba(0,0,0,.5)}.FashionTopSearchItem_foot_contain{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}
+.FashionHomeTopSearch_head{border-bottom:1px solid var(--md-bg-blur)}.FashionHomeTopSearch_item{flex-shrink:0;width:200px;max-width:48%;padding:10px}.FashionHomeTopSearch:hover .NextPrevDiv_icon_circle{transform:scale(1.5)}
+.FashionHMallHead_contain{border-bottom:1px solid var(--md-bg-blur)}@media(max-width: 800px){.FashionHMallHead{padding-bottom:2rem}.FashionHMallHead_right{position:absolute;bottom:0;left:0;justify-content:space-around;margin:0;width:100%;transform:translateY(-50%);font-size:11px}.FashionHMallHead_right_item{padding:0}}
+.FashionMallItem_foot_contain{height:27px;line-height:27px}
+.FashionHomeMall_foot-pc{height:450px}.FashionHomeMall_foot-mobile{display:block;height:auto}.FashionHomeMall_foot_left-pc{width:400px}.FashionHomeMall_foot_left-mobile{width:100%;padding-top:30%}.FashionHomeMall_foot_right-pc{width:1rem}.FashionHomeMall_foot_right-mobile{width:100%}.FashionHomeMall_col{flex-shrink:0;overflow:hidden}.FashionHomeMall_col-pc{width:200px;max-width:48%;flex-direction:column}.FashionHomeMall_col-mobile{width:80%}.FashionHomeMall_item-pc{height:50%}.FashionHomeMall_item-mobile{width:50%}
+.Fashion_banner{padding:1rem 0}@media(max-width: 300px){.Fashion_body{margin:0 .25rem}}
+
+/*# sourceMappingURL=6bd8de2a1f4d0c26a521.min.css.map*/
