@@ -1,0 +1,10 @@
+.PLProductHead_img{transition:bottom 150ms ease-in}
+.NoticeDiv{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%)}
+.PLProduct:hover .PLProductHead_img{bottom:3px}.PLProduct:hover .PLProductFoot_name{color:var(--blue)}
+.ProductsAnimate_contain{position:relative;margin:auto;width:60rem;max-width:98vw;overflow:hidden;background-color:var(--md-bg-through)}.ProductsAnimate_title{background-color:var(--danger)}.ProductsAnimate_item{width:175px;max-width:50%}
+@media(max-width: 959px){.ProductsAnimate_contain{width:48rem}}@media(max-width: 767px){.ProductsAnimate_contain{width:100%}}
+.ProductContent_item{width:200px}@media(max-width: 600px){.ProductContent_item{width:33.33%}}@media(max-width: 450px){.ProductContent_item{width:50%}}
+.SpecProducts_text:hover{color:var(--blue)}
+.PhoneLaptop_banner{background-image:url(/static/images_icons/ce965b9391dc04900379806e858f4881.jpg);background-repeat:no-repeat;background-position:center;background-size:cover}
+
+/*# sourceMappingURL=fff13475405a14a24a3b.min.css.map*/

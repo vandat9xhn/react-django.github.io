@@ -1,0 +1,25 @@
+
+.PLBrandItem{width:120px;border-radius:20px}.PLBrandItem:hover{border-color:var(--blue)}
+
+.ProductFCItem{padding:.25rem}.ProductFCItem .FlexDiv_left{margin:0}.ProductFCItem .FlexDiv_right{padding-left:.5rem}
+.ProductFCItem_label{margin-bottom:.5rem}
+.ProductFilter_col{width:fit-content;padding:.5rem 1rem}.ProductFilter_btn button{border:none;background-color:transparent}.ProductFilter_btn button:focus{outline:none}
+.ProductSortItem{padding:.25rem}.ProductSortItem_item{padding:.25rem}
+.ProductSort_title{margin-bottom:.5rem}
+.ProductSearch__btn{margin-right:.5rem;width:5rem;padding:.5rem;font-weight:bold;cursor:pointer}.ProductSearch__btn:hover{background-color:var(--md-bg-blur)}.ProductSearch__btn .IconsArrow{transform:rotate(-180deg) scale(0.9, 0.7)}.ProductSearch_filter_sort{position:absolute;z-index:var(--z-index-lv1);border:2px solid var(--md-bg-blur)}
+.PLProductHead_img{transition:bottom 150ms ease-in}
+.NoticeDiv{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%)}
+.PLProduct:hover .PLProductHead_img{bottom:3px}.PLProduct:hover .PLProductFoot_name{color:var(--blue)}
+.ProductContent_item{width:200px}@media(max-width: 600px){.ProductContent_item{width:33.33%}}@media(max-width: 450px){.ProductContent_item{width:50%}}
+.ProductCFTItem_title{padding:.3rem .7rem .3rem .3rem;background-color:var(--blue)}.ProductCFTItem_del{position:absolute;top:0;right:2%;transform:translateY(-20%);line-height:.8rem}
+.ProductCFType{flex-shrink:0;margin-right:.5rem}.ProductCFType_item{position:relative;margin:.25rem;flex-shrink:0}
+.ProductCFilter{overflow-y:auto}.ProductCFilter_type{margin:0 .5rem;flex-shrink:0}
+.PLPriceItem:hover{border-color:var(--blue)}
+
+@media(max-width: 500px){.ProductContent{padding:.5rem .25rem}.ProductContent_item{padding:0}.ProductSearch{padding:0}.ProductFilter_col{width:50%;padding:.3rem}}@media(max-width: 300px){.ProductContent{padding:.5rem 0}.ProductFilter_col{width:100%;padding:.25rem}}
+.PLFilter_title-active{border-color:var(--border-fashion)}.PLFilter_arrow{border-width:0px 5px 8px 5px;border-style:solid;border-color:transparent transparent var(--md-bg-primary)}.PLFilter_list{min-width:400px;max-width:600px}
+.PLFilterItem:hover{border-color:var(--blue)}
+.PLFilterConfirm_btn{width:170px}
+
+
+/*# sourceMappingURL=8260984241b4d75a38b5.min.css.map*/
