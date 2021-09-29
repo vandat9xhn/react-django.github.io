@@ -86,8 +86,9 @@ html{background-color:var(--md-bg-fb);overflow-y:scroll}*,::after,::before{box-s
 .PLCompareItem .IconsArrow_close{stroke:var(--md-color-third)}
 .PLCompareActions{padding-top:30px}
 .PLCompareAdd_icon{width:45px;height:45px;border:1px dashed var(--md-bg-blur)}
-.PLCompareBtnShow{bottom:25px;left:25px}
+.PLCompareBtnShow{bottom:25px;left:25px}.PLCompareBtnShow_contain{border-radius:15px}
 .PLCompare{z-index:var(--z-index-lv3)}.PLCompare_contain{width:1200px;z-index:inherit}.PLCompare_item{position:relative;width:33.33%;padding:20px 0;border-right:1px solid var(--md-bg-blur)}.PLCompare_actions{width:25%}
+.PLCompare-mobile .PLCompare_contain{width:100%}.PLCompare-mobile .PLCompare_row{display:block}.PLCompare-mobile .PLCompare_actions{width:100%}.PLCompare-mobile .PLCompare_item{padding:0}.PLCompare-mobile .PLCompare_item img{width:50px;height:50px}.PLCompare-mobile .PLCompareItem_name{padding:5px;font-size:13px}.PLCompare-mobile .PLCompareActions{display:flex;flex-direction:row-reverse;padding-top:0;border-top:1px solid var(--md-bg-blur)}.PLCompare-mobile .PLCompareActions_col{margin:0;width:50%;padding:10px 0;line-height:unset;font-size:14px}.PLCompare-mobile .PLCompareBtnShow{left:10px;bottom:15px}
 .header_item{padding:.75rem .5rem;color:var(--md-color);cursor:pointer}.header_item:hover{background-color:var(--md-bg-hover)}.header_item_horizontal{padding:.5rem 1rem}.header_menu{display:flex;justify-content:center;align-items:center;height:calc(var(--height-header));padding:.5rem 1rem}.header_icon{display:flex;justify-content:center;align-items:center;width:2rem;height:2rem;background-color:var(--md-color-smoke);border-radius:50%;cursor:pointer}.header_icon:hover{background-color:var(--md-bg-hover)}.header_icon svg{width:1.25rem;height:1.25rem}.header_hidden{position:absolute;top:100%;width:22.5rem;max-width:100vw;border-top:1px solid var(--md-bg-blur)}.header-hidden-position{left:calc(50% - 15px)}.header_hidden_contain{width:100%;max-height:calc(100vh - 3.5rem);overflow-x:hidden;overflow-y:auto;border-radius:5px;background-color:var(--md-bg-primary);box-shadow:var(--box-shadow-fb)}.header_hidden_contain::-webkit-scrollbar{width:.5rem}.header_hidden_contain::-webkit-scrollbar-thumb{background-color:var(--md-bg-ccc);border-radius:5px}.nav-active .header_icon{background-color:var(--md-bg-fb-active)}
 .nav-active .IconsMenu{stroke:var(--blue);fill:var(--blue)}.nav-active .IconsMenu .IconsMenu_message-out{fill:var(--blue)}
 .nav-active .IconsProfile_phone{stroke:var(--blue)}
@@ -140,4 +141,4 @@ html{background-color:var(--md-bg-fb);overflow-y:scroll}*,::after,::before{box-s
 .DivFixAction_fixed .DivFixAction_contain{width:100vw;border-radius:0}.DivFixAction_contain{width:15rem;overflow:hidden}
 .AppScreen_inactive{position:fixed;width:100%;z-index:-1}
 
-/*# sourceMappingURL=7325163420f9528ce9d3.min.css.map*/
+/*# sourceMappingURL=4560975f826db312f67a.min.css.map*/
