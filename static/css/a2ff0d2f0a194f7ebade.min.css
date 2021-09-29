@@ -1,0 +1,8 @@
+.NoticeDiv{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%)}
+.FsPChangePassHead{border-bottom:1px solid var(--md-bg-blur)}
+.FsPChangePassForm{margin:auto;width:800px}
+.FsPChangePassSuccess{width:300px;height:150px}
+.FsPersonalChangePass{min-height:100%;padding:0px 30px 10px}.FsPersonalChangePass_form{margin-top:50px}
+.FashionPersonal-mobile .FsPersonalChangePass{padding:0 10px 10px}.FashionPersonal-mobile .FsPChangePassHead{padding:10px 0}.FashionPersonal-mobile .FsPersonalChangePass_form{margin-top:25px}.FashionPersonal-mobile .FsPChangePassForm{width:100%}.FashionPersonal-mobile .FsPChangePassForm_row{display:block}.FashionPersonal-mobile .FsPChangePassForm_forget{margin:0;padding:0;font-size:13px}
+
+/*# sourceMappingURL=a2ff0d2f0a194f7ebade.min.css.map*/

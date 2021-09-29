@@ -1,0 +1,16 @@
+
+.PLFilter_list_contain::after,.PLFilter_list_contain::before{content:"";position:absolute;bottom:100%;left:20px;border-width:0px 8px 10px 8px;border-style:solid}.PLFilter_title-active{border:1px solid var(--border-fashion)}.PLFilter_list{min-width:400px;max-width:600px}.PLFilter_list_contain::before{border-color:transparent transparent var(--md-bg-ccc)}.PLFilter_list_contain::after{transform:translateY(1px);border-color:transparent transparent var(--md-bg-primary)}
+.PLFilterItem:hover{border-color:var(--blue)}
+.PLFilterConfirm_btn{width:170px}
+.PLBrandItem{width:120px;border-radius:20px}.PLBrandItem:hover{border-color:var(--blue)}
+
+.PLProductHead_img{transition:bottom 150ms ease-in}
+.NoticeDiv{position:fixed;top:50%;left:50%;transform:translate(-50%, -50%)}
+.PLProduct:hover .PLProductHead_img{bottom:3px}.PLProduct:hover .PLProductFoot_name{color:var(--blue)}
+.ProductContent_item{width:200px}@media(max-width: 600px){.ProductContent_item{width:33.33%}}@media(max-width: 450px){.ProductContent_item{width:50%}}
+.PLPriceItem:hover{border-color:var(--blue)}
+
+@media(max-width: 500px){.ProductContent{padding:.5rem .25rem}.ProductContent_item{padding:0}.ProductSearch{padding:0}.ProductFilter_col{width:50%;padding:.3rem}}@media(max-width: 300px){.ProductContent{padding:.5rem 0}.ProductFilter_col{width:100%;padding:.25rem}}
+
+
+/*# sourceMappingURL=0e095c26f23b8a72af7e.min.css.map*/
