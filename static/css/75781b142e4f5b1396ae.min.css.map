@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://my_webpack/./src/pages/fashion/pages/personal/right/notifications/common/item/FsPNCommonItem.scss"],"names":[],"mappings":"AACI,mCACI,0B","file":"static/css/75781b142e4f5b1396ae.min.css","sourcesContent":[".FsPNCommonItem_link_contain{\r\n    &:hover{\r\n        border-color: currentColor;\r\n    }\r\n}"],"sourceRoot":""}
