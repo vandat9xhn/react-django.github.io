@@ -45,15 +45,19 @@
 .PLComments .Pagination{margin-left:0}.PLComments .PaginationItem_contain{background:var(--f1)}.PLComments .PaginationItem_contain-active{border:none;color:inherit;background:var(--ccc)}
 .PLDetail_notice-success{width:250px;max-width:95vw;height:150px}.PLDetail_relative{margin-bottom:30px}.PLDetail_seen{margin-bottom:30px}.PLDetail_comment{width:800px;padding:10px 24px}
 .PLDetail-mobile .PhoneDetailHead{padding:10px}.PLDetail-mobile .PhoneDetailHead_row{display:block}.PLDetail-mobile .PhoneDetailHead_left{display:block}.PLDetail-mobile .PhoneDetailHead_name{margin-right:0}.PLDetail-mobile .PhoneDetailHead_rate_compare{margin:5px 0}.PLDetail-mobile .PhoneDetailHead_compare{margin-left:auto}.PLDetail-mobile .PhoneDetailHead_like_share{font-size:12px}
-.PLDetail-mobile .PLDCarouselChoices{padding:0 10px 10px}.PLDetail-mobile .PLDCarouselChoices_row{width:100%;overflow-x:auto}.PLDetail-mobile .PLDCarouselChoices_row::-webkit-scrollbar{height:0}
 .PLDetail-mobile .PLCmtTotal_row{display:block}.PLDetail-mobile .PLComments_total_search{display:block;padding:0}.PLDetail-mobile .PLCmtTotal_count{margin:0 0 15px 0}.PLDetail-mobile .PLCmtSearch{width:100%;max-width:400px;margin-top:15px}
+.PLDetail-mobile .PLDetailArea{padding:0 10px}
+.PLDetail-mobile .PLDCarouselChoices{padding:0 10px 10px}.PLDetail-mobile .PLDCarouselChoices_row{width:100%;overflow-x:auto}.PLDetail-mobile .PLDCarouselChoices_row::-webkit-scrollbar{height:0}
+.PLDetail-mobile .PLDetailGroups{padding:0 10px}.PLDetail-mobile .PLDGroupItem{padding:5px 15px}
+.PLDetail-mobile .PLDetailMarket{padding:0 10px}
 .PLDetail-mobile .PLDetailPolicy{border-top:5px solid var(--md-bg-blur);border-bottom:5px solid var(--md-bg-blur)}.PLDetail-mobile .PLDetailPolicy_item{width:100%}.PLDetail-mobile .PLDetailPolicyItem{padding:10px 10px 10px 30px}.PLDetail-mobile .PLDetailPolicyItem_icon{left:5px}.PLDetail-mobile .PLDetailPolicyItem_icon svg{width:20px;height:20px}
 .PLDetail-mobile .PLDetailPost_contain{padding:10px;font-size:14px}.PLDetail-mobile .PLDetailPost_contain h3{font-size:16px}
-.PLDetail-mobile .PLDetail_breadcrumb{padding:10px}.PLDetail-mobile .PLDetail_comment{width:100%;padding:10px}.PLDetail-mobile .PLDetail_seen{margin-bottom:15px}.PLDetail-mobile .PLDetailOldProduct{padding:10px}
+.PLDetail-mobile .PLDetail_breadcrumb{padding:10px;white-space:nowrap}.PLDetail-mobile .PLDetail_breadcrumb .BreadCrumb{overflow:auto}.PLDetail-mobile .PLDetail_comment{width:100%;padding:10px}.PLDetail-mobile .PLDetail_seen{margin-bottom:15px}.PLDetail-mobile .PLDetailOldProduct{padding:10px}
 
 .PLDetail-mobile .PLDetailRating{padding:10px;border-radius:0}.PLDetail-mobile .PLDRatingHead_title{margin-bottom:10px;font-size:16px}.PLDetail-mobile .PLDRatingHead_row{display:block}.PLDetail-mobile .PLDRatingHead_bars{margin-bottom:10px;width:100%;max-width:250px;padding:0}.PLDetail-mobile .PLDRatingHead_pics{width:100%;padding:0;border:none}.PLDetail-mobile .PLRatesItemFoot{font-size:13px}.PLDetail-mobile .PLRatesItemFoot_row{display:block}.PLDetail-mobile .PLRatesItemFoot_left{margin-bottom:5px}
 .PLDetail-mobile .PLDetailRelative_title{margin-bottom:10px;padding:0 10px;font-size:16px}.PLDetail-mobile .PLDRltLinks{white-space:nowrap}.PLDetail-mobile .PLDRltLinks_row{flex-wrap:nowrap;overflow-x:auto}.PLDetail-mobile .PLDRltLinks_row::-webkit-scrollbar{height:0}.PLDetail-mobile .PLDRltLinks_item{margin:0 5px 0}
 .PLDetail-mobile .PLDetailShortConfig_title{margin-bottom:10px;padding:0 10px;font-size:16px}.PLDetail-mobile .PLDShortConfigItem_name{flex-shrink:0;width:120px}
 .PLDetail-mobile .PLDetailSeen_title{margin-bottom:10px;padding:0 10px;font-size:16px}
+.PLDetail-mobile .PLDOnePrice{padding:0 10px}.PLDetail-mobile .PLDOnePrice_new{font-size:16px}.PLDetail-mobile .PLDOnePrice_old{font-size:14px}.PLDetail-mobile .PLDOnePrice_discount{font-size:14px}.PLDetail-mobile .PLDOnePrice_installment{font-size:12px}
 
-/*# sourceMappingURL=89a80c7b77f79908d083.min.css.map*/
+/*# sourceMappingURL=79f4a5729fc40c6e997d.min.css.map*/
