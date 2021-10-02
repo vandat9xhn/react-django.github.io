@@ -130,6 +130,7 @@ body.device-mobile{font-size:14px}.device-mobile button,.device-mobile input,.de
 
 @media(max-width: 500px){.header_menu{padding:.75rem}.header-hidden-position{left:50%}.header_hidden_contain::-webkit-scrollbar{width:0}}@media(max-width: 350px){.header_hidden_contain{border-radius:0}.header_icon{width:1.8rem;height:1.8rem}.header_icon svg{width:1rem;height:1rem}}@media(max-width: 300px){.header_menu{padding:.5rem}}@media(max-width: 265px){.header_menu{padding:.4rem}.header_icon{width:1.6rem;height:1.6rem}.header_icon svg{width:1rem;height:1rem}}@media(max-width: 220px){.header_menu{padding:.25rem}.header_icon{width:1.5rem;height:1.5rem}.header_icon svg{width:.75rem;height:.75rem}}@media(max-width: 200px){.header_menu{padding:.2rem}.header_icon{width:1.4rem;height:1.4rem}.header_icon svg{width:.65rem;height:.65rem}}
 .FooterFashion{border-top:1px solid var(--md-bg-blur)}.FooterFashion_head_col{width:20%;min-width:175px;max-width:100%;padding:0 10px}
+.FooterPhone_col{width:25%;min-width:250px;max-width:100%;padding:10px}.FooterPhone_col .FooterLinkArr_item_link:hover{color:var(--blue)}.FooterPhone_phone_label{width:80px}
 .Footer{margin-top:1rem}.Footer_join{width:15px;height:2px;background-image:linear-gradient(to right, var(--color-django), var(--color-react));background-repeat:no-repeat}@media(max-width: 500px){.Footer_foot{font-size:16px}.Footer_join{width:12px}}
 
 .NatureDrop_ball{position:fixed;border-radius:50%}
@@ -141,4 +142,4 @@ body.device-mobile{font-size:14px}.device-mobile button,.device-mobile input,.de
 .DivFixAction_fixed .DivFixAction_contain{width:100vw;border-radius:0}.DivFixAction_contain{width:15rem;overflow:hidden}
 .AppScreen_inactive{position:fixed;width:100%;z-index:-1}
 
-/*# sourceMappingURL=96a6cc5558b5d1139c46.min.css.map*/
+/*# sourceMappingURL=303fbc00f4820d4bf3c4.min.css.map*/
