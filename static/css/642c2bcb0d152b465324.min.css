@@ -66,7 +66,7 @@
 .FsITiers{padding:20px}.FsITiers-pc{width:400px;max-height:400px}.FsITiers_title{margin-bottom:10px}.FsITiers_tier_item{margin:0px 8px 8px 0}.FsITiers_count .CountDownUpDiv_btn{border:1px solid var(--md-bg-blur)}.FsITiers_count .CountDownUpDiv_input{width:4rem;border:1px solid var(--md-bg-blur);color:var(--md-color-secondary)}
 .DiscountDealSymbol{height:20px;line-height:20px}.DiscountDealSymbol::before{content:"";position:absolute;right:100%;top:0;border-width:10px 10px 10px 0;border-style:solid;border-color:transparent currentColor transparent transparent}
 .CheckBox{width:1.25rem;height:1.25rem;transition:background-color 200ms}
-.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}
+.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}.CheckBoxCustom_box{color:var(--md-bg-primary)}
 
 .FsHotDealCal_foot_btn{min-height:3rem;border:1px solid currentColor}.FsHotDealCal_foot_btn .IconsMenu_fashion{stroke:currentColor}
 .FsHotDeal_not_fetched{height:280px}.FsHotDeal{padding:24px 30px}.FsHotDeal_head{margin-bottom:20px}.FsHotDeal_item{flex-shrink:0;margin-right:10px;width:160px;max-width:40%}.FsHotDeal_item-first{order:-1}.FsHotDeal_item_plus{margin:30px;order:-1}.FsHotDeal_item_cal{width:200px;min-width:160px}
@@ -91,4 +91,4 @@
 .FashionItem_mobile .FsIShopDiscount_row{display:flex}.FashionItem_mobile .FsIShopDiscountItem{margin-right:15px;width:240px}
 .FashionItem_mobile .FashionItemMayLike_item{width:33.33%}@media(max-width: 450px){.FashionItem_mobile .FashionItemMayLike_item{width:50%}}
 
-/*# sourceMappingURL=ed9188f8fdfbc135f399.min.css.map*/
+/*# sourceMappingURL=642c2bcb0d152b465324.min.css.map*/

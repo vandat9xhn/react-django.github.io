@@ -38,7 +38,7 @@
 .Pagination{width:fit-content;max-width:96%;overflow-x:auto;margin:auto}@media(max-width: 230px){.Pagination_row{flex-wrap:wrap}}
 .PLCommentsInput .InputFile{width:auto;height:auto}.PLCommentsInput .IconsInput{fill:currentColor;stroke:none}.PLCommentsInput .ImgVidPreview{display:flex;overflow-x:auto}.PLCommentsInput .ImgVidPreviewItem{flex-shrink:0;position:relative;width:170px;height:75px;padding:10px}.PLCommentsInput .ImgVidPreviewItem_delete{left:auto;right:0}.PLCommentsInput .ImgVidPreviewItem__icon-arrow{background-color:var(--shadow-8)}.PLCommentsInput_textarea{resize:none}
 .CheckBox{width:1.25rem;height:1.25rem;transition:background-color 200ms}
-.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}
+.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}.CheckBoxCustom_box{color:var(--md-bg-primary)}
 .PLCmtSearch{width:240px}
 .RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{width:45%;height:45%;background-color:var(--white)}
 .PLCmtItem_name_first{width:25px;height:25px}
@@ -61,4 +61,4 @@
 .PLDetail-mobile .PLDetailSeen_title{margin-bottom:10px;padding:0 10px;font-size:16px}
 .PLDetail-mobile .PLDOnePrice{padding:0 10px}.PLDetail-mobile .PLDOnePrice_new{font-size:16px}.PLDetail-mobile .PLDOnePrice_old{font-size:14px}.PLDetail-mobile .PLDOnePrice_discount{font-size:14px}.PLDetail-mobile .PLDOnePrice_installment{font-size:12px}
 
-/*# sourceMappingURL=bed89ebda21fd1f57c66.min.css.map*/
+/*# sourceMappingURL=a40254e2f0ba87b3d3eb.min.css.map*/

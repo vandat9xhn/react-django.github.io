@@ -7,7 +7,7 @@
 .FashionHR_cart .IconsMenu{stroke:var(--white)}.FashionHR_cart-count{position:absolute;top:-5px;right:5px}.FashionHR_personal-icon .IconsAction_add-friend_friend{stroke:#fff;stroke-width:15}.FashionHR_personal-icon .IconsAction_add-friend_plus{stroke:none}
 .FashionHCommon_contain{width:1250px;max-width:100%}.FashionHCommon_side{width:200px}.FashionHCommon-mobile .FashionHCommon{position:relative}.FashionHCommon-mobile .FashionHCommon_row{display:block}.FashionHCommon-mobile .FashionHCommon_left{width:fit-content;margin-bottom:.5rem}.FashionHCommon-mobile .FashionHCommon_center{width:100%}.FashionHCommon-mobile .FashionHCommon_right{position:absolute;right:.5rem;top:1rem;width:fit-content}.FashionHCommon-mobile .IconFav{width:2.5rem;height:2.5rem}.FashionHCommon-mobile .IconsMenu{width:1.5rem;height:1.5rem}.FashionHCommon-mobile .IconsAction{width:1.25rem;height:1.25rem}
 .CheckBox{width:1.25rem;height:1.25rem;transition:background-color 200ms}
-.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}
+.CheckBoxCustom-checked .CheckBoxCustom_box{color:var(--border-fashion)}.CheckBoxCustom_box{color:var(--md-bg-primary)}
 .CartHead_truck{border:1px solid rgba(224,168,0,.4)}.CartHead_checked{min-width:58px}.CartHead_product{width:46.2%}.CartHead_price{width:15.8%}.CartHead_count{width:15.4%}.CartHead_total{width:10.4%}.CartHead_action{width:12.7%}
 .FashionMallLike_side{width:3px}.FashionMallLike_side::before{content:"";position:absolute;left:0;top:100%;border-width:3px 0 0 3px;border-style:solid;filter:brightness(60%)}.FashionMallLike_side-mall::before{border-color:var(--fashion-mall) transparent transparent transparent}.FashionMallLike_side-like::before{border-color:var(--fashion-head) transparent transparent transparent}
 .FsCShopHead_mess .IconsMenu_message-out{fill:var(--fashion-head)}
@@ -69,4 +69,4 @@
 .FashionCart-mb .FsCartSummary_head{position:absolute;bottom:100%;left:0;width:100%;box-shadow:-1px 0 10px 2px var(--shadow-2);transition:all 250ms ease-in-out}.FashionCart-mb .FsCFsTotal_row{display:block}.FashionCart-mb .FsCFsTotal_left-not-done{justify-content:space-between;width:100%}.FashionCart-mb .FsCFsTotal_left_check{font-size:12px}.FashionCart-mb .FsCFsTotal_btn_buy{width:100%}
 .FashionCart-mb .FsCartShop_group_item{margin-top:15px}.FashionCart-mb .FsCShopVoucher{padding:8px}.FashionCart-mb .FsCSVoucherItem_card_left{padding:12px}.FashionCart-mb .FsCSVoucherItem_card_right{padding:0 10px}.FashionCart-mb .FsCSFreeShip{padding:8px}.FashionCart-mb .FsCSFreeShip_right_title{display:none}
 
-/*# sourceMappingURL=f3c6cfde532524703413.min.css.map*/
+/*# sourceMappingURL=06f12c158fafb0855d3f.min.css.map*/
