@@ -11,7 +11,7 @@
 .PaginationItem{margin:.25rem}.PaginationItem_contain{display:flex;justify-content:center;align-items:center;width:2rem;height:2rem;padding:.5rem;background-color:var(--border-fashion);color:#000;user-select:none;cursor:pointer}.PaginationItem_contain:hover{background-color:var(--fashion-hover)}.PaginationItem_contain-active{border:1px solid var(--danger);color:var(--white);font-weight:500}@media(max-width: 350px){.PaginationItem{margin:.1rem}.PaginationItem_contain{width:1.65rem;height:1.65rem;padding:.25rem}}
 .Pagination{width:fit-content;max-width:96%;overflow-x:auto;margin:auto}@media(max-width: 230px){.Pagination_row{flex-wrap:wrap}}
 .FashionRateSkeleton_title{width:50%}.FashionRateSkeleton_avg{width:60%}.FashionRateSkeleton_cmt_item{margin-bottom:1.5rem}.FashionRateSkeleton_user{width:10rem}.FashionRateSkeleton_cmt{width:75%}
-.ContentMore{width:100%;line-height:1.5rem;overflow:hidden;white-space:pre-wrap}
+.ContentMore{width:100%;overflow:hidden;white-space:pre-wrap}
 .FashionRateVidPic_image{margin-right:10px}.FashionRateVidPic_image img,.FashionRateVidPic_image video{width:72px;height:72px}
 .FsRateSellerReply{padding:14px 12px}.FsRateSellerReply_title{margin-bottom:10px;color:#8b572a}
 .FsRateIsGood_right{height:16px}
@@ -91,4 +91,4 @@
 .FashionItem_mobile .FsIShopDiscount_row{display:flex}.FashionItem_mobile .FsIShopDiscountItem{margin-right:15px;width:240px}
 .FashionItem_mobile .FashionItemMayLike_item{width:33.33%}@media(max-width: 450px){.FashionItem_mobile .FashionItemMayLike_item{width:50%}}
 
-/*# sourceMappingURL=642c2bcb0d152b465324.min.css.map*/
+/*# sourceMappingURL=80856d8e88487e6e96d7.min.css.map*/
