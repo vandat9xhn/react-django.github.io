@@ -101,7 +101,7 @@
 .CUPostMb{min-height:100vh}
 .PostHeadUser_time svg{width:12px;height:12px}
 
-.Post{margin:0 auto;width:500px;max-width:100%}.Post__user{display:flex;align-items:center;margin-right:2.5rem}.Post__actions{position:absolute;right:0;top:0}.Post_content{padding:.5rem}.Post_comment{margin-top:.5rem}@media(max-width: 400px){.Post{padding:.25rem}}
+.Post{margin:0 auto;width:500px;max-width:100%}.Post__user{display:flex;align-items:center;margin-right:2.5rem}.Post__actions{position:absolute;right:0;top:0}.Post_content{padding:.5rem}.Post__text-bg{height:350px;max-height:75vw;padding:10% 15%;background-size:100% 100%;background-repeat:no-repeat}.Post_comment{margin-top:.5rem}@media(max-width: 500px){.Post__text-bg{font-size:15px}}@media(max-width: 400px){.Post{padding:.25rem}}
 .Posts_item{margin-bottom:1rem}@media(max-width: 330px){.Posts_new{margin-bottom:.75rem}}
 
-/*# sourceMappingURL=d6dfccfd29b57fd9cc95.min.css.map*/
+/*# sourceMappingURL=8d9e5126fef470281dac.min.css.map*/
