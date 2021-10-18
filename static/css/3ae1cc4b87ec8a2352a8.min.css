@@ -128,10 +128,14 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .ItemNotice .PictureNameCommon_contain{height:auto}.ItemNotice .PictureNameCommon_row{align-items:flex-start}.ItemNotice .PictureNameCommon__pic{width:2.5rem;height:2.5rem}.ItemNotice .PictureNameCommon__name-content{display:-webkit-box;-webkit-line-clamp:3;line-height:1.5rem;max-width:calc(100% - 1rem);max-height:4.5rem;overflow:hidden}.ItemNotice .PictureNameCommon__name{margin-right:.25rem}.ItemNotice_contain{border-bottom:1px solid var(--md-bg-ccc)}.ItemNotice_time{text-align:end;font-size:11px;font-style:italic}
 .Header_notice .HeaderNotice__bell svg{width:1rem;height:1rem}
 @media(max-width: 300px){.RightHeader__icon{padding:.25rem}}@media(max-width: 250px){.RightHeader__icon svg{width:1rem;height:1rem}}
+.PLChooseAddressInput_list{max-height:300px}.PLChooseAddressInput_list-none{max-height:0;padding-top:0;padding-bottom:0}.PLChooseAddressInput_list_contain{max-height:220px}
+.PLChooseAddressHead{height:60px}.PLChooseAddressHead .IconsArrow_close{stroke:currentColor}
+.PLChooseAddress_contain{padding:15px 45px}.PLChooseAddress_btn{background-color:var(--border-fashion);background-image:linear-gradient(top bottom, var(--gold), var(--border-fashion))}
+.PLChooseAddressScreen{margin:auto;width:500px;min-height:100vh;padding:5rem 0}.device-mobile .PLChooseAddressScreen{width:600px;max-width:100%;padding:0}.device-mobile .PLChooseAddress{border-radius:0;height:100vh;overflow-y:auto}.device-mobile .PLChooseAddressHead{justify-content:flex-start;height:48px;padding-left:10px}.device-mobile .PLChooseAddress_contain{padding:10px}
 .PLHeadTopRightPc_item{border-left:1px solid var(--md-color-secondary);white-space:pre-wrap}
 .FavWithLetter_letter_contain{width:2rem;height:2rem}
 .PLHeadSearch_input{padding:8px 35px 8px 13px}.PLHeadSearch_btn{right:8px;top:4px}
-.PLHeadTopLeftPc_separate{width:1px;height:100%;background-color:var(--md-color-secondary)}.PLHeadTopLeftPc_cart_row{border:1px solid currentColor}.PLHeadTopLeftPc_cart_row .IconsMenu_fashion{stroke:currentColor}
+.PLHeadTopLeftPc_separate{width:1px;height:100%;background-color:var(--md-color-secondary)}.PLHeadTopLeftPc_address_name{max-width:100px}.PLHeadTopLeftPc_cart_row{border:1px solid currentColor}.PLHeadTopLeftPc_cart_row .IconsMenu_fashion{stroke:currentColor}
 .PLHeadTopPc_row{height:40px}
 .PLHeadAccessories{width:770px;padding:10px 10px 25px 10px}.PLHeadAccessories_left{width:33.33%}.PLHeadAccessories_right{width:66.67%}.PLHeadAccessories_right_part{width:50%}
 .PLHeadPcPrinter{width:150px}
@@ -139,7 +143,7 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .PLHMNavLinksMb_item{width:calc(20% - 5px);white-space:pre-wrap;min-height:44px}
 .PLHMGroupsMb .PLHeadList_title{margin-bottom:5px;border-bottom:none;font-weight:700}.PLHMGroupsMb .PLHeadList_item{padding:5px 0;font-size:12px}.PLHMGroupsMb .PLHeadList_item:not(:first-child){border-top:1px solid var(--md-bg-blur)}
 .PLHeadMenuMb .IconsArrow_close{stroke:currentColor}
-.PLHeadMb_row{height:45px;white-space:nowrap}.PLHeadMb_row .IconsMenu,.PLHeadMb_row .IconsProfile{stroke:currentColor}.PLHeadMb_row .IconsMenu_menu{stroke-width:15}.PLHeadMb_row .PLHeadSearch_input{font-size:12px}.PLHeadMb_separate{width:1px;height:100%;background-color:var(--md-color-secondary)}.PLHeadMb_menu{transition:transform 250ms ease}
+.PLHeadMb_row{height:45px;white-space:nowrap}.PLHeadMb_row .IconsMenu,.PLHeadMb_row .IconsProfile{stroke:currentColor}.PLHeadMb_row .IconsMenu_menu{stroke-width:15}.PLHeadMb_row .PLHeadSearch_input{font-size:12px}.PLHeadMb_address_name{max-width:50px;white-space:normal}.PLHeadMb_separate{width:1px;height:100%;background-color:var(--md-color-secondary)}.PLHeadMb_menu{transition:transform 250ms ease}
 
 @media(max-width: 500px){.header_menu{padding:.75rem}.header-hidden-position{left:50%}.header_hidden_contain::-webkit-scrollbar{width:0}}@media(max-width: 350px){.header_hidden_contain{border-radius:0}.header_icon{width:1.8rem;height:1.8rem}.header_icon svg{width:1rem;height:1rem}}@media(max-width: 300px){.header_menu{padding:.5rem}}@media(max-width: 265px){.header_menu{padding:.4rem}.header_icon{width:1.6rem;height:1.6rem}.header_icon svg{width:1rem;height:1rem}}@media(max-width: 220px){.header_menu{padding:.25rem}.header_icon{width:1.5rem;height:1.5rem}.header_icon svg{width:.75rem;height:.75rem}}@media(max-width: 200px){.header_menu{padding:.2rem}.header_icon{width:1.4rem;height:1.4rem}.header_icon svg{width:.65rem;height:.65rem}}
 .FooterFashion{border-top:1px solid var(--md-bg-blur)}.FooterFashion_head_col{width:20%;min-width:175px;max-width:100%;padding:0 10px}
@@ -155,4 +159,4 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .DivFixAction_fixed .DivFixAction_contain{width:100vw;border-radius:0}.DivFixAction_contain{width:15rem;overflow:hidden}
 .AppScreen_inactive{position:fixed;width:100%;z-index:-1}
 
-/*# sourceMappingURL=9b5a2a4b50debd0923e1.min.css.map*/
+/*# sourceMappingURL=3ae1cc4b87ec8a2352a8.min.css.map*/

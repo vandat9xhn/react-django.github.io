@@ -78,18 +78,19 @@
 .SubsWs_list{display:flex;flex-direction:column-reverse}.SubsWs_item{margin-bottom:.75rem}.Subs_input{margin-bottom:1rem}
 .device-mobile .CommentWs_user-pic img{width:35px;height:35px}
 .CmtSub_head{position:relative;padding:.5rem;background-color:var(--md-bg-fb);border-radius:18px}.CmtSub_edit{position:absolute;right:10px;top:0}.CmtSub_foot{position:relative;padding-bottom:.75rem;font-size:14px;user-select:none}.CmtSub_reply{margin:0 .5rem;cursor:pointer}.CmtSub_reply:hover{color:var(--blue)}.CmtSub_total-like{cursor:pointer}.CmtSub_time{position:absolute;bottom:20px;right:5px;font-size:12px;font-style:italic;cursor:default}
-.CUPHomeHeadMb_back .IconsArrow_back-prev{stroke:currentColor}
 .Comments_list{display:flex;flex-direction:column-reverse}.Comment__input{position:relative;margin-bottom:1rem;margin-left:auto;margin-right:auto;width:calc(100% - 1rem)}.Comment__input .CommentInput .InputFile{width:1.5rem;height:1.5rem}.Comment__input .CommentInput .InputFile .IconsInput{width:1rem;height:1rem}.Comment__input .CommentInput_preview{position:absolute;bottom:100%}.Comments_input_contain{padding-top:.25rem;border-top:1px solid var(--md-bg-ccc)}
-.CUPHomeContentMb_input-color .CUPHomeContentMb_textarea{min-height:100px}.CUPHomeContentMb_input-bg{height:250px;background-size:100% 100%;background-repeat:no-repeat}.CUPHomeContentMb_input-bg .CUPHomeContentMb_textarea{max-width:80%;max-height:80%;text-align:center}.CUPHomeContentMb_bg_item{width:32px;height:32px}
+.CUPHomeHeadMb_back .IconsArrow_back-prev{stroke:currentColor}
 @media(max-width: 300px){.Comments{font-size:14px}.Comments .PictureName{font-size:12px}.Comments .PictureNameCommon_contain{height:auto}.Comments .PictureNameCommon__pic{width:30px;height:30px}.Comments .ScreenBlurShowMore{font-size:14px}.Comments .ScreenBlurShowMore .IconsLoader{width:1.5rem;height:1.5rem}.Comments .ListUniqueLike .IconsTypeLike{width:.8rem;height:.8rem}.Comments .ListUniqueLike_item{margin:.1rem}.CommentWsHead_user{font-size:12px}.CommentWs_user-pic img{width:35px;height:35px}.CmtSub_content{padding:0}}
-.CUPHomeUserMb .BtnPermission{font-size:12px;font-weight:400}
+.CUPHomeContentMb_input-color .CUPHomeContentMb_textarea{min-height:100px}.CUPHomeContentMb_input-bg{height:250px;background-size:100% 100%;background-repeat:no-repeat}.CUPHomeContentMb_input-bg .CUPHomeContentMb_textarea{max-width:80%;max-height:80%;text-align:center}.CUPHomeContentMb_bg_item{width:32px;height:32px}
 .VidPicHistory_item:not(:last-child){margin-bottom:.5rem}
-.CUPostBtnPreviewMbMb{width:27px;height:27px}.CUPostBtnPreviewMbMb .IconsEdit_pen{fill:#fff}.CUPostBtnPreviewMbMb .IconsAction_del_cap{stroke:#fff}.CUPostBtnPreviewMbMb .IconsAction_del_bucket{stroke:#000;fill:#fff}
+.CUPHomeUserMb .BtnPermission{font-size:12px;font-weight:400}
 .VidPicUpdate_textarea{margin-bottom:1rem;border:1px solid var(--md-bg-ccc)}.VidPicUpdate_textarea-item{min-height:8rem;max-height:8rem;overflow-y:auto}
-.CUPHVidPicItemMb{width:100px;height:100px}
+.CUPostBtnPreviewMbMb{width:27px;height:27px}.CUPostBtnPreviewMbMb .IconsEdit_pen{fill:#fff}.CUPostBtnPreviewMbMb .IconsAction_del_cap{stroke:#fff}.CUPostBtnPreviewMbMb .IconsAction_del_bucket{stroke:#000;fill:#fff}
 .ZoomVidPicItem .Comments_input{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:100%}.ZoomVidPicItem .Comments_input .Comments_input_contain{width:100%;padding:.25rem;background-color:var(--md-bg-primary);box-shadow:0 0 1px 1px var(--md-bg-ccc);border-radius:5px}.ZoomVidPicItem .Comments_input .CommentPost_user img{width:35px;height:35px}.ZoomVidPicItem .Comments_input .CommentInput_preview{position:absolute;bottom:100%}@media(max-width: 1000px){.ZoomVidPicItem .Comments_input{transform:translateX(-51.5%);width:auto}.ZoomVidPicItem .Comments_input .Comments_input_contain{width:500px}.ZoomVidPicItem .Comments_input .CommentPost_user img{width:30px;height:30px}}@media(max-width: 500px){.ZoomVidPicItem .Comments_input{transform:translateX(-50%)}.ZoomVidPicItem .Comments_input .Comments_input_contain{width:100vw}}
-.CUPostPhotoMb_text{max-height:80%;overflow-y:auto;white-space:pre-wrap}.CUPostPhotoMb_actions_item{display:flex;align-items:center;padding:10px}.CUPostPhotoMb_actions_item .IconsInput{stroke:#fff}.CUPostPhotoMb_actions_item_title{flex-grow:1;margin-right:10px;text-align:end}
+.CUPHVidPicItemMb{width:100px;height:100px}
 
+.CUPostPhotoMb_text{max-height:80%;overflow-y:auto;white-space:pre-wrap}.CUPostPhotoMb_actions_item{display:flex;align-items:center;padding:10px}.CUPostPhotoMb_actions_item .IconsInput{stroke:#fff}.CUPostPhotoMb_actions_item_title{flex-grow:1;margin-right:10px;text-align:end}
+.PostText-bg{height:350px;max-height:75vw;padding:10% 15%;background-size:100% 100%;background-repeat:no-repeat}@media(max-width: 500px){.PostText-bg{font-size:15px}}
 .CUPTagSearchMb_input{border-radius:15px}
 
 .CheckBox{width:1.25rem;height:1.25rem;transition:background-color 200ms}
@@ -102,7 +103,6 @@
 .PostHeadUser_time svg{width:12px;height:12px}
 
 .Post{margin:0 auto;width:500px;max-width:100%}@media(max-width: 400px){.Post{padding:.25rem}}
-.PostText-bg{height:350px;max-height:75vw;padding:10% 15%;background-size:100% 100%;background-repeat:no-repeat}@media(max-width: 500px){.PostText-bg{font-size:15px}}
 .Posts_item{margin-bottom:1rem}@media(max-width: 330px){.Posts_new{margin-bottom:.75rem}}
 
-/*# sourceMappingURL=93cab501b2cf6f7f9d0d.min.css.map*/
+/*# sourceMappingURL=9865d146e5846add5cd9.min.css.map*/
