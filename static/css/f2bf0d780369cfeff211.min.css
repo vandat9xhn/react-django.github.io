@@ -80,7 +80,7 @@
 .CUPActivityTypeItem .IconsArrow_next{stroke:var(--md-color-third)}
 .PostCmtEditInput_btn_confirm{display:inline-block;padding:4px 8px;border-radius:6px;color:var(--blue);font-size:12px;cursor:pointer}.PostCmtEditInput_btn_confirm:hover{background-color:var(--md-bg-fb)}
 .CUPostActivity_title .IconsArrow_close{stroke:currentColor}
-.PostCmt-holding{position:relative}.PostCmt-holding::after{content:"";position:absolute;left:0;top:0;width:100%;height:100%;background-color:var(--shadow-2)}
+.PostCmt-holding::after{content:"";position:absolute;left:0;top:0;width:100%;height:100%;background-color:var(--shadow-2)}
 .CUPostEmoji{width:500px;min-height:450px}
 .cmt-contain{position:relative;padding:5px 5px 5px 16px}.sub-contain{position:relative;padding:5px 5px 5px 60px}.sub-2-contain{position:relative;padding:5px 5px 5px 98px}.sub-input{padding-right:11px}.cmt-connect-straight{position:absolute;width:2px;background-color:var(--md-bg-fb)}.cmt-connect-straight-1{top:43px;left:30px;height:calc(100% - 43px)}.cmt-connect-straight-1-child{top:0;left:30px;height:100%}.cmt-connect-straight-2{top:40px;left:71px;height:calc(100% - 40px)}.cmt-connect-straight-2-child{top:0;left:71px;height:100%}.cmt-connect-curved{position:absolute;top:0;border-left:2px solid var(--md-bg-fb);border-bottom:2px solid var(--md-bg-fb);border-bottom-left-radius:10px}.cmt-connect-curved-1{left:30px;width:24px;height:20px}.cmt-connect-curved-2{left:71px;width:22px;height:20px}.device-mobile .cmt-contain{padding-left:5px}.device-mobile .sub-contain{padding-left:35px}.device-mobile .sub-input{padding-right:0}.device-mobile .cmt-connect-straight,.device-mobile .cmt-connect-curved{display:none}
 .CUPostMoreInput{width:500px}
@@ -116,7 +116,7 @@
 .PostHeadUser_time svg{width:12px;height:12px}
 
 .PostHeadAction_list-pc{width:18rem;max-width:100vw}.PostHeadAction_list-mb{max-height:calc(100% - 60px)}
-.Post{margin:0 auto;width:500px;max-width:100%}@media(max-width: 400px){.Post{padding:.25rem}}
+.Post{margin:0 auto;width:500px;max-width:100%}
 .Posts_item{margin-bottom:1rem}@media(max-width: 330px){.Posts_new{margin-bottom:.75rem}}
 
-/*# sourceMappingURL=af202ec1c5e963c1c4fb.min.css.map*/
+/*# sourceMappingURL=f2bf0d780369cfeff211.min.css.map*/
