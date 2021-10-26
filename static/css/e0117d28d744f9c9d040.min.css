@@ -1,12 +1,7 @@
 
-.action-item{width:100%;padding:.75rem .5rem;border-bottom:1px solid var(--md-bg-ccc);font-weight:500;cursor:pointer}.action-item:hover{background-color:var(--md-bg-blur)}
-.ActionsBtnToggle_icon{width:2rem;height:2rem}
-
-
-
 .FriendEditActionContain_item{padding:10px;border-radius:6px;font-weight:600;cursor:pointer}.FriendEditActionContain_item:hover{background-color:var(--md-bg-fb)}
 .FriendEditAction_list-pc{width:18rem;max-width:100vw}.FriendEditAction_list-mb{max-height:calc(100% - 60px)}
 .FriendEdit{box-shadow:0 1px 4px var(--shadow-2)}.FriendEdit_right{right:5px;top:5px}
 .ProfileFriend{margin:0 auto 1.5rem;width:900px;max-width:100%}.ProfileFriend_item{margin:.5rem 0;width:calc(50% - 10px)}@media(max-width: 700px){.ProfileFriend_item{width:100%}}
 
-/*# sourceMappingURL=b2835f0db6f84a2b6bfd.min.css.map*/
+/*# sourceMappingURL=e0117d28d744f9c9d040.min.css.map*/
