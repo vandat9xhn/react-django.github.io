@@ -32,7 +32,7 @@
 .ActionsMultiList_contain-pc{width:350px}.ActionsMultiList_contain-mb{max-height:calc(100% - 60px)}.ActionsMultiList_separate{height:1px}
 .BtnProfileFriend .IconsAction_add-friend_plus{stroke:none}
 .BtnProfileReplyRequest_btn .IconsAction_add-friend_friend{fill:currentColor}.BtnProfileReplyRequest_btn .IconsAction_add-friend_plus{stroke:none}
-.ActionPreviewProfilePc{z-index:var(--z-index-lv1)}.ActionPreviewProfilePc_contain{width:400px;padding:16px}.ActionPreviewProfilePc_right svg{flex-shrink:0;margin:2px 10px 0 0;width:20px;height:20px}.ActionPreviewProfilePc_btn{margin:0 4px}.ActionPreviewProfilePc_btn_main button{width:100%}.ActionPreviewProfilePc_other_contain{z-index:var(--z-index-lv1)}
+.ActionPreviewProfilePc_contain{width:400px;padding:16px}.ActionPreviewProfilePc_right svg{flex-shrink:0;margin:2px 10px 0 0;width:20px;height:20px}.ActionPreviewProfilePc_btn{margin:0 4px}.ActionPreviewProfilePc_btn_main button{width:100%}
 .CmtReactedItem .IconLike{stroke:var(--blue)}.CmtReactedItem .IconsTypeLike{width:16px;height:16px}
 .CmtReactedTitle{border-radius:20px;box-shadow:0 1px 3px var(--shadow-2)}.CmtReactedTitle .IconsTypeLike{width:14px;height:14px}
 .CmtVidPic img,.CmtVidPic video{margin:0 auto;max-width:100%;max-height:200px}.CmtVidPic_contain{width:fit-content;min-width:150px;max-width:calc(100% - 30px);border-radius:18px}.CmtVidPic_pic{border-radius:18px}
@@ -56,4 +56,4 @@
 .VidPicUpdate_textarea{margin-bottom:1rem;border:1px solid var(--md-bg-ccc)}.VidPicUpdate_textarea-item{min-height:8rem;max-height:8rem;overflow-y:auto}
 .ZoomVidPicItem .Comments_title{padding:10px}.ZoomVidPicItem .Comments_input{position:absolute;bottom:0;left:50%;transform:translateX(-50%);z-index:1;width:100%;background-color:var(--md-bg-primary)}.ZoomVidPicItem .Comments_input .CommentInput_preview{position:absolute;bottom:100%}@media(max-width: 1000px){.ZoomVidPicItem .Comments_input{transform:translateX(-51.5%);max-width:500px}}@media(max-width: 500px){.ZoomVidPicItem .Comments_input{transform:translateX(-50%)}}
 
-/*# sourceMappingURL=615bc16daf58facb0291.min.css.map*/
+/*# sourceMappingURL=55a392feae956926d356.min.css.map*/

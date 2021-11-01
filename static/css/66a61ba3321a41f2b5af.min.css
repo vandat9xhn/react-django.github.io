@@ -8,13 +8,13 @@
 .device-mobile .ProfileInfoActions_item{flex-grow:1}.device-mobile .ProfileInfoActions_item button{width:100%}
 .ProfileInfoBio{max-width:500px}
 .ProfileInfoPicture{width:160px}.ProfileInfoPicture_link-story{border:3px solid var(--blue)}.ProfileInfoPicture_img{border:3px solid var(--white)}.device-mobile .ProfileInfoPicture{width:100%;height:75px}.device-mobile .ProfileInfoPicture_contain{transform:translateX(-50%);left:50%;width:120px;height:120px}.device-mobile .ProfileInfoPicture_link{height:100%}.device-mobile .ProfileInfoPicture_img{height:100%}
-.ProfileInfo_name_friend{margin:32px 0 16px 16px}.ProfileInfo_actions{margin:32px 0 16px 32px}.device-mobile .ProfileInfo_user_action{display:block}.device-mobile .ProfileInfo_user{display:block}.device-mobile .ProfileInfo_name_friend{margin:10px 0}.device-mobile .ProfileInfo_actions{margin:0;padding:10px 5px}.device-mobile .ProfileInfo_bio{padding:10px}
 .ProfileInfoCover_bg_contain{background-repeat:no-repeat;background-size:100% 100%;filter:blur(100px)}.ProfileInfoCover_contain{width:950px;max-width:100%;padding-top:32%;background-image:linear-gradient(to top, var(--shadow-2), transparent 30%, transparent);border-bottom-left-radius:10px;border-bottom-right-radius:10px}.ProfileInfoCover_img{border-bottom-left-radius:10px;border-bottom-right-radius:10px}.device-mobile .ProfileInfoCover_contain{padding-top:40%}
 .ProfileInfoName_name{line-height:38px;font-size:32px}.ProfileInfoName_nick{font-size:28px}.device-mobile .ProfileInfoName_name{line-height:unset;text-align:center;font-size:16px}.device-mobile .ProfileInfoName_nick{font-size:inherit}
 .ProfileInfoFriends_item{position:relative;width:30px;height:30px}.ProfileInfoFriends_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white)}
+.ProfileInfo_name_friend{margin:32px 0 16px 16px}.ProfileInfo_actions{margin:32px 0 16px 32px}.device-mobile .ProfileInfo_user_action{display:block}.device-mobile .ProfileInfo_user{display:block}.device-mobile .ProfileInfo_name_friend{margin:10px 0}.device-mobile .ProfileInfo_actions{margin:0;padding:10px 5px}.device-mobile .ProfileInfo_bio{padding:10px}
 .ProfileMoreItem-active .ProfileMoreItem_contain{border-bottom:3px solid currentColor}.ProfileMoreItem_contain{height:60px}
 .ProfileMore{width:900px;max-width:100%}
 .device-mobile .ProfileSentFriendRequest{padding:10px}.device-mobile .ProfileSentFriendRequest_row{display:block}.device-mobile .ProfileSentFriendRequest_title{font-size:inherit}.device-mobile .ProfileSentFriendRequest_btn{flex-grow:1}.device-mobile .ProfileSentFriendRequest_btn button{width:100%}
 .Profile_head{box-shadow:0 1px 2px var(--shadow-1)}.device-mobile .Profile_sent_request{padding-bottom:10px}
 
-/*# sourceMappingURL=96082ee9becdef68adca.min.css.map*/
+/*# sourceMappingURL=66a61ba3321a41f2b5af.min.css.map*/

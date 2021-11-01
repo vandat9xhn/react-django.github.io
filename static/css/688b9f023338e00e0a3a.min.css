@@ -58,7 +58,7 @@
 .CUPFVLThumnailSuggested_thumbnail{height:160px}.CUPFVLThumnailSuggested_btn{display:flex;justify-content:center;align-items:center;height:36px;padding:0 12px;border-radius:6px}.CUPFVLThumnailSuggested_btn-active{background-color:var(--md-bg-ccc);color:var(--md-color-secondary);cursor:pointer}.CUPFVLThumnailSuggested_btn-active:hover{background-color:var(--md-bg-blur)}.CUPFVLThumnailSuggested_btn-disable{background-color:var(--md-bg-fb);color:var(--md-color-smoke);cursor:not-allowed}
 
 
-.ActionPreviewProfilePc{z-index:var(--z-index-lv1)}.ActionPreviewProfilePc_contain{width:400px;padding:16px}.ActionPreviewProfilePc_right svg{flex-shrink:0;margin:2px 10px 0 0;width:20px;height:20px}.ActionPreviewProfilePc_btn{margin:0 4px}.ActionPreviewProfilePc_btn_main button{width:100%}.ActionPreviewProfilePc_other_contain{z-index:var(--z-index-lv1)}
+.ActionPreviewProfilePc_contain{width:400px;padding:16px}.ActionPreviewProfilePc_right svg{flex-shrink:0;margin:2px 10px 0 0;width:20px;height:20px}.ActionPreviewProfilePc_btn{margin:0 4px}.ActionPreviewProfilePc_btn_main button{width:100%}
 .CUPostFixVideo_row{height:410px}
 .CmtReactedItem .IconLike{stroke:var(--blue)}.CmtReactedItem .IconsTypeLike{width:16px;height:16px}
 .CUPostDetail{width:1100px;max-width:80vw}.cu-post-detail-left{flex-shrink:0;width:360px}
@@ -117,4 +117,4 @@
 .Post{margin:0 auto;width:500px;max-width:100%}@media(max-width: 500px){.Post{border-radius:0}}
 .Posts_item{margin-bottom:1rem}@media(max-width: 330px){.Posts_new{margin-bottom:.75rem}}
 
-/*# sourceMappingURL=499bde7f73f6ae07f336.min.css.map*/
+/*# sourceMappingURL=688b9f023338e00e0a3a.min.css.map*/

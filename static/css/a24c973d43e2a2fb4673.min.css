@@ -1,0 +1,24 @@
+.FriendsLayOutPc_left{position:sticky;top:calc(var(--height-header));width:360px;height:calc(100vh - var(--height-header));box-shadow:1px 0px 4px var(--shadow-1)}
+.FriendsLayOutMb{min-height:100vh}
+.FriendsLayOut_left{position:sticky;top:calc(var(--height-header));width:360px;height:calc(100vh - var(--height-header));box-shadow:1px 0px 4px var(--shadow-1)}
+.device-mobile .FriendsLeftHeadHome{padding:10px}.device-mobile .FriendsLeftHeadHome_title{font-size:18px}
+.BtnProfileActions{height:36px}.BtnProfileActions svg{width:16px;height:16px}.BtnProfileActions .IconsAction_add_friend{stroke:currentColor}
+.BtnProfileAddStory_icon{width:16px;height:16px;padding:2px}
+.EditIcons_active circle{animation:waiting_pen 2s infinite}.EditIcons_active circle:nth-child(2){animation-delay:.5s}.EditIcons_active circle:nth-child(3){animation-delay:1s}@keyframes waiting_pen{0%{opacity:0;visibility:visible}100%{opacity:1;visibility:hidden}}
+.ActionsMultiList_contain-pc{width:350px}.ActionsMultiList_contain-mb{max-height:calc(100% - 60px)}.ActionsMultiList_separate{height:1px}
+.BtnProfileFriend .IconsAction_add-friend_plus{stroke:none}
+.BtnProfileReplyRequest_btn .IconsAction_add-friend_friend{fill:currentColor}.BtnProfileReplyRequest_btn .IconsAction_add-friend_plus{stroke:none}
+.ActionPreviewProfilePc_contain{width:400px;padding:16px}.ActionPreviewProfilePc_right svg{flex-shrink:0;margin:2px 10px 0 0;width:20px;height:20px}.ActionPreviewProfilePc_btn{margin:0 4px}.ActionPreviewProfilePc_btn_main button{width:100%}
+.LoaderDiv{padding:1rem}
+.ListPeople_item:not(:first-child){padding-top:2px}
+.MouseEnterLeaveInfo_contain-closing{transition:opacity 200ms ease-in}
+.MouseEnterLeaveInfo .PictureName .PictureNameCommon_contain{color:var(--white)}.MouseEnterLeaveInfo_list{position:absolute;z-index:var(--z-index-lv1);width:15rem}
+.AddFriendListMutual_item{position:relative;width:16px;height:16px}.AddFriendListMutual_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:18px;height:18px;border:1px solid var(--white)}
+.AddFriendBtn{height:36px;padding:0 px}
+.AddFriendAdd_mutual{height:28px}.AddFriendAdd_btn{margin:6px 10px;height:36px}
+.AddFriendSuggest_first_btn:hover{background-color:#deebf5}
+.FriendHomeRight{padding:20px 36px}
+.FriendsHomeLeft_item{height:52px}.FriendsHomeLeft_item-active .FriendsHomeLeft_item_icon{background-color:var(--blue);color:#fff}.FriendsHomeLeft_item_icon svg{width:20px;height:20px}.FriendsHomeLeft_item_icon .IconFriend,.FriendsHomeLeft_item_icon .IconFriends{fill:currentColor}.device-mobile .FriendsHomeLeft{padding-left:0}.device-mobile .FriendsHomeLeft_item{height:auto;padding:10px;border-radius:0;font-size:15px}.device-mobile .FriendsHomeLeft_item .IconsArrow{width:16px;height:16px}.device-mobile .FriendsHomeLeft_item_icon svg{width:18px;height:18px}
+.friend-home-right-item{width:229px;padding:5px}
+
+/*# sourceMappingURL=a24c973d43e2a2fb4673.min.css.map*/
