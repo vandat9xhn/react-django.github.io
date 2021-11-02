@@ -48,7 +48,7 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .NextPrevDiv_icon-circle{width:1.75rem;height:1.75rem;transition:transform 250ms}.NextPrevDiv_icon-circle:hover{box-shadow:var(--box-shadow-fb);transform:scale(1.5)}.NextPrevDiv_icon-rect{width:35px;height:60px;background:#00000052}.NextPrevDiv_icon-rect svg{stroke:var(--white)}.NextPrevDiv_icon-rect-next{border-bottom-left-radius:5px;border-top-left-radius:5px}.NextPrevDiv_icon-rect-prev{border-top-right-radius:5px;border-bottom-right-radius:5px}@media(max-width: 500px){.NextPrevDiv_icon{padding:.25rem}.NextPrevDiv_icon svg{width:1rem;height:1rem}}
 .HeaderMessHeadPc{user-select:none}.HeaderMessHeadPc img{-webkit-user-drag:none}.HeaderMessHeadPc .BtnNexPrev{box-shadow:var(--box-shadow-fb);background-color:var(--md-bg-ccc);opacity:.75}.HeaderMessHeadPc .BtnNexPrev:hover{opacity:1}
 
-.action-item{width:100%;padding:.75rem .5rem;border-bottom:1px solid var(--md-bg-ccc);font-weight:500;cursor:pointer}.action-item:hover{background-color:var(--md-bg-blur)}
+.action-item{width:100%;padding:.75rem .5rem;border-bottom:1px solid var(--md-bg-ccc);font-weight:500;cursor:pointer}.action-item:hover{background-color:var(--md-bg-blur)}.action-contain-mb-bottom{position:absolute;bottom:0;left:0;width:100%;max-height:calc(100vh - 60px);background-color:var(--md-bg-primary);overflow-y:auto}.action-contain-mb-bottom::-webkit-scrollbar{display:none}
 .ActionsBtnToggle_icon{width:2rem;height:2rem}
 
 
@@ -58,12 +58,14 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .ActionsMultiListContain_separate{height:1px}.ActionsMultiListContain_div_loading{z-index:calc(var(--z-index-lv5) + 100)}
 .HeaderMessItem .ActionsPc-hidden{display:none}.HeaderMessItem:hover .ActionsPc-hidden{display:block}.HeaderMessItemAction_btn{width:36px;height:36px;box-shadow:0 0 0 1px var(--shadow-1)}.HeaderMessItemAction_contain-pc{width:350px;z-index:var(--z-index-lv5)}.HeaderMessItemAction_contain-mb{max-height:calc(100% - 60px)}
 .HeaderMessItem_new{width:14px;height:14px}.HeaderMessItem_action{right:16px}.HeaderMessItem_time{white-space:nowrap}.device-mobile .HeaderMessItem_contain{padding-right:25px}.device-mobile .HeaderMessItem_pic{width:40px;height:40px}.device-mobile .HeaderMessItem_action{transform:rotate(90deg);top:0;right:0}.device-mobile .HeaderMessItemAction_btn{width:auto;height:auto;padding:8px;border:none;background:transparent;box-shadow:none}.device-mobile .HeaderMessItemAction_btn .IconThreeDot{width:15px;height:15px}
+.Switch_btn{position:relative;width:2.2rem;height:1rem;border-radius:20px;border:1px solid var(--bg-blur);cursor:pointer}.Switch_ball{position:absolute;left:.1rem;top:50%;width:.8rem;height:.8rem;border-radius:50%;background-color:var(--bg-blur);transform:translateY(-50%);transition:all .3s}.Switch_open{background-color:var(--blue)}.Switch_open .Switch_ball{left:1.1rem}
+
+.HeaderMessSetting{width:345px;max-width:100%}.HeaderMessSetting_separate{margin:5px 8px;height:1px;background-color:var(--md-bg-blur)}.HeaderMessSetting_item{padding:8px;margin:0 8px;border-radius:5px;cursor:pointer}.HeaderMessSetting_item:hover{background-color:var(--md-bg-hover)}
+.HeaderMessTitle_action{z-index:var(--z-index-lv5)}
 
 .BadgeDiv{width:1rem;height:1rem;background-color:var(--danger);font-size:9px;font-weight:500;color:var(--white);user-select:none;overflow:hidden}@media(max-width: 500px){.BadgeDiv{width:14px;height:14px;font-size:8px}}
 
 .IconsMode_dark{transition:all .8s}.IconsMode_dark-none{opacity:0;transform:translate(100px, 100px) translate(-50px, 50px) translate(-100px, -100px)}.IconsMode_light{transition:all .8s}.IconsMode_light-none{opacity:0;transform:translate(100px, 100px) translate(-50px, 50px) translate(-100px, -100px)}
-.Switch_btn{position:relative;width:2.2rem;height:1rem;border-radius:20px;border:1px solid var(--bg-blur);cursor:pointer}.Switch_ball{position:absolute;left:.1rem;top:50%;width:.8rem;height:.8rem;border-radius:50%;background-color:var(--bg-blur);transform:translateY(-50%);transition:all .3s}.Switch_open{background-color:var(--blue)}.Switch_open .Switch_ball{left:1.1rem}
-
 .SkeletonDiv_contain{height:1.5rem}.SkeletonDiv_div{height:.75rem;background-color:var(--bg-skeleton);border-radius:20px;opacity:.25;animation:loading 2s infinite alternate}@keyframes loading{0%{opacity:.25}100%{opacity:.1}}
 .PictureNameCommon__pic{width:2.5rem;height:2.5rem;overflow:hidden}.PictureNameCommon__name-content{padding-left:.5rem}
 .IconsNature_snow use:nth-child(2){transform:translate(100px, 100px) rotate(60deg) translate(-100px, -100px)}.IconsNature_snow use:nth-child(3){transform:translate(100px, 100px) rotate(120deg) translate(-100px, -100px)}.IconsNature_snow use:nth-child(4){transform:translate(100px, 100px) rotate(180deg) translate(-100px, -100px)}.IconsNature_snow use:nth-child(5){transform:translate(100px, 100px) rotate(240deg) translate(-100px, -100px)}.IconsNature_snow use:nth-child(6){transform:translate(100px, 100px) rotate(300deg) translate(-100px, -100px)}.IconsNature_snow-right{transform:translate(100px, 100px) rotate(30deg) translate(-100px, -100px)}.IconsNature_snow-left{transform:translate(100px, 100px) rotate(-30deg) translate(-100px, -100px)}.rotate-360 .IconsNature_snow{animation:rotate-360 2s infinite linear}@keyframes rotate-360{0%{transform:translate(100px, 100px) rotate(0) translate(-100px, -100px)}100%{transform:translate(100px, 100px) rotate(360deg) translate(-100px, -100px)}}
@@ -74,9 +76,10 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .ActionsAccount .ToggleSwitch_btn{border:1px solid var(--md-bg-ccc)}.ActionsAccount .IconsNature{width:2rem;height:2rem}.ActionsAccount .IconsArrow_back-prev{stroke:var(--md-color)}.ActionsAccount_profile{border-bottom:2px solid var(--bg-blur)}.device-mobile .ActionsAccount_profile_pic{width:40px;height:40px}
 .HeaderAccount__icon svg{transform:scale(0.8)}
 .nav-active .IconBell_notice{stroke:var(--blue)}
-.ListNotices_mark-all{padding:4px;border-bottom:5px solid var(--md-bg-ccc);border-top:5px solid var(--md-bg-ccc);text-align:center;user-select:none;cursor:pointer}
 .ItemNotice .ActionsPc-hidden{display:none}.ItemNotice:hover .ActionsPc-hidden{display:block}.HeaderNoticeItemAction_btn{width:36px;height:36px;box-shadow:0 0 0 1px var(--shadow-1)}.HeaderNoticeItemAction_contain-pc{width:350px;z-index:var(--z-index-lv5)}.HeaderNoticeItemAction-mb{max-height:calc(100% - 60px)}
 .ItemNotice_action{right:16px}.device-mobile .ItemNotice_contain{padding-right:25px}.device-mobile .ItemNotice_pic{width:40px;height:40px}.device-mobile .ItemNotice_action{transform:rotate(90deg);top:0;right:0}.device-mobile .HeaderNoticeItemAction_btn{width:auto;height:auto;padding:8px;border:none;background:transparent;box-shadow:none}.device-mobile .HeaderNoticeItemAction_btn .IconThreeDot{width:15px;height:15px}
+.HeaderNoticeTitle_action{z-index:var(--z-index-lv5)}.HeaderNoticeTitle_action_contain{width:345px;max-width:100%}
+.ListNotices_mark-all{padding:4px;border-bottom:5px solid var(--md-bg-ccc);border-top:5px solid var(--md-bg-ccc);text-align:center;user-select:none;cursor:pointer}
 .Header_notice .HeaderNotice__bell svg{width:1rem;height:1rem}
 .nav-active .IconsAction{stroke:var(--blue);fill:var(--blue)}.nav-active .IconsAction_send{fill:var(--blue)}
 @media(max-width: 300px){.RightHeader__icon{padding:.25rem}}@media(max-width: 250px){.RightHeader__icon svg{width:1rem;height:1rem}}
@@ -164,4 +167,4 @@ body.device-mobile{line-height:22px;font-family:Roboto,"Droid Sans",Helvetica,sa
 .PLCompare{z-index:var(--z-index-lv3)}.PLCompare_contain{width:1200px;z-index:inherit}.PLCompare_item{position:relative;width:33.33%;padding:20px 0;border-right:1px solid var(--md-bg-blur)}.PLCompare_actions{width:25%}
 .PLCompare-mobile .PLCompare_contain{width:100%}.PLCompare-mobile .PLCompare_row{display:block}.PLCompare-mobile .PLCompare_actions{width:100%}.PLCompare-mobile .PLCompare_item{padding:0}.PLCompare-mobile .PLCompare_item img{width:50px;height:50px}.PLCompare-mobile .PLCompareItem_name{padding:5px;font-size:13px}.PLCompare-mobile .PLCompareActions{display:flex;flex-direction:row-reverse;padding-top:0;border-top:1px solid var(--md-bg-blur)}.PLCompare-mobile .PLCompareActions_col{margin:0;width:50%;padding:10px 0;line-height:unset;font-size:14px}.PLCompare-mobile .PLCompareBtnShow{left:10px;bottom:15px}
 
-/*# sourceMappingURL=6b60947a4473d5034bcd.min.css.map*/
+/*# sourceMappingURL=fe7c545447c917c30816.min.css.map*/
