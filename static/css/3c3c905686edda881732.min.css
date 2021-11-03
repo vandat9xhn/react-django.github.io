@@ -22,9 +22,9 @@
 .DiscountSymbol{width:36px;padding:2px 0 4px;background-color:gold;line-height:14px}.DiscountSymbol::after{content:"";position:absolute;left:0;top:100%;border-width:0 18px 4px;border-style:solid;border-color:transparent gold}
 .FashionMallLike_side{width:3px}.FashionMallLike_side::before{content:"";position:absolute;left:0;top:100%;border-width:3px 0 0 3px;border-style:solid;filter:brightness(60%)}.FashionMallLike_side-mall::before{border-color:var(--fashion-mall) transparent transparent transparent}.FashionMallLike_side-like::before{border-color:var(--fashion-head) transparent transparent transparent}
 
-.FashionFaceItemFoot_name{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;height:36px}.FashionFaceItemFoot_tag{height:1rem}.FashionFaceItemFoot_heart .IconHeart{width:1rem;height:1rem}.FashionFaceItemFoot_heart .IconHeart_face{fill:none}.FashionFaceItemFoot_heart .IconHeart_heart{fill:var(--md-bg-blur)}@media(max-width: 350px){.FashionFaceItemFoot{padding:4px}}
 .FsShopDealLabel{border:1px solid currentColor}
 .FsShopDiscountLabel{padding:1px 4px}.FsShopDiscountLabel_side{width:3px;background-image:radial-gradient(circle, var(--md-bg-primary), var(--md-bg-primary) 50%, transparent, transparent);background-repeat:repeat;background-size:100% 3px}
+.FashionFaceItemFoot_tag{line-height:1rem}.FashionFaceItemFoot_heart .IconHeart{width:1rem;height:1rem}.FashionFaceItemFoot_heart .IconHeart_face{fill:none}.FashionFaceItemFoot_heart .IconHeart_heart{fill:var(--md-bg-blur)}@media(max-width: 350px){.FashionFaceItemFoot{padding:4px}}
 .FashionFaceItem-pc{transition:all 150ms ease-in}.FashionFaceItem-pc:hover{bottom:1px}.FashionFaceItem-pc:hover .FashionFaceItem_contain{border:1px solid var(--border-fashion);box-shadow:var(--box-shadow-fb)}.FashionFaceItem-pc:hover .FashionFaceItem_same{display:block}.FashionFaceItem_contain{border:1px solid transparent;border-radius:2.5px;transition:all 150ms ease-in}.FashionFaceItem_head{padding-top:100%}.FashionFaceItem_same_contain{border-bottom-left-radius:2.5px;border-bottom-right-radius:2.5px}
 .FashionFaceItem-mobile .FashionFaceItem_head{font-size:11px}
 .FashionSeeMoreLastRow_icon{width:1.5rem;height:1.5rem;border:1px solid currentColor}.FashionSeeMoreLastRow_icon .IconsArrow_next{stroke:currentColor}
@@ -91,4 +91,4 @@
 .FashionItem_mobile .FsIShopDiscount_row{display:flex}.FashionItem_mobile .FsIShopDiscountItem{margin-right:15px;width:240px}
 .FashionItem_mobile .FashionItemMayLike_item{width:33.33%}@media(max-width: 450px){.FashionItem_mobile .FashionItemMayLike_item{width:50%}}
 
-/*# sourceMappingURL=e6017ea914e0cce58f46.min.css.map*/
+/*# sourceMappingURL=3c3c905686edda881732.min.css.map*/
