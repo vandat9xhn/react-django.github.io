@@ -1,0 +1,49 @@
+.StepRow_item{padding:0 2px}.StepRow_item_contain{height:4px;border-radius:10px}
+.StoryContentHead_user a{color:var(--white)}.StoryContentHead_step{margin:.5rem}
+.StoryTextText_contain{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}
+.StoryContentStoryText_text_contain{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4}
+.StoryContent_close{top:22px}.StoryContent_close_contain{width:1.5rem;height:1.5rem}
+.StoryViewerItem_like-item{padding:0 2px}.StoryViewerItem_like-item .IconsTypeLike{width:1rem;height:1rem}
+.StoryViewerList_hide{position:absolute;right:0;top:0;z-index:1}.StoryViewerList_hide .IconsArrow_close{stroke:var(--bg-ccc)}
+.StoryItemCenter_item{width:100%;height:30rem;max-height:100%}.StoryItemCenter_viewer_list{z-index:2}.StoryItemCenter_bottom{position:absolute;bottom:0;z-index:1}.StoryItemCenter_link:hover{text-decoration-line:underline}@media(max-width: 500px){.ScreenStoryItem_wh{height:100%}.StoryItem{border-radius:0}.StoryViewerList{border-radius:0}}
+@media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
+.StoryShare .IconsPost_share{fill:var(--white)}
+.StoryReply{padding:0 .5rem;border:1px solid var(--md-bg-ccc);border-radius:25px}.StoryReply_textarea{max-height:12.5rem}.StoryReply_send{align-self:flex-end}.StoryReply_send_contain{width:2.25rem;height:2.25rem}
+.StoryLike .ListTypeLike{animation:none}.StoryLike .ListTypeLike_contain{background-color:transparent;box-shadow:none;border-radius:0}.StoryLike .IconsTypeLike{width:2rem;height:2rem}
+.StoryItemFootPc{padding-top:10px;overflow-x:auto;overflow-y:hidden}.StoryItemFootPc_row{align-items:flex-end}.StoryItemFootPc_center{margin:0 .25rem;transition:all 250ms ease-in}.StoryItemFootPc_right{transition:all 250ms ease-in}.StoryItemFootPc_like{position:absolute;right:0;bottom:0;z-index:2;transition:all 250ms ease-in}.StoryItemFootPc_like-hide{transform:translateY(125%)}.StoryItemFootPc_like-show{transform:translateY(0%)}
+.StoryItemFootMobile{overflow-x:auto}.StoryItemFootMobile::-webkit-scrollbar{width:0;height:0}.StoryItemFootMobile_row{align-items:flex-end}.StoryItemFootMobile_center{min-width:250px;max-width:100%;margin:0 .25rem}
+
+.StoryItemNextPrev:hover .StoryItemNextPrev_btn_contain{transform:scale(1.25);opacity:1}.StoryItemNextPrev_btn_contain{width:2.5rem;height:2.5rem;border-radius:50%;overflow:hidden;opacity:.5;transition:all 250ms ease-in-out}.StoryItemNextPrev_btn{position:absolute;top:50%;z-index:1;transform:translateY(-50%)}.StoryItemNextPrev_btn-prev{right:4rem}.StoryItemNextPrev_btn-next{left:4rem}@media(max-width: 900px){.StoryItemNextPrev_btn-prev{right:50%;transform:translateX(50%)}.StoryItemNextPrev_btn-next{left:50%;transform:translateX(-50%)}}@media(max-width: 400px){.StoryItemNextPrev_btn-prev{transform:translateX(0%);right:auto;left:0}.StoryItemNextPrev_btn-next{transform:translateX(0%);left:auto;right:0}}
+.StoryItem{display:flex;flex-direction:column}.StoryItem_head{height:1rem}.StoryItem_head_center{width:20rem;max-width:100%}.StoryItem_foot{height:3rem}.StoryItem_foot_contain{position:absolute;bottom:0;left:50%;z-index:2;max-width:100%;transform:translateX(-50%)}.StoryItem_foot_contain-pc{width:500px}@media(max-width: 500px){.StoryItem_head_center{width:100%}}
+
+.StoryFaceUserPic_contain{padding:10px}.StoryFaceUserPic_border-new{border:4px solid var(--blue)}.StoryFaceUserPic_border-old{border:4px solid var(--white)}
+.StoryFaceName_contain{padding:8px;max-width:100%}.StoryFaceName_item{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;word-wrap:break-word}
+.StoryFace:hover .StoryFace_content{transform:scale(1.025)}.StoryFace:hover .story-bg-hv{display:block}.StoryFace_content{transition:all 100ms ease-in}.StoryFace_name{z-index:2}.StoryFace_count_new{position:absolute;right:5px;top:5px}.StoryFace_count_new .BadgeDiv{width:1.75rem;height:1.75rem;background-color:var(--blue);font-size:14px}
+.StoryMenuPartMobile_item{width:110px;height:175px;padding:4px}.StoryMenuPartMobile_skeleton{height:350px}
+.ScreenBlur{min-height:100vh;padding:5rem 0}.ScreenBlur_center{padding:0}.ScreenBlur_contain{transition:all 500ms ease}.ScreenBlur_contain-waiting{transform:scale(0)}.ScreenBlur_contain-scale{transform:scale(0);animation:screen-contain-scale 500ms ease forwards}.ScreenBlur_waiting .ScreenBlurFetching{background-color:transparent}.ScreenBlur_body_contain{min-height:5rem}.ScreenBlur_list{margin:.5rem 0 0 0;padding-left:1.5rem;list-style-type:circle}.ScreenBlur_item{margin-bottom:.5rem}.ScreenBlur_item::marker{font-weight:500}.ScreenBlurItem{padding:.25rem}.ScreenBlurItem_time{font-size:12px;font-style:italic;font-weight:bold}@keyframes screen-contain-scale{to{transform:scale(1)}}@media(max-width: 400px){.ScreenBlur{padding:0}.ScreenBlur_contain-normal{min-height:100vh}}
+.RadioCustom{position:relative;width:1rem;height:1rem;border:1px solid var(--md-bg-ccc)}.RadioCustom_inactive{background-color:var(--white)}.RadioCustom_active{background-color:var(--border-fashion)}.RadioCustom_center{width:45%;height:45%;background-color:var(--white)}
+.ScreenPermissionItem{padding:.5rem}.ScreenPermissionItem_active{background-color:var(--md-bg-fb-active)}.ScreenPermissionItem_right{margin-left:.5rem}.ScreenPermissionItem_right_icon{margin-right:.25rem}
+.ScreenPermission .IconsAction_add-friend_plus{stroke:none}
+.StoryCreateChoice:hover{opacity:.8}.StoryCreateChoice_icon{width:44px;height:44px}@media(max-width: 400px){.StoryCreateChoice_icon{width:30px;height:30px}.StoryCreateChoice_icon .IconsInput{width:1rem;height:1rem}.StoryCreateTextChoice_title{font-size:14px}}
+.StoryCreateTextChoice{background-image:linear-gradient(to bottom, #9E44CE, #DC4F77)}
+.StoryCreatePicChoice{background-image:linear-gradient(to left, #84cef2, transparent 80%),linear-gradient(to top, #84cef2, #5e45e1, transparent),linear-gradient(135deg, #5e45e1, #84cef2)}.StoryCreatePicChoice .InputFile{width:100%;height:100%}.StoryCreatePicChoice .InputFile .InputFile_face_contain{border-radius:0}.StoryCreatePicChoice .InputFile .InputFile_face_contain:hover{background-color:transparent}
+.StoryCHHeadMb_item{width:33.33%;padding-top:44%}
+.BgImgItem{width:28px;height:28px;transition:all 100ms ease-in}.BgImgItem-active{border:3px solid var(--blue);transform:scale(1.15)}.BgImgItem-inactive{transform:scale(1)}
+
+.StoryCTFootMb_bg{margin-bottom:5px}.StoryCTFootMb_bg .BgImgList{width:100%;overflow:auto;scroll-snap-type:x mandatory}.StoryCTFootMb_bg .BgImgList::-webkit-scrollbar{display:none}.StoryCTFootMb_bg .BgImgList_row{flex-wrap:nowrap;justify-content:flex-start}.StoryCTFootMb_bg .BgImgList_item{flex-shrink:0;scroll-snap-align:start end}.StoryCTFootMb_bg .BgImgItem{width:35px;height:35px;border-radius:0}
+.StoryCTInputMb_textarea{max-height:100%;overflow-x:hidden}
+.StoryCreateTextMb_input{width:80%;height:calc(100% - 205px)}
+.StoryCPTextMb_text{white-space:pre-wrap}
+.StoryCPPicMb_img{width:100vw;max-height:100vh}
+.StoryCPActionsMb_part{padding:0 5px;margin-bottom:.5rem}.StoryCPActionsMb_part_right{margin-left:10px}
+.StoryCPAddTextMb{max-height:80%;overflow-x:hidden}
+.PicEffectItem{flex-shrink:0;width:75px;height:75px;transition:all 100ms ease-in}.PicEffectItem-active{border:3px solid var(--blue);transform:scale(1.15)}
+.StoryCPTagFriendItemMb{max-width:10rem}.StoryCPTagFriendItemMb:hover .StoryCPTagFriendItemMb_close{display:block}.StoryCPTagFriendItemMb_close_contain{width:1.5rem;height:1.5rem}.StoryCPTagFriendItemMb_close_contain .IconsArrow_close{stroke:var(--md-color-secondary)}
+.StoryCPAddTagFriendMb_head{border-bottom:1px solid var(--md-bg-blur)}.StoryCPAddTagFriendMb_head:focus{outline:none;border-bottom:1px solid var(--blue)}.StoryCPAddTagFriendMb_body{max-height:calc(100% - 5rem)}
+.StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
+.StoryCPEditPicMb_row{transition:all 200ms ease-in}.StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
+.StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
+.StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, #9900ff, purple)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
+.screen-story-menu-mobile{padding:1rem 0}
+
+/*# sourceMappingURL=002db7425bb51ff4490e.min.css.map*/
