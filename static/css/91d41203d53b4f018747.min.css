@@ -21,9 +21,9 @@
 .FashionFaceItem-mobile .FashionFaceItem_head{font-size:11px}
 .FashionBody_title{margin-bottom:.25rem}.FashionBody_title_item-active{border-bottom:2px solid var(--fashion-head)}.FashionBody_item{width:198px}.FashionBody_more{width:400px;max-width:100%;border:1px solid var(--md-bg-blur)}@media(max-width: 400px){.FashionBody_item{width:50%}}
 .FashionSellingProduct_bd{height:10rem;background-repeat:no-repeat;background-size:contain;background-position:center}@media(max-width: 500px){.FashionSellingProduct{padding:8px}.FashionSellingProduct_bd{height:8rem}.FashionSellingProduct_foot{padding:4px 0 0}.FashionSellingProduct_price{font-size:16px}}
-.FashionHomeSelling_not_fetched{height:250px}.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_item{margin:0 2px;width:200px;max-width:48%}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
 .FashionSeeMoreOnTitle .IconsArrow_next{stroke:currentColor}
 .FashionSeeMoreLastRow_icon{width:1.5rem;height:1.5rem;border:1px solid currentColor}.FashionSeeMoreLastRow_icon .IconsArrow_next{stroke:currentColor}
+.FashionHomeSelling_not_fetched{height:250px}.FashionHomeSelling_contain{padding:0 1rem}.FashionHomeSelling_item{margin:0 2px;width:200px;max-width:48%}@media(max-width: 500px){.FashionHomeSelling_contain{padding:0 .5rem}}
 .FashionApplication_item{flex-shrink:0;width:100px;max-width:150px}
 .FashionCtgItem_contain{border:1px solid var(--md-bg-blur)}.FashionCtgItem_contain:hover{box-shadow:var(--box-shadow-action)}.FashionCtgItem_head{height:1rem}.FashionCtgItem_head_img{width:70%;height:70%}.FashionCtgItem_foot{flex-shrink:0;height:3.25rem}
 .FashionCtg:hover .NextPrevDiv_icon_circle{transform:scale(1.75)}.FashionCtg_contain{height:300px;overflow-y:hidden}.FashionCtg_item{width:120px;height:50%}
@@ -40,4 +40,4 @@
 .FashionHomeMall_foot-pc{height:450px}.FashionHomeMall_foot-mobile{display:block;height:auto}.FashionHomeMall_foot_left-pc{width:400px}.FashionHomeMall_foot_left-mobile{width:100%;padding-top:30%}.FashionHomeMall_foot_right-pc{width:1rem}.FashionHomeMall_foot_right-mobile{width:100%}.FashionHomeMall_col{flex-shrink:0;overflow:hidden}.FashionHomeMall_col-pc{width:200px;max-width:48%;flex-direction:column}.FashionHomeMall_col-mobile{width:80%}.FashionHomeMall_item-pc{height:50%}.FashionHomeMall_item-mobile{width:50%}
 .Fashion_banner{padding:1rem 0}@media(max-width: 300px){.Fashion_body{margin:0 .25rem}}
 
-/*# sourceMappingURL=09c6e8c0c2f6cfad2340.min.css.map*/
+/*# sourceMappingURL=91d41203d53b4f018747.min.css.map*/
