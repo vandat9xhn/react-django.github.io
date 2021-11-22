@@ -2,6 +2,8 @@
 .GroupLayoutLeftHead_search{height:52px}.GroupLayoutLeftHead_search .FbSearchInputElm{padding:0 16px}
 .GroupLayoutLeftNav_item svg{width:18px;height:18px}.GroupLayoutLeftNav_item-active .GroupLayoutLeftNav_icon{color:#fff;background-color:var(--blue)}
 .GroupLeftJoined_fake{height:200px}
+.device-mobile .CardsRowFitContain_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFitContain_item{scroll-snap-align:start}
+.device-mobile .CardsRowFit_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFit_item{scroll-snap-align:start}
 .OverlapPics_item{position:relative;width:24px;height:24px}.OverlapPics_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white);border-radius:50%}
 .GroupCardFriends .OverlapPics_item{width:20px;height:20px}.GroupCardFriends .OverlapPics_item_img{width:32px;height:32px}
 .GroupCard_pic{padding-top:55%}
@@ -11,4 +13,4 @@
 .GroupDiscoverRight_separate{margin:32px 64px;height:1px;background-color:var(--md-bg-blur)}
 .GroupDiscover .GroupLayout_right{overflow:hidden}
 
-/*# sourceMappingURL=03d96b264511bf24f192.min.css.map*/
+/*# sourceMappingURL=c2bcc8afc7b9e6dabb7e.min.css.map*/

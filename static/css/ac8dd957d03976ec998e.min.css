@@ -88,6 +88,13 @@
 .NewFeedStorySeeAll_pc{position:absolute;right:4px;top:50%;transform:translate(50%, -50%);z-index:3}
 .NewFeedStoryFetching_active{animation:rotate_360 2s infinite}@keyframes rotate_360{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
 .NewFeedStory{margin:0 auto;width:650px;max-width:100%}.NewFeedStory_contain{padding-bottom:.5rem}.NewFeedStory_item{position:relative;margin:0 4px;height:220px;width:120px;flex-shrink:0}.device-mobile .NewFeedStory{padding:4px;border-radius:0;background-color:var(--md-bg-primary);box-shadow:var(--box-shadow-1)}.device-mobile .NewFeedStory_contain{overflow-x:auto}.device-mobile .NewFeedStory_contain::-webkit-scrollbar{height:0}@media(max-width: 500px){.device-mobile .NewFeedStory_item{width:85px;height:155px}}@media(max-width: 350px){.device-mobile .NewFeedStory_item{width:75px;height:135px;font-size:13px}}
+.device-mobile .CardsRowFitContain_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFitContain_item{scroll-snap-align:start}
+.device-mobile .CardsRowFit_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFit_item{scroll-snap-align:start}
+.AddFriendListMutual_item{position:relative;width:16px;height:16px}.AddFriendListMutual_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:18px;height:18px;border:1px solid var(--white)}
+.AddFriendBtn{height:36px;padding:0 px}
+.AddFriendAdd_mutual{height:28px}.AddFriendAdd_btn{margin:6px 10px;height:36px}.device-mobile .AddFriendAdd_mutual{font-size:13px}
+.AddFriendSuggest_first_btn:hover{background-color:#deebf5}
+.NewFeedSuggestedFriends{max-width:100%}.NewFeedSuggestedFriends .CardsRowFitContain_item{width:50%;min-width:240px;padding:5px}
 .NewFeedCenter{display:flex;flex-direction:column}.NewFeedCenter_story{margin-bottom:1rem}.NewFeedCenter_new{margin:0 auto 1rem;width:500px;max-width:100%}.NewFeedCenter_search{order:-1}@media(max-width: 500px){.NewFeedCenter_new{order:-1}}
 .NewFeedContact{max-height:calc(100vh - 12rem);overflow-y:scroll;border-top:1px solid var(--md-bg-ccc)}.NewFeedContact_not_fetched{height:50vh}
 .NewFeedGroupConversation{border-top:1px solid var(--md-bg-ccc)}.NewFeedGroupConversation .IconDiv_left{display:flex;align-items:center;justify-content:center;width:2rem;height:2rem;border-radius:50%;border:1px solid var(--md-color);transform:rotate(45deg)}.NewFeedGroupConversation .IconsArrow_close{stroke:#000}
@@ -95,4 +102,4 @@
 
 @media(max-width: 1300px){.NewFeed_col-left,.NewFeed_col-right{width:250px}}@media(max-width: 1100px){.NewFeed_col-right{width:280px}.NewFeed_col-left{display:none}}@media(max-width: 850px){.NewFeed_row{justify-content:center}.NewFeed_col-right{display:none}}.device-mobile .NewFeed_col-center{width:100%;padding-top:10px}
 
-/*# sourceMappingURL=8517b12f875e1447d074.min.css.map*/
+/*# sourceMappingURL=ac8dd957d03976ec998e.min.css.map*/

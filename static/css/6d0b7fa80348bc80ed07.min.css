@@ -2,6 +2,8 @@
 .GroupLayoutLeftHead_search{height:52px}.GroupLayoutLeftHead_search .FbSearchInputElm{padding:0 16px}
 .GroupLayoutLeftNav_item svg{width:18px;height:18px}.GroupLayoutLeftNav_item-active .GroupLayoutLeftNav_icon{color:#fff;background-color:var(--blue)}
 .GroupLeftJoined_fake{height:200px}
+.device-mobile .CardsRowFitContain_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFitContain_item{scroll-snap-align:start}
+.device-mobile .CardsRowFit_contain{scroll-snap-type:x mandatory}.device-mobile .CardsRowFit_item{scroll-snap-align:start}
 .OverlapPics_item{position:relative;width:24px;height:24px}.OverlapPics_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white);border-radius:50%}
 .GroupCardFriends .OverlapPics_item{width:20px;height:20px}.GroupCardFriends .OverlapPics_item_img{width:32px;height:32px}
 .GroupCard_pic{padding-top:55%}
@@ -122,6 +124,7 @@
 .PostHistoryItem__title-pic{font-size:12px;color:var(--blue);opacity:.5}.PostHistoryItem__title-pic::before{content:"•";margin-right:.25rem}.PostHistoryItem__pic{overflow-x:auto}.PostHistoryItem__pic img,.PostHistoryItem__pic video{margin-right:.5rem;width:100px;height:100px}
 .Post{margin:0 auto;width:500px;max-width:100%}@media(max-width: 500px){.Post{border-radius:0}}
 .Posts_item{margin-bottom:1rem}@media(max-width: 330px){.Posts_new{margin-bottom:.75rem}}
+.GroupFeedCardsCenter:hover .GroupFeedCardsCenter_side{opacity:1}.GroupFeedCardsCenter .NextPrevDiv_next{right:6.25%;transform:translate(50%, -50%);z-index:2}.GroupFeedCardsCenter .NextPrevDiv_prev{left:6.25%;transform:translate(-50%, -50%);z-index:2}.GroupFeedCardsCenter .NextPrevDiv_icon-circle{width:48px;height:48px}.GroupFeedCardsCenter .NextPrevDiv_icon-circle:hover{transform:none}.GroupFeedCardsCenter .BtnNexPrev{border:1px solid var(--md-bg-blur)}.GroupFeedCardsCenter_item{width:75%;padding:0 5px}.GroupFeedCardsCenter_side{position:absolute;top:0;z-index:2;width:12.5%;height:100%;background-color:var(--md-bg-primary-5);opacity:0;cursor:pointer;transition:opacity 150ms ease-in}.GroupFeedCardsCenter_side-left-only{width:25%}.GroupFeedCardsCenter_side-left-none{width:0}.GroupFeedCardsCenter_side-right-only{width:25%}.GroupFeedCardsCenter_side-right-none{width:0}
 
 
-/*# sourceMappingURL=e8ac61e5db21f04d0677.min.css.map*/
+/*# sourceMappingURL=6d0b7fa80348bc80ed07.min.css.map*/
