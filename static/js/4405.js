@@ -1,0 +1,2 @@
+(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[4405],{54405:(e,t,u)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=r(u(67294)),l=(r(u(45697)),r(u(46226)));function r(e){return e&&e.__esModule?e:{default:e}}function n(e){return a.default.createElement("div",{className:"FbMenu bg-primary"},a.default.createElement(l.default,null))}u(20356),n.propTypes={},t.default=n},20356:(e,t,u)=>{"use strict";u.r(t)}}]);
+//# sourceMappingURL=4405.js.map

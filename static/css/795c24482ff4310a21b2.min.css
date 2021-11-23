@@ -1,6 +1,15 @@
-.device-mobile .FbScPagePostItemHead_pic{width:40px;height:40px}
-.FbScPagePostItemContent svg{width:14px;height:14px}.FbScPagePostItemContent_pics{width:90px;height:90px}
 .ScreenBlur{min-height:100vh;padding:5rem 0}.ScreenBlur_center{padding:0}.ScreenBlur_contain{transition:all 500ms ease}.ScreenBlur_contain-waiting{transform:scale(0)}.ScreenBlur_contain-scale{transform:scale(0);animation:screen-contain-scale 500ms ease forwards}.ScreenBlur_waiting .ScreenBlurFetching{background-color:transparent}.ScreenBlur_body_contain{min-height:5rem}.ScreenBlur_list{margin:.5rem 0 0 0;padding-left:1.5rem;list-style-type:circle}.ScreenBlur_item{margin-bottom:.5rem}.ScreenBlur_item::marker{font-weight:500}.ScreenBlurItem{padding:.25rem}.ScreenBlurItem_time{font-size:12px;font-style:italic;font-weight:bold}@keyframes screen-contain-scale{to{transform:scale(1)}}@media(max-width: 400px){.ScreenBlur{padding:0}.ScreenBlur_contain-normal{min-height:100vh}}
+
+.PostHeadAction_list-pc{width:18rem;max-width:100vw}.PostHeadAction_list-mb{max-height:calc(100% - 60px)}
+.PostHeadTimePermission svg{width:12px;height:12px}
+
+
+
+
+.PostTagAndEmoji_start{width:28px}.PostTagAndEmoji_start::after{content:"";position:absolute;left:0;top:-5px;width:25px;height:1px;background-color:var(--md-bg-ccc)}
+.ContentMore{width:100%;overflow:hidden;white-space:pre-wrap}
+.PostText-bg{height:350px;max-height:75vw;padding:10% 15%;background-size:100% 100%;background-repeat:no-repeat}@media(max-width: 500px){.PostText-bg{font-size:15px}}
+.FbScPagePostItemContent svg{width:14px;height:14px}.FbScPagePostItemContent_pics{width:90px;height:90px}
 .LoaderDiv{padding:1rem}
 .ListPeople_item:not(:first-child){padding-top:2px}.ListPeople_item .IconsTypeLike{width:14px;height:14px}
 .MouseEnterLeaveInfo_contain-closing{transition:opacity 200ms ease-in}
@@ -25,4 +34,4 @@
 .FbSearchPageLayout_no_results{height:calc(100vh - var(--height-header))}.device-mobile .FbSearchPageLayout_left{position:fixed;left:0;top:0;z-index:var(--z-index-lv2);width:100%;height:100%;background:#fff;transform:translateX(100%);transition:all 250ms ease-in}.device-mobile .FbSearchPageLayout_left-open{transform:translateX(0%)}.device-mobile .FbSearchPageLayout_right{width:100%;padding-top:48px}.device-mobile .FbSearchPageLayout_right_head .IconsArrow_back-prev{stroke:currentColor}
 
 
-/*# sourceMappingURL=8220d808ac5ed8f9c7a8.min.css.map*/
+/*# sourceMappingURL=795c24482ff4310a21b2.min.css.map*/
