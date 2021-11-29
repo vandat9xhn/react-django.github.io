@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://my_webpack/./src/pages/group/mobile/pages/feed/_main/GroupFeedMb.scss"],"names":[],"mappings":"AACI,oCACI,qB","file":"static/css/89859cb5aaaefe01fd4b.min.css","sourcesContent":[".GroupFeedMb{\r\n    .GroupFeedCenter_title{\r\n        padding: 16px 8px 8px;\r\n    }\r\n}"],"sourceRoot":""}
