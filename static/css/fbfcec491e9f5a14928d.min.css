@@ -1,0 +1,24 @@
+.FbSearchInput-open{border-top-left-radius:8px;border-top-right-radius:8px;box-shadow:0px 0px 4px var(--shadow-2)}.FbSearchInput_list{max-height:400px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;box-shadow:0px 2px 4px var(--shadow-2)}
+.group-settings-item-title{line-height:20px;font-weight:600}.group-settings-item-info{line-height:16px;font-weight:400;font-size:12px;color:var(--md-color-secondary)}
+.FbSettingsItemLayout svg{width:20px;height:20px}
+
+
+.GroupLayoutLeftHead_search{height:52px}.GroupLayoutLeftHead_search .FbSearchInputElm{padding:0 16px}
+.GroupLayoutLeftNav_item svg{width:18px;height:18px}.GroupLayoutLeftNav_item-active .GroupLayoutLeftNav_icon{color:#fff;background-color:var(--blue)}
+.GroupLeftGroupList_fake{height:200px}
+
+.CardsRowFitContain .VirtualScroll{height:100%}.CardsRowFitContain .VirtualScroll_contain{height:100%}
+
+.device-mobile .GroupCartInfo{padding:8px}
+.OverlapPics_item{position:relative;width:24px;height:24px}.OverlapPics_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white);border-radius:50%}
+.GroupCardFriends .OverlapPics_item{width:20px;height:20px}.GroupCardFriends .OverlapPics_item_img{width:32px;height:32px}
+.GroupCard_pic{padding-top:55%}.device-mobile .GroupCard_bottom{padding-top:0}.device-mobile .GroupCard_friends{padding-left:8px;padding-right:8px;line-height:16px;font-size:13px}.device-mobile .GroupCard_join{padding:8px}
+.GroupRowCardsFit .NextPrevDiv_next{transform:translate(50%, -50%);z-index:2}.GroupRowCardsFit .NextPrevDiv_prev{transform:translate(-50%, -50%);z-index:2}.GroupRowCardsFit .NextPrevDiv_icon-circle{width:36px;height:36px}.GroupRowCardsFit .BtnNexPrev{border:1px solid var(--md-bg-blur)}
+.GroupFeedSuggested_body{padding-left:32px;padding-right:32px}.GroupFeedSuggested_body .NextPrevDiv_next{transform:translate(50%, -50%);z-index:2}.GroupFeedSuggested_body .NextPrevDiv_prev{transform:translate(-50%, -50%);z-index:2}.GroupFeedSuggested_body .NextPrevDiv_icon-circle{width:36px;height:36px}.GroupFeedSuggested_body .BtnNexPrev{border:1px solid var(--md-bg-blur)}
+.CardsRowCenterContain:hover .CardsRowCenterContain_side{opacity:1}.CardsRowCenterContain .VirtualScroll,.CardsRowCenterContain .VirtualScroll_contain{height:100%}.CardsRowCenterContain .NextPrevDiv_next{right:6.25%;transform:translate(50%, -50%);z-index:2}.CardsRowCenterContain .NextPrevDiv_prev{left:6.25%;transform:translate(-50%, -50%);z-index:2}.CardsRowCenterContain .NextPrevDiv_icon-circle{width:48px;height:48px}.CardsRowCenterContain .NextPrevDiv_icon-circle:hover{transform:none}.CardsRowCenterContain .BtnNexPrev{border:1px solid var(--md-bg-blur)}.CardsRowCenterContain_item{width:75%;padding:0 5px}.CardsRowCenterContain_side{position:absolute;top:0;z-index:2;width:12.5%;height:100%;background-color:var(--md-bg-primary-5);opacity:0;cursor:pointer;transition:opacity 150ms ease-in}.CardsRowCenterContain_side-left-only{width:25%}.CardsRowCenterContain_side-left-none{width:0}.CardsRowCenterContain_side-right-only{width:25%}.CardsRowCenterContain_side-right-none{width:0}
+
+.device-mobile .GroupNoticeItem img{width:30px;height:30px}
+.device-mobile .GroupNoticeList{padding-top:8px;padding-bottom:8px}.device-mobile .GroupNoticeList_title{padding-left:8px;padding-right:8px;font-size:18px}.device-mobile .GroupNoticeList_contain{padding:0}
+
+
+/*# sourceMappingURL=fbfcec491e9f5a14928d.min.css.map*/

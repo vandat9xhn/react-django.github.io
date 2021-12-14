@@ -1,0 +1,18 @@
+.gr-page-hr{border-bottom-color:transparent;border-top-color:var(--shadow-1)}
+.ProfileLayoutCover_bg{width:80%;height:50%}.ProfileLayoutCover_bg_contain{background-repeat:no-repeat;background-size:100% 100%;filter:blur(100px)}.ProfileLayoutCover_contain{width:950px;max-width:100%;padding-top:32%;background-image:linear-gradient(to top, var(--shadow-2), transparent 30%, transparent);border-bottom-left-radius:10px;border-bottom-right-radius:10px}.ProfileLayoutCover_img{border-bottom-left-radius:10px;border-bottom-right-radius:10px}.device-mobile .ProfileLayoutCover_contain{padding-top:40%}
+.GroupPageAffiliation{border-bottom-left-radius:10px;border-bottom-right-radius:10px}
+.ProfileLayoutName_name{line-height:38px;font-size:32px}.ProfileLayoutName_nick{font-size:28px}.device-mobile .ProfileLayoutName_name{line-height:unset;text-align:center;font-size:20px}.device-mobile .ProfileLayoutName_nick{font-size:inherit}
+.device-mobile .GroupPageMemberCount_row{justify-content:center}
+.OverlapPics_item{position:relative;width:24px;height:24px}.OverlapPics_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white);border-radius:50%}
+.device-mobile .GroupPageMemberPics{padding:0 8px}.device-mobile .GroupPageMemberPics .OverlapPics_item{width:20px;height:20px}.device-mobile .GroupPageMemberPics .OverlapPics_item_img{width:30px;height:30px}
+.device-mobile .GroupPageActions_btn{flex-grow:1;margin:4px}.device-mobile .GroupPageActions_btn .BtnActions{width:100%}
+.device-mobile .GroupPageInfo_foot_row{display:block}.device-mobile .GroupPageInfo_member{font-size:16px}
+.ProfileLayoutNav{height:60px}.ProfileLayoutNav_fake_sticky{bottom:calc(100% + var(--height-header) + 1px)}.device-mobile .ProfileLayoutNav{overflow-x:auto}.device-mobile .ProfileLayoutNav::-webkit-scrollbar{display:none}
+.ProfileLayoutNavMoreItem{width:250px}.ProfileLayoutNavMoreItem-active .ProfileLayoutNavMoreItem_tick_contain{display:block}
+.ProfileLayoutNavMore .ActionsPc,.ProfileLayoutNavMore .ActionsBtnToggle{height:100%}
+.ProfileLayoutNavItem-active .ProfileLayoutNavItem_bottom{display:block}
+.GroupPageNavItem-active .GroupPageNavItem_bottom{display:block}
+.GroupPageNav_item{height:100%}
+
+
+/*# sourceMappingURL=721816aca6084c7472ad.min.css.map*/
