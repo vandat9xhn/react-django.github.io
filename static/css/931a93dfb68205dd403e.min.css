@@ -1,0 +1,14 @@
+.ProfileLayoutCover_bg{width:80%;height:50%}.ProfileLayoutCover_bg_contain{background-repeat:no-repeat;background-size:100% 100%;filter:blur(100px)}.ProfileLayoutCover_contain{width:950px;max-width:100%;padding-top:32%;background-image:linear-gradient(to top, var(--shadow-2), transparent 30%, transparent);border-bottom-left-radius:10px;border-bottom-right-radius:10px}.ProfileLayoutCover_img{border-bottom-left-radius:10px;border-bottom-right-radius:10px}@media(max-width: 500px){.ProfileLayoutCover_contain{padding-top:50%}}
+.device-mobile .FbPageInfoExtra{padding-top:6px;text-align:center}
+.FbPageActions{width:300px}.FbPageActions .BtnActions{width:100%;height:40px;background-color:var(--blue);color:var(--white)}.FbPageActionsMb .BtnActions{width:100%}
+.ProfileLayoutPicture{width:160px}.ProfileLayoutPicture_link-story{border:3px solid var(--blue)}.ProfileLayoutPicture_img{border:3px solid var(--white)}.device-mobile .ProfileLayoutPicture{width:100%;height:75px}.device-mobile .ProfileLayoutPicture_contain{transform:translateX(-50%);left:50%;width:120px;height:120px}.device-mobile .ProfileLayoutPicture_link{height:100%}.device-mobile .ProfileLayoutPicture_img{height:100%}
+.ProfileLayoutName_name{line-height:38px;font-size:32px}.ProfileLayoutName_nick{font-size:28px}.device-mobile .ProfileLayoutName_name{line-height:unset;text-align:center;font-size:20px}.device-mobile .ProfileLayoutName_nick{font-size:inherit}
+.FbPageInfo_name_extra{margin:32px 0 16px 16px}.FbPageInfo_actions{margin:32px 0 16px 32px}.device-mobile .FbPageInfo_user_action{display:block}.device-mobile .FbPageInfo_user{display:block}.device-mobile .FbPageInfo_name_extra{margin:10px 0}.device-mobile .FbPageInfo_actions{margin:0;padding:10px 5px}
+.ProfileLayoutNav{height:60px}.ProfileLayoutNav_fake_sticky{bottom:calc(100% + var(--height-header) + 1px)}.device-mobile .ProfileLayoutNav{overflow-x:auto}.device-mobile .ProfileLayoutNav::-webkit-scrollbar{display:none}
+.ProfileLayoutNavMoreItem{width:250px}.ProfileLayoutNavMoreItem-active .ProfileLayoutNavMoreItem_tick_contain{display:block}
+.ProfileLayoutNavMore .ActionsPc,.ProfileLayoutNavMore .ActionsBtnToggle{height:100%}
+.ProfileLayoutNavItem-active .ProfileLayoutNavItem_bottom{display:block}
+
+.FbPageNav_item{height:100%}
+
+/*# sourceMappingURL=931a93dfb68205dd403e.min.css.map*/
