@@ -25,7 +25,7 @@
 .ListUniqueLike .IconsTypeLike{width:1rem;height:1rem}.ListUniqueLike_item{position:relative;margin:.25rem}
 .device-mobile .FbScPagePostItem_head{padding:8px}.device-mobile .FbScPagePostItem_content{padding:8px}
 .fb-search-page-right-contain{padding:32px}.fb-search-page-left-filter-item{margin-top:8px}.fb-search-page-right-item{margin-bottom:20px}.device-mobile .fb-search-page-left-filter-item{margin:0}.device-mobile .fb-search-page-right-contain{padding:0}.device-mobile .fb-search-page-right-item-contain{border-radius:0}.device-mobile .fb-search-page-right-item{margin-bottom:10px}
-.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
+.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_link-active .IconsInput_pic{stroke:none;fill:var(--white)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
 .SelectOneSearchInput_input::placeholder{color:var(--md-color-third);opacity:.5}
 .SelectOneSearchOptions{max-height:300px}
 
@@ -41,4 +41,4 @@
 .FbSearchPageLayout_no_results{height:calc(100vh - var(--height-header))}.device-mobile .FbSearchPageLayout_left{position:fixed;left:0;top:var(--height-header);z-index:var(--z-index-lv2);width:100%;height:calc(100% - var(--height-header));background:#fff;transform:translateX(100%);transition:all 250ms ease-in}.device-mobile .FbSearchPageLayout_left-open{transform:translateX(0%)}.device-mobile .FbSearchPageLayout_right{width:100%;padding-top:48px}.device-mobile .FbSearchPageLayout_right_head .IconsArrow_back-prev{stroke:currentColor}
 
 
-/*# sourceMappingURL=4e1a32acb434287ea07b.min.css.map*/
+/*# sourceMappingURL=a2a370dfacbab02dfffe.min.css.map*/

@@ -1,7 +1,7 @@
-.device-mobile .FsSearchPageUserPageGroup{padding:8px}.device-mobile .FsSearchPageUserPageGroup_pic{width:40px;height:40px}
-.FbSearchPagePeopleItem .BtnProfileActions{width:36px;padding:0;background-color:var(--md-bg-ccc);border-radius:50%;color:var(--color-333)}.FbSearchPagePeopleItem .BtnProfileActions svg{width:20px;height:20px}.FbSearchPagePeopleItem .BtnProfileActions .IconFriend{fill:currentColor}
+.FbSearchPagePhotoItem:hover .FbSearchPagePhotoItem_bg{background-color:var(--shadow-1)}.FbSearchPagePhotoItem_bg{background-image:linear-gradient(to top, var(--shadow-2), transparent, transparent, transparent, var(--shadow-1))}.device-mobile .FbSearchPagePhotoItem{font-size:13px}
+.FbSearchPagePhotoList_item{width:calc(33.33% - 4px)}.FbSearchPagePhotoList_item:nth-child(n+4){margin-top:6px}.device-mobile .FbSearchPagePhotoList{padding:8px 0}.device-mobile .FbSearchPagePhotoList_title{padding:0 8px;font-size:16px}
 .fb-search-page-right-contain{padding:32px}.fb-search-page-left-filter-item{margin-top:8px}.fb-search-page-right-item{margin-bottom:20px}.device-mobile .fb-search-page-left-filter-item{margin:0}.device-mobile .fb-search-page-right-contain{padding:0}.device-mobile .fb-search-page-right-item-contain{border-radius:0}.device-mobile .fb-search-page-right-item{margin-bottom:10px}
-.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
+.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_link-active .IconsInput_pic{stroke:none;fill:var(--white)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
 .SelectOneSearchInput_input::placeholder{color:var(--md-color-third);opacity:.5}
 .SelectOneSearchOptions{max-height:300px}
 
@@ -17,4 +17,4 @@
 .FbSearchPageLayout_no_results{height:calc(100vh - var(--height-header))}.device-mobile .FbSearchPageLayout_left{position:fixed;left:0;top:var(--height-header);z-index:var(--z-index-lv2);width:100%;height:calc(100% - var(--height-header));background:#fff;transform:translateX(100%);transition:all 250ms ease-in}.device-mobile .FbSearchPageLayout_left-open{transform:translateX(0%)}.device-mobile .FbSearchPageLayout_right{width:100%;padding-top:48px}.device-mobile .FbSearchPageLayout_right_head .IconsArrow_back-prev{stroke:currentColor}
 
 
-/*# sourceMappingURL=322c234400a9ade56d32.min.css.map*/
+/*# sourceMappingURL=f52c6ff64be79aef416d.min.css.map*/

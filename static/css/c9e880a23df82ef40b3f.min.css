@@ -1,5 +1,5 @@
 .fb-search-page-right-contain{padding:32px}.fb-search-page-left-filter-item{margin-top:8px}.fb-search-page-right-item{margin-bottom:20px}.device-mobile .fb-search-page-left-filter-item{margin:0}.device-mobile .fb-search-page-right-contain{padding:0}.device-mobile .fb-search-page-right-item-contain{border-radius:0}.device-mobile .fb-search-page-right-item{margin-bottom:10px}
-.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
+.FbSearchPageMenuItem_link{height:52px}.FbSearchPageMenuItem_link-active .FbSearchPageMenuItem_icon{background-color:var(--blue)}.FbSearchPageMenuItem_link-active .IconsInput_pic{stroke:none;fill:var(--white)}.FbSearchPageMenuItem_icon svg{width:20px;height:20px}.FbSearchPageMenuItem_filter{padding-left:32px}.device-mobile .FbSearchPageMenuItem_link{height:48px;border-radius:0}.device-mobile .FbSearchPageMenuItem_filter{padding-left:0px;background-color:var(--md-bg-fb)}
 .SelectOneSearchInput_input::placeholder{color:var(--md-color-third);opacity:.5}
 .SelectOneSearchOptions{max-height:300px}
 
@@ -47,4 +47,4 @@
 .device-mobile .FbScPagePostItem_head{padding:8px}.device-mobile .FbScPagePostItem_content{padding:8px}
 .FbSearchPageAll_not_fetched{height:400px}
 
-/*# sourceMappingURL=54396f75e8bffa4188ad.min.css.map*/
+/*# sourceMappingURL=c9e880a23df82ef40b3f.min.css.map*/

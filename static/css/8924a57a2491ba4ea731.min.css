@@ -44,7 +44,7 @@
 .StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
 .StoryCPEditPicMb_row{transition:all 200ms ease-in}.StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
 .StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
-.StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, #9900ff, purple)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
+.StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, var(--blue), #00dbdb)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
 .screen-story-menu-mobile{padding:1rem 0}
 
-/*# sourceMappingURL=d701907f0d2320ae9f06.min.css.map*/
+/*# sourceMappingURL=8924a57a2491ba4ea731.min.css.map*/

@@ -42,7 +42,7 @@
 .StoryCPEditPicActionsMb_redo_contain{transform:rotateY(180deg)}
 .StoryCPEditPicMb_row{transition:all 200ms ease-in}.StoryCPEditPicMb_toggle{flex-shrink:0;margin-right:5px;width:1.5rem;height:1.5rem;transition:all 200ms ease-in}.StoryCPEditPicMb_toggle-open{transform:rotate(-45deg)}.StoryCPEditPicMb_toggle-close{transform:rotate(0deg)}.StoryCPEditPicMb_right{transition:all 200ms ease-in}.StoryCPEditPicMb_right-show{width:100%}.StoryCPEditPicMb_right-hide{width:0%}
 .StoryCreatePicMb_edit_pic{bottom:5rem}.StoryCreatePicMb_rotate{transition:all 200ms ease-in}.StoryCreatePicMb_rotate-hide{transform:translateY(100%)}.StoryCreatePicMb_rotate-show{transform:translateY(0)}
-.StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, #9900ff, purple)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
+.StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, var(--blue), #00dbdb)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
 .screen-story-menu-mobile{padding:1rem 0}
 .StoryMenuPartPc_not_fetched{height:50px}
 .StoryMenuPcAction_close{margin-right:.5rem}.StoryMenuPcAction_close .IconsArrow_close{stroke:var(--danger)}.StoryMenuPcAction_toggle_contain{width:1.5rem;height:1.5rem}.StoryMenuPcAction_toggle_contain .IconsArrow_back-top{fill:var(--blue)}.StoryMenuPcAction_toggle_contain-show{transform:rotate(-90deg) scale(1.25, 0.9)}.StoryMenuPcAction_toggle_contain-hide{transform:rotate(90deg) scale(1.25, 0.9)}
@@ -112,4 +112,4 @@
 .NewFeed_right_contain{max-height:calc(100vh - var(--height-header))}
 @media(max-width: 1300px){.NewFeed_left,.NewFeed_right{width:250px}}@media(max-width: 1100px){.NewFeed_right{width:280px}.NewFeed_left{display:none}}@media(max-width: 850px){.NewFeed_row{justify-content:center}.NewFeed_right{display:none}}.device-mobile .NewFeed_center{width:100%;padding-top:10px}
 
-/*# sourceMappingURL=7e4e27798e0f442734de.min.css.map*/
+/*# sourceMappingURL=a8a82437569a9fe64f7b.min.css.map*/
