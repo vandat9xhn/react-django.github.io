@@ -9,7 +9,7 @@
 @media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
 .StoryShare .IconsPost_share{fill:var(--white)}
 .StoryReply{padding:0 .5rem;border:1px solid var(--md-bg-ccc);border-radius:25px}.StoryReply_textarea{max-height:12.5rem}.StoryReply_send{align-self:flex-end}.StoryReply_send_contain{width:2.25rem;height:2.25rem}
-.StoryLike .ListTypeLike{animation:none}.StoryLike .ListTypeLike_contain{background-color:transparent;box-shadow:none;border-radius:0}.StoryLike .IconsTypeLike{width:2rem;height:2rem}
+.StoryLike .ListTypeLike{animation:none}.StoryLike .ListTypeLike_row{padding:0;background-color:transparent;box-shadow:none;border-radius:0}.StoryLike .IconsTypeLike{width:2rem;height:2rem}
 .StoryItemFootPc{padding-top:10px;overflow-x:auto;overflow-y:hidden}.StoryItemFootPc_row{align-items:flex-end}.StoryItemFootPc_center{margin:0 .25rem;transition:all 250ms ease-in}.StoryItemFootPc_right{transition:all 250ms ease-in}.StoryItemFootPc_like{position:absolute;right:0;bottom:0;z-index:2;transition:all 250ms ease-in}.StoryItemFootPc_like-hide{transform:translateY(125%)}.StoryItemFootPc_like-show{transform:translateY(0%)}
 .StoryItemFootMobile{overflow-x:auto}.StoryItemFootMobile::-webkit-scrollbar{width:0;height:0}.StoryItemFootMobile_row{align-items:flex-end}.StoryItemFootMobile_center{min-width:250px;max-width:100%;margin:0 .25rem}
 
@@ -47,4 +47,4 @@
 .StoryBtnCreateMb{width:100%;padding:10px;background-image:linear-gradient(to right, var(--blue), #00dbdb)}.StoryBtnCreateMb_right{transform:rotate(45deg)}
 .screen-story-menu-mobile{padding:1rem 0}
 
-/*# sourceMappingURL=8924a57a2491ba4ea731.min.css.map*/
+/*# sourceMappingURL=9f31b6411afa8527d3e7.min.css.map*/
