@@ -7,10 +7,10 @@
 .ProfileLayoutAboutPreviewItem svg{width:20px;height:20px}
 .OverlapPics_item{position:relative;width:24px;height:24px}.OverlapPics_item_img{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:36px;height:36px;border:2px solid var(--white);border-radius:50%}
 .FPHomeAbout_item{padding:8px 0}
-.FPHomeLeft_pic{margin:16px 0}.device-mobile .FPHomeLeft_preview{padding-bottom:0}.device-mobile .FPHomeLeft_pic{margin:0;border-top:1px solid var(--md-bg-blur);border-bottom:1px solid var(--md-bg-blur)}
 .PrLayoutHomePreviewVideo_thumbnail{padding-top:56%}
 .PrLayoutHomePreviewPics_item{width:calc(33.33% - 4px)}.PrLayoutHomePreviewPics_item:nth-child(3n+1),.PrLayoutHomePreviewPics_item:nth-child(3n+2){margin-right:6px}.PrLayoutHomePreviewPics_item:nth-child(n+4){margin-top:6px}
+.FPHomeLeft_pic{margin:16px 0}.device-mobile .FPHomeLeft_preview{padding-bottom:0}.device-mobile .FPHomeLeft_pic{margin:0;border-top:1px solid var(--md-bg-blur);border-bottom:1px solid var(--md-bg-blur)}
 
 @media(max-width: 900px){.FbPageHome_row{display:block}.FbPageHome_left{margin:auto auto 15px;width:500px;max-width:100%}.FbPageHome_right{margin:auto}}
 
-/*# sourceMappingURL=6cf5db4b0e0baeb52625.min.css.map*/
+/*# sourceMappingURL=ffdfe9a011447d373233.min.css.map*/
