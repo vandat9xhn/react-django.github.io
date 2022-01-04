@@ -1,0 +1,21 @@
+.nav-active .IconSetting{stroke:var(--blue);fill:var(--blue)}.nav-active .IconSetting_circle{fill:var(--md-bg-fb-active)}
+.ScreenBlur{min-height:100vh;padding:5rem 0}.ScreenBlur_center{padding:0}.ScreenBlur_contain{transition:all 500ms ease}.ScreenBlur_contain-waiting{transform:scale(0)}.ScreenBlur_contain-scale{transform:scale(0);animation:screen-contain-scale 500ms ease forwards}.ScreenBlur_waiting .ScreenBlurFetching{background-color:transparent}.ScreenBlur_body_contain{min-height:5rem}.ScreenBlur_list{margin:.5rem 0 0 0;padding-left:1.5rem;list-style-type:circle}.ScreenBlur_item{margin-bottom:.5rem}.ScreenBlur_item::marker{font-weight:500}.ScreenBlurItem{padding:.25rem}.ScreenBlurItem_time{font-size:12px;font-style:italic;font-weight:bold}@keyframes screen-contain-scale{to{transform:scale(1)}}@media(max-width: 400px){.ScreenBlur{padding:0}.ScreenBlur_contain-normal{min-height:100vh}}
+.ScreenPermissionItem{padding:.5rem}.ScreenPermissionItem_active{background-color:var(--md-bg-fb-active)}.ScreenPermissionItem_right{margin-left:.5rem}.ScreenPermissionItem_right_icon{margin-right:.25rem}
+.ScreenPermission .IconsAction_add-friend_plus{stroke:none}
+.PermissionDiv_right{margin-left:.25rem}
+.PermissionEditDiv_left{margin-right:.25rem}.PermissionEditDiv_right-icon{width:2rem;height:2rem}
+.AboutRowItem_left .FlexDiv_right{word-break:break-word}
+.AboutRowItemEdit{padding-bottom:1rem}.AboutRowItemEdit_edit{margin-top:1rem}
+.InputNotValidPass{position:relative}.InputNotValidPass_eye{position:absolute;top:50%;right:10px;transform:translateY(-50%)}.InputNotValidPass_eye_contain{padding:0;cursor:pointer}
+.PfAboutConfirm{padding-top:1rem}.PfAboutConfirm_right_btn{margin:0 5px;padding:8px 12px;border-radius:8px;border:none;cursor:pointer}
+
+
+.AddDiv{color:var(--blue)}.AddDiv:hover{text-decoration:1px solid underline}.AddDiv .IconDiv_left{display:flex;justify-content:center;align-items:center;width:1.5rem;height:1.5rem;border-radius:50%;border:1px solid var(--blue);transform:rotate(45deg)}.AddDiv .IconsArrow_close{stroke:var(--blue)}
+.PfAbGenderEdit .RadioItemCustom{padding:.5rem}
+
+.InputSelectedItem{padding:2px 0 2px 8px}.InputSelectedItem_row{display:inline-flex;align-items:center}.InputSelectedItem_icon{width:28px;height:28px}.InputSelectedItem_icon .IconsArrow_close{stroke:var(--blue)}
+.InputSelect_head{border:1px solid var(--md-color-secondary);cursor:text}.InputSelect_head-active{border:1px solid var(--blue)}.InputSelect_head-item{max-width:95%;margin:4px}.InputSelect_head-input{min-width:80px;max-width:100%;border:none}.InputSelect_head-input:focus{outline:none}.InputSelect_placeholder-active{color:var(--blue)}.InputSelect_foot{position:absolute;left:0;top:100%;width:100%}.InputSelect_input_length{height:0;max-width:100%;overflow:hidden;white-space:nowrap;opacity:0}
+.InputDate_item:not(:last-child){margin-right:.5rem}.InputDate_item_contain select{min-width:3rem;border-radius:5px;background-color:var(--md-bg-fb)}.InputDate_item_contain select:focus{outline:none}
+
+
+/*# sourceMappingURL=95682a8508baabbe408f.min.css.map*/

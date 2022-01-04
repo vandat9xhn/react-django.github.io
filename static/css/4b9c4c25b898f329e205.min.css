@@ -1,7 +1,0 @@
-.ProfilePhotoMain_item{width:20%}@media(max-width: 700px){.ProfilePhotoMain_item{width:25%}}@media(max-width: 500px){.ProfilePhotoMain_item{width:33.3%}}@media(max-width: 300px){.ProfilePhotoMain_item{width:50%}}@media(max-width: 150px){.ProfilePhotoMain_item{width:100%}}
-.PicSquareDiv{width:100%;padding-top:100%}.PicSquareDiv img,.PicSquareDiv video{width:100%;height:100%;border-radius:8px;object-fit:cover}
-.ProfilePhotoAlbumItem{padding:0 5px 12px;cursor:pointer}.ProfilePhotoAlbumItem:hover{text-decoration:1px underline solid}
-.ProfilePhotoItem{padding:2px}
-.ProfilePhotoAlbum_current{border-top:2px solid var(--md-bg-ccc)}
-
-/*# sourceMappingURL=4b9c4c25b898f329e205.min.css.map*/
