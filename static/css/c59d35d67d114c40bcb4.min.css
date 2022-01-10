@@ -30,6 +30,6 @@
 .FsRowSortItemMb{border-right:1px solid var(--md-bg-blur)}
 .FsRowSortMb_item .IconsArrow_next{stroke:currentColor}.FsRowSortMb_item-active{border-bottom:2px solid currentColor}
 
-.FashionSearch-mobile .FashionSearch_row{display:block;margin-top:0px}.FashionSearch-mobile .FashionSearch_filter{position:fixed;top:0;left:0;z-index:var(--z-index-lv5);margin:0;width:100vw;height:100vh;background-color:var(--shadow-5);transition:all 250ms ease}.FashionSearch-mobile .FashionSearch_filter-open{transform:translateX(0%);opacity:1}.FashionSearch-mobile .FashionSearch_filter-close{transform:translateX(100%);opacity:0}.FashionSearch-mobile .FashionSearch_filter_icon_close{position:absolute;top:5px;right:5px;z-index:1}.FashionSearch-mobile .FsSearchFilter{position:absolute;right:0;top:0;width:300px;max-width:100%;height:100%;padding:10px;overflow-y:auto;background-color:var(--md-bg-primary)}
+.FashionSearch-mobile .FashionSearch_row{display:block;margin-top:0px}.FashionSearch-mobile .FashionSearch_filter{position:fixed;top:0;left:0;z-index:var(--z-index-lv5);margin:0;width:100vw;height:100vh;transition:all 250ms ease}.FashionSearch-mobile .FashionSearch_filter-open{transform:translateX(0%);opacity:1}.FashionSearch-mobile .FashionSearch_filter-close{transform:translateX(100%);opacity:0}.FashionSearch-mobile .FashionSearch_filter_icon_close{position:absolute;top:5px;right:5px;z-index:1}.FashionSearch-mobile .FsSearchFilter{position:absolute;right:0;top:0;width:300px;max-width:100%;height:100%;padding:10px;overflow-y:auto;background-color:var(--md-bg-primary)}
 
-/*# sourceMappingURL=f3f9bfafaeef7878ca87.min.css.map*/
+/*# sourceMappingURL=c59d35d67d114c40bcb4.min.css.map*/
