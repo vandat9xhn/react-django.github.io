@@ -1,5 +1,5 @@
 .gr-page-hr{border-bottom-color:transparent;border-top-color:var(--shadow-1)}
-.ProfileLayoutCover_bg{width:80%;height:50%}.ProfileLayoutCover_bg_contain{background-repeat:no-repeat;background-size:100% 100%;filter:blur(100px)}.ProfileLayoutCover_contain{width:950px;max-width:100%;padding-top:32%;background-image:linear-gradient(to top, var(--shadow-2), transparent 30%, transparent);border-bottom-left-radius:10px;border-bottom-right-radius:10px}.ProfileLayoutCover_img{border-bottom-left-radius:10px;border-bottom-right-radius:10px}@media(max-width: 500px){.ProfileLayoutCover_contain{padding-top:50%}}
+.ProfileLayoutCover_bg{width:80%;height:50%}.ProfileLayoutCover_bg_contain{background-repeat:no-repeat;background-size:100% 100%;filter:blur(100px)}.ProfileLayoutCover_contain{width:940px;max-width:100%}.ProfileLayoutCover_cover{padding-top:37%;background-image:linear-gradient(to top, var(--shadow-2), transparent 30%, transparent);border-bottom-left-radius:10px;border-bottom-right-radius:10px}.ProfileLayoutCover_img{border-bottom-left-radius:10px;border-bottom-right-radius:10px}@media(max-width: 500px){.ProfileLayoutCover_cover{padding-top:50%}}
 .ActionPreviewPagePc_tick .PageTickBtn{width:18px;height:18px}
 .PageTick .ActionsHoldPc_title{cursor:default}.PageTickBtn{width:12px;height:12px}
 .GroupPageAffiliation{border-bottom-left-radius:10px;border-bottom-right-radius:10px}
@@ -17,4 +17,4 @@
 .GroupPageNav_item{height:100%}
 
 
-/*# sourceMappingURL=a6044adad22ec7fc448e.min.css.map*/
+/*# sourceMappingURL=3efe2ab2b686ee5842c0.min.css.map*/
