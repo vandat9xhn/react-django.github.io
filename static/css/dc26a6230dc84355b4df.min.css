@@ -5,5 +5,6 @@
 
 .LeftBarNavItem svg{width:18px;height:18px}.LeftBarNavItem-active .LeftBarNavItem_icon{color:#fff;background-color:var(--blue)}
 .WatchLayoutLeftManageItem_right svg{width:16px;height:16px}.WatchLayoutLeftManageItem_icon{display:flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;cursor:pointer}.WatchLayoutLeftManageItem_icon:hover{background-color:var(--md-bg-blur)}.WatchLayoutLeftManageItem_bell-inactive{position:relative}.WatchLayoutLeftManageItem_bell-inactive::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%, -50%) rotate(-45deg);width:1px;height:75%;background-color:var(--md-bg-blur)}
+.device-mobile .WatchLayoutLeft{background-color:var(--md-bg-primary);height:calc(100vh - var(--height-header))}
 
-/*# sourceMappingURL=75fbf64bc078481325d0.min.css.map*/
+/*# sourceMappingURL=dc26a6230dc84355b4df.min.css.map*/
