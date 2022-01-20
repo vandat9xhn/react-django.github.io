@@ -1,2 +1,0 @@
-(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[525],{60525:(e,u,t)=>{"use strict";Object.defineProperty(u,"__esModule",{value:!0});var l=n(t(67294));function n(e){return e&&e.__esModule?e:{default:e}}function a(e){return l.default.createElement("div",null)}n(t(45697)),a.propTypes={},u.default=a}}]);
-//# sourceMappingURL=525.js.map
