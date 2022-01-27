@@ -1,0 +1,14 @@
+.device-mobile .LeftBarTitleSettings{padding:10px 0}.device-mobile .LeftBarTitleSettings_title{font-size:20px}
+.FbSearchInput-open{border-top-left-radius:8px;border-top-right-radius:8px;box-shadow:0px 0px 4px var(--shadow-2)}.FbSearchInput_list{max-height:400px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;box-shadow:0px 2px 4px var(--shadow-2)}
+.group-settings-item-title{line-height:20px;font-weight:600}.group-settings-item-info{line-height:16px;font-weight:400;font-size:12px;color:var(--md-color-secondary)}
+.FbSettingsItemLayout svg{width:20px;height:20px}
+
+
+
+.LeftBarNavItem svg{width:18px;height:18px}.LeftBarNavItem-active .LeftBarNavItem_icon{color:#fff;background-color:var(--blue)}
+.GroupLayoutLeftNav_item svg{width:18px;height:18px}.GroupLayoutLeftNav_item-active .GroupLayoutLeftNav_icon{color:#fff;background-color:var(--blue)}
+.GroupLeftGroupList_fake{height:200px}
+
+.GroupHomeMb .GroupLayoutLeftHead_head{padding:0 8px}.GroupHomeMb .GroupLayoutLeftHead_title{font-size:20px}.GroupHomeMb .GroupLayoutLeftHead_search .FbSearchInputElm{padding:0 8px}.GroupHomeMb .GroupLayoutLeftNav{padding:8px 0}.GroupHomeMb .GroupLeftGroupList{margin:0}.GroupHomeMb .GroupLeftGroupItem img{width:48px;height:48px}
+
+/*# sourceMappingURL=17aab87f65c3a41ac8d9.min.css.map*/

@@ -1,0 +1,14 @@
+.device-mobile .PrPtAnAbInfoHead_title{font-size:17px;font-weight:600}
+.PrPtAnAbInfoContent_permission svg{width:13px;height:13px}.PrPtAnAbInfoContent_permission-your:hover svg{border-radius:50%;background-color:var(--bg-s-through);box-shadow:0 0 0 4px var(--bg-s-through)}.device-mobile .PrPtAnAbInfoContent{padding:0}
+.device-mobile .PrPtAnAlbumInfo{padding:8px}
+.ActionPreviewPagePc_tick .PageTickBtn{width:18px;height:18px}
+.PageTick .ActionsHoldPc_title{cursor:default}.PageTickBtn{width:12px;height:12px}
+.PrPtAnAlbumFeed .Post{width:100%}.PrPtAnAlbumFeed_add{height:40px}
+.ProfilePhotoMain_item{width:20%}@media(max-width: 700px){.ProfilePhotoMain_item{width:25%}}@media(max-width: 500px){.ProfilePhotoMain_item{width:33.3%}}@media(max-width: 300px){.ProfilePhotoMain_item{width:50%}}@media(max-width: 150px){.ProfilePhotoMain_item{width:100%}}
+.PicSquareDiv img,.PicSquareDiv video{width:100%;height:100%;object-fit:cover}
+.ProfilePhotoItem{padding:4px}
+.ProfilePhotoCreateBtnLink:hover .PrPtAnAbGridCreate_title{text-decoration:2px underline var(--md-color)}
+.device-mobile .PrPtAnAlbumGrid{padding:0}
+.ProfilePhotoAnAlbum_info{margin-bottom:20px}.ProfilePhotoAnAlbum_feed{width:775px}.device-mobile .ProfilePhotoAnAlbum_info,.device-mobile .ProfilePhotoAnAlbum_grid{padding:0}
+
+/*# sourceMappingURL=b1eb5a3068f18f77003d.min.css.map*/
