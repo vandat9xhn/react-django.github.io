@@ -1,2 +1,0 @@
-(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[266,1809],{46071:(e,a,l)=>{"use strict";Object.defineProperty(a,"__esModule",{value:!0});var t=n(l(67294));function n(e){return e&&e.__esModule?e:{default:e}}function u(e){var a=e.title;return t.default.createElement("span",null,t.default.createElement("span",{className:"inline-block padding-4px brs-50 bg-blue"}),t.default.createElement("span",{className:"margin-left-5px"},a))}n(l(45697)),u.propTypes={},a.default=u}}]);
-//# sourceMappingURL=266.js.map

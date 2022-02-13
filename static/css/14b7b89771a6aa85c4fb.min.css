@@ -1,0 +1,11 @@
+.nav-active .IconSetting{stroke:var(--blue);fill:var(--blue)}.nav-active .IconSetting_circle{fill:var(--md-bg-fb-active)}
+.AddNewPost{box-shadow:0 1px 4px var(--shadow-1)}.AddNewPost_title{border-radius:15px}.AddNewPost_foot_part{width:33%}@media(max-width: 500px){.AddNewPost{padding:0;border-radius:0}}.device-mobile .AddNewPost_head{padding:0 0 0 10px}.device-mobile .AddNewPost_head img{width:35px;height:35px}.device-mobile .AddNewPost_title{margin-left:0;background-color:transparent;border-radius:0;font-size:15px}.device-mobile .AddNewPost_foot{margin-top:0;padding:5px 0}.device-mobile .AddNewPost_foot_part{padding:3px 0}.device-mobile .AddNewPost_foot_part:not(:first-child){border-left:1px solid var(--md-bg-blur)}.AddNewPost_photo{border-left:1px solid var(--md-bg-blur)}
+.GroupPageDiscussLeft_skeleton{height:500px}
+.GroupPageDiscussRight_part_contain{padding:20px;border-radius:8px;background-color:var(--md-bg-primary);box-shadow:var(--box-shadow-1)}.GroupPageDiscussRight_part_title{font-size:17px;font-weight:600}.device-mobile .GroupPageDiscussRight_part_contain{padding:8px;border-radius:0}.device-mobile .GroupPageDiscussRight_part_title{font-size:16px}
+.GroupPageAboutPart svg{width:20px;height:20px}
+.GPDMedia_item{width:calc((100% - 4px) / 2)}
+.device-mobile .GroupPageDiscussRight_contain{padding-bottom:16px}
+.device-mobile .GroupPageDiscuss_row{flex-direction:column-reverse}.device-mobile .GroupPageDiscuss_left{margin-right:0;width:100%}
+@media(max-width: 900px){.GroupPageDiscuss_row{display:block}.GroupPageDiscuss_right{margin:auto auto 15px;width:500px;max-width:100%}.GroupPageDiscuss_left{margin:auto}}
+
+/*# sourceMappingURL=14b7b89771a6aa85c4fb.min.css.map*/
