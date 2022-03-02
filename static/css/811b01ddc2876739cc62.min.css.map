@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://my_webpack/./src/pages/fb_menu/_main/FbMenu.scss"],"names":[],"mappings":"AAAA,QACI,8C","file":"static/css/811b01ddc2876739cc62.min.css","sourcesContent":[".FbMenu {\r\n    min-height: calc(100vh - var(--height-header));\r\n}\r\n"],"sourceRoot":""}
