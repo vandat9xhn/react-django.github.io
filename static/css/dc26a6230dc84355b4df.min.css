@@ -1,0 +1,10 @@
+.FbSearchInput-open{border-top-left-radius:8px;border-top-right-radius:8px;box-shadow:0px 0px 4px var(--shadow-2)}.FbSearchInput_list{max-height:400px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;box-shadow:0px 2px 4px var(--shadow-2)}
+.nav-active .IconSetting{stroke:var(--blue);fill:var(--blue)}.nav-active .IconSetting_circle{fill:var(--md-bg-fb-active)}
+.device-mobile .LeftBarTitleSettings{padding:10px 0}.device-mobile .LeftBarTitleSettings_title{font-size:20px}
+.FbSettingsItemLayout svg{width:20px;height:20px}
+
+.LeftBarNavItem svg{width:18px;height:18px}.LeftBarNavItem-active .LeftBarNavItem_icon{color:#fff;background-color:var(--blue)}
+.WatchLayoutLeftManageItem_right svg{width:16px;height:16px}.WatchLayoutLeftManageItem_icon{display:flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;cursor:pointer}.WatchLayoutLeftManageItem_icon:hover{background-color:var(--md-bg-blur)}.WatchLayoutLeftManageItem_bell-inactive{position:relative}.WatchLayoutLeftManageItem_bell-inactive::after{content:"";position:absolute;left:50%;top:50%;transform:translate(-50%, -50%) rotate(-45deg);width:1px;height:75%;background-color:var(--md-bg-blur)}
+.device-mobile .WatchLayoutLeft{background-color:var(--md-bg-primary);height:calc(100vh - var(--height-header))}
+
+/*# sourceMappingURL=dc26a6230dc84355b4df.min.css.map*/

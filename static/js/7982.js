@@ -1,0 +1,2 @@
+(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[7982],{97982:(e,t,u)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=u(67294),c=s(a);function s(e){return e&&e.__esModule?e:{default:e}}function n(){return(0,a.useEffect)((function(){document.title="Laptop"}),[]),c.default.createElement("div",{className:"Laptops"})}s(u(45697)),u(7973),n.propTypes={},t.default=n},7973:(e,t,u)=>{"use strict";u.r(t)}}]);
+//# sourceMappingURL=7982.js.map

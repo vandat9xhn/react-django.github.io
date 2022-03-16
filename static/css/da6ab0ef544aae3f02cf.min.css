@@ -1,0 +1,6 @@
+.gr-page-media-item{width:20%}@media(max-width: 1000px){.device-mobile .gr-page-media-item{width:33.33%}}@media(max-width: 500px){.device-mobile .gr-page-media-item{width:50%}}
+.GPMediaHead_btn{padding-left:12px;padding-right:12px;border-radius:6px;font-weight:600;color:var(--blue)}.GPMediaHead_btn:hover{background-color:var(--bg-s-through)}.GPMediaHead_btn::after{content:none}.device-mobile .GPMediaHead_row{display:block}.device-mobile .GPMediaHead_title{margin-bottom:8px}
+.GPMediaNav_item-active{color:var(--blue)}.GPMediaNav_item-active+.GPMediaNav_item_bottom{display:block}
+.device-mobile .GroupPageMedia_contain{padding:8px}
+
+/*# sourceMappingURL=da6ab0ef544aae3f02cf.min.css.map*/

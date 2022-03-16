@@ -1,0 +1,6 @@
+.AboutLeft_item{margin:4px 0}
+.AboutRight_fallback{min-height:16rem;max-height:100%}
+.ProfileAbout{margin:0 auto 1.5rem;max-width:100%}.ProfileAbout_left{width:300px;max-width:100%;border-right:2px solid var(--md-bg-ccc)}.ProfileAbout_right{width:600px;max-width:100%}.ProfileAbout_right .InputNotValid_placeholder{background-color:var(--md-bg-primary)}@media(max-width: 1000px){.ProfileAbout{margin-bottom:0}.ProfileAbout_row{display:block}.ProfileAbout_left{margin:auto;width:600px;padding:0;border-left:none;border-bottom:2px solid var(--md-bg-ccc)}.ProfileAbout_right{margin:auto;min-height:15rem;padding:8px}}
+.PfAbout_part:not(:last-child){padding-bottom:20px}.PfAbout_title{margin-bottom:15px;line-height:20px;font-size:17px;font-weight:600;color:var(--color-333)}.PfAbout_add:not(:last-child){margin-bottom:15px}.PfAbout_input:not(:last-child){margin-bottom:15px}.PfAbout_edit{margin-top:15px}.device-mobile .PfAbout_title{font-size:15px}
+
+/*# sourceMappingURL=d7a1be7876f14f43f4d8.min.css.map*/
