@@ -1,0 +1,6 @@
+@media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
+.ShortVideoInteract_item_btn{width:40px;height:40px;padding:0;border-radius:50%}.ShortVideoInteract_item_btn svg{width:20px;height:20px}.device-mobile .ShortVideoInteract{padding-bottom:60px;opacity:.75}.device-mobile .ShortVideoInteract_item_btn{width:36px;height:36px}.device-mobile .ShortVideoInteract_item_btn svg{width:16px;height:16px}
+
+.ShortVideoFullPc{height:100vh}.ShortVideoFullPc_bg{background-repeat:no-repeat;background-size:cover;filter:blur(100px)}.ShortVideoFullPc_video{width:calc((100vh - 20px) * 9 / 15);height:100%}.device-mobile .ShortVideoFullPc_contain{padding:0}.device-mobile .ShortVideoFullPc_video{width:100%}
+
+/*# sourceMappingURL=d3e387779da780ab2cb3.min.css.map*/

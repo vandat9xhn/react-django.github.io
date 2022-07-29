@@ -1,0 +1,8 @@
+.SwipeYFull_item{width:100%;height:100%}
+
+@media(max-width: var(--sm)){.IconsPost{width:1.2rem;height:1.2rem}}
+.ShortVideoInteract_item_btn{width:40px;height:40px;padding:0;border-radius:50%}.ShortVideoInteract_item_btn svg{width:20px;height:20px}.device-mobile .ShortVideoInteract{padding-bottom:60px;opacity:.75}.device-mobile .ShortVideoInteract_item_btn{width:36px;height:36px}.device-mobile .ShortVideoInteract_item_btn svg{width:16px;height:16px}
+.ShortVideoFullMb{border-bottom:1px solid gray}
+.ShortVideoFullPgMb{height:100vh}.ShortVideoFullPgMb .VirtualScroll,.ShortVideoFullPgMb .VirtualScroll_contain{height:100%}
+
+/*# sourceMappingURL=091bb215e09199d8ee3a.min.css.map*/

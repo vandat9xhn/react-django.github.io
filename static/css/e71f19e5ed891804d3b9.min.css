@@ -1,0 +1,18 @@
+.device-mobile .LeftBarTitleSettings{padding:10px 0}.device-mobile .LeftBarTitleSettings_title{font-size:20px}
+.FbSearchInput-open{border-top-left-radius:8px;border-top-right-radius:8px;box-shadow:0px 0px 4px var(--shadow-2)}.FbSearchInput_list{max-height:400px;border-bottom-left-radius:8px;border-bottom-right-radius:8px;box-shadow:0px 2px 4px var(--shadow-2)}
+.group-settings-item-title{line-height:20px;font-weight:600}.group-settings-item-info{line-height:16px;font-weight:400;font-size:12px;color:var(--md-color-secondary)}
+.FbSettingsItemLayout svg{width:20px;height:20px}
+
+
+
+.LeftBarNavItem svg{width:18px;height:18px}.LeftBarNavItem-active .LeftBarNavItem_icon{color:#fff;background-color:var(--blue)}
+.GroupLayoutLeftNav_item svg{width:18px;height:18px}.GroupLayoutLeftNav_item-active .GroupLayoutLeftNav_icon{color:#fff;background-color:var(--blue)}
+.GroupLeftGroupList_fake{height:200px}
+
+.CardsRowFitContain .VirtualScroll{height:100%}.CardsRowFitContain .VirtualScroll_contain{height:100%}
+
+.GroupRowCardsFit .NextPrevDiv_next{transform:translate(50%, -50%);z-index:2}.GroupRowCardsFit .NextPrevDiv_prev{transform:translate(-50%, -50%);z-index:2}.GroupRowCardsFit .NextPrevDiv_icon-circle{width:36px;height:36px}.GroupRowCardsFit .BtnNexPrev{border:1px solid var(--md-bg-blur)}
+.GroupFeedSuggested_body{padding-left:32px;padding-right:32px}.GroupFeedSuggested_body .NextPrevDiv_next{transform:translate(50%, -50%);z-index:2}.GroupFeedSuggested_body .NextPrevDiv_prev{transform:translate(-50%, -50%);z-index:2}.GroupFeedSuggested_body .NextPrevDiv_icon-circle{width:36px;height:36px}.GroupFeedSuggested_body .BtnNexPrev{border:1px solid var(--md-bg-blur)}
+
+
+/*# sourceMappingURL=e71f19e5ed891804d3b9.min.css.map*/
